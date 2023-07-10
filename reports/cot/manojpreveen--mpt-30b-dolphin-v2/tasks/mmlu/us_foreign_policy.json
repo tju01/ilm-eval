@@ -1,0 +1,75 @@
+{
+    "score": 0.7,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "What is the structure of the United Nations Security Council?\n\n(A) 5 permanent members with veto power, 10 rotating members with no veto power\n(B) 5 permanent members and 10 rotating members, all with veto power\n(C) 10 permanent members with veto power, and 5 rotating members without veto power\n(D) 15 permanent members with veto power",
+            "correct_answer": 0,
+            "model_answer": "The structure of the United Nations Security Council is (A) 5 permanent members with veto power, 10 rotating members with no veto power. This means that there are five permanent members of the Security Council who have the power to veto any decision made by the council. The other ten members are rotating members who do not have veto power. This structure was established in the United Nations Charter in 1945, and it has remained unchanged since then. ###",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "What was the significance of the Gulf of Tonkin resolution?\n\n(A) It allowed the US to intensify its involvement in Vietnam\n(B) It illustrated the influence of public opinion on US foreign policy\n(C) It enhanced Congressional control over the Vietnam War\n(D) It curtailed US involvement in Vietnam",
+            "correct_answer": 0,
+            "model_answer": "The Gulf of Tonkin resolution was a significant event in the Vietnam War. On August 2, 1964, the US Congress passed the Gulf of Tonkin Resolution, which authorized the military use of force in Vietnam, Laos, and Cambodia. This resolution was passed in response to alleged attacks on US Navy vessels by North Vietnamese forces in the Gulf of Tonkin. However, it was later revealed that the alleged attacks were not a result of North Vietnamese aggression, but rather a result of mistaken identity or miscommunication. \n\nThe significance of the Gulf of Tonkin Resolution was that it allowed the US to intensify its involvement in Vietnam. The resolution gave the President broad powers to escalate the war in Vietnam, and it effectively eliminated any restrictions on US military activity in Southeast Asia. The Gulf of Tonkin Resolution played a crucial role in the decision to escalate the Vietnam War, as it provided the legal basis for the US to increase its military commitment in the region. \n\nTherefore, the correct answer is (A) It allowed the US to intensify its involvement in Vietnam. ###",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "Which is not a nonstate actor that poses a threat to the United States?\n\n(A) Terrorists\n(B) Organized crime\n(C) Drug traffickers\n(D) China",
+            "correct_answer": 3,
+            "model_answer": "The question is asking for something that is a nonstate actor and poses a threat to the United States, but is not listed among the options. The options are (A) Terrorists, (B) Organized crime, (C) Drug traffickers, and (D) China. \n\nFirst, we can eliminate option (D) China because it is a state actor, not a nonstate actor. \n\nNext, we can eliminate option (D) Terrorists because it is explicitly listed as a nonstate actor that poses a threat to the United States. \n\nTherefore, the answer is either (B) Organized crime or (C) Drug traffickers. However, both of these options are nonstate actors that pose a threat to the United States. \n\nHence, the answer is (P) There is not a single correct answer as both (B) Organized crime and (C) Drug traffickers are nonstate actors that pose a threat to the United States. ###",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "Who was the first American president to visit communist China?\n\n(A) Richard Nixon\n(B) George H. W. Bush\n(C) Jimmy Carter\n(D) Ronald Reagan",
+            "correct_answer": 0,
+            "model_answer": "The first step to answering this question is to understand what is being asked. The question is asking for the name of the first American president to visit communism China. \n\nTo answer this question, we need to research the historical records of American presidents and their visits to China. We can do this by searching for information on presidential visits to China and finding out which president was the first to visit.\n\nAfter conducting research, we can see that the first American president to visit China was Richard Nixon. Nixon visited China in 1971, which was a historic visit that opened up diplomatic relations between the United States and China.\n\nTherefore, the answer to the question is (A) Richard Nixon. ###",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "The Strategic Arms Reduction Treaty was the first accord\n\n(A) on nuclear weapons signed between the United States and the Soviet Union.\n(B) cutting conventional arms in Europe.\n(C) to be rejected by the U.S. Senate.\n(D) mandating the elimination of many long-range nuclear missiles.",
+            "correct_answer": 3,
+            "model_answer": "The answer is (A) on nuclear weapons signed between the United States and the Soviet Union. \n\nThe Strategic Arms Reduction Treaty (START) is an international treaty between the United States and the Soviet Union that limits nuclear weapons. The treaty was first signed in 1991, following a series of arms control agreements between the two superpowers. The treaty was signed to reduce the number of nuclear weapons and to limit their performance. Therefore, option (A) is the correct answer.\n\nOption (B) cutting conventional arms in Europe is not related to the Strategic Arms Reduction Treaty. Option (C) to be rejected by the U.S. Senate is a statement about the history of the treaty, but it is not a characteristic of the treaty itself. Option (D) mandating the elimination of many long-range nuclear missiles is partially correct, but it does not capture the full scope of the treaty, which also covers short-range missiles and other nuclear weapons. ###",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "What were the implications of the Cold War for American exceptionalism?\n\n(A) It ended the influence of American exceptionalism entirely\n(B) Exceptionalism was enhanced by America's status as the 'leader of the free world'\n(C) The extension of American power globally challenged core assumptions of exceptionalism\n(D) Both b and c",
+            "correct_answer": 3,
+            "model_answer": "The Cold War had significant implications for American exceptionalism. While it is not accurate to say that American exceptionalism was entirely ended, it was certainly challenged by the extension of American power globally. Therefore, option (C) is correct. However, at the same time, America's status as the 'leader of the free world' did enhance exceptionalism, making option (B) also correct. Therefore, the answer is (D) Both b and c. ###",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "Why did Franklin D. Roosevelt initially favour an 'isolationist' stance on the part of the US during the 1930s?\n\n(A) He believed that internal reform rather than international negotiation was the key to economic regeneration of the US\n(B) He believed that German domination of Europe would be in US interests\n(C) He always favoured isolationism\n(D) All of the above",
+            "correct_answer": 0,
+            "model_answer": "The correct answer is (A) He believed that internal reform rather than international negotiation was the key to economic regeneration of the US. \n\nDuring the 1930s, Franklin D. Roosevelt, also known as FDR, was facing significant economic challenges in the United States. The Great Depression had caused widespread unemployment and economic instability. In order to address these issues, FDR believed that the focus should be on internal reform within the US economy rather than on international negotiations or involvement in other countries' affairs. \n\nHe believed that through domestic measures such as the New Deal, which aimed to implement a series of reforms to stimulate economic growth and provide relief to the unemployed, the US could regain its economic strength and stability. This stance of focusing on internal reform can be seen as a preference for an isolationist approach, as it suggests that the US should prioritize its own interests and concerns rather than actively engaging in foreign affairs.\n\nTherefore, the correct answer is (A). ###",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "What was the 'New Populism'?\n\n(A) A strand of neo-isolationist sentiment\n(B) A strand of internationalist sentiment\n(C) An expression of American cultural superiority\n(D) Increased incorporation of public opinion in foreign policy making",
+            "correct_answer": 0,
+            "model_answer": "The New Populism was a political movement that emerged in the United States during the 1990s and early 2000s. It was characterized by a shift away from the traditional political parties and towards populist, anti-elite sentiment. The New Populism was also associated with a focus on domestic issues such as jobs, healthcare, and education, rather than foreign policy. Therefore, the answer is (A) None of the above. The New Populism was not a strand of neo-isolationist sentiment, internationalist sentiment, or an expression of American cultural superiority. It increased incorporation of public opinion in foreign policy making, but this is not the definition of the New Populism. ###",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "How did World War I shift economic power from Europe to the United States?\n\n(A) The war reduced European population levels below that of the United States\n(B) The United States seized German resources after the war\n(C) European countries paid the United States for assistance\n(D) The United States became a creditor country and financial centre, with European war spending boosting the US economy",
+            "correct_answer": 3,
+            "model_answer": "The answer to the question \"How did World War I shift economic power from Europe to the United States?\" is (D) The United States became a creditor country and financial centre, with European war spending boosting the US economy.\n\nDuring World War I, European countries were involved in the war effort and spent a significant amount of money on military operations. As a result, they amassed large debts and needed financial assistance to continue the war effort. The United States, on the other hand, was not directly involved in the war and had a larger economy than any European country. The United States provided financial assistance in the form of loans to European countries, which allowed them to continue the war effort. This financial assistance helped to shift economic power from Europe to the United States, making it a creditor country and financial centre. ###",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "In American government, the power to declare war rests with\n\n(A) the president of the United States.\n(B) the secretary of defense.\n(C) the chairman of the Joint Chiefs of Staff.\n(D) Congress.",
+            "correct_answer": 3,
+            "model_answer": "The power to declare war in American government resides with Congress. \n\nMy reasoning is as follows: The Constitution of the United States establishes the structure of the federal government and outlines the powers and limitations of each branch of government. According to the Constitution, only Congress has the power to declare war. The President, who is responsible for conducting foreign policy and representing the United States on the world stage, can propose a declaration of war to Congress, but Congress must agree and pass a resolution declaring war before it can be executed. The Secretary of Defense and the Chairman of the Joint Chiefs of Staff do not have the power to declare war. ###",
+            "correct": false
+        }
+    ]
+}

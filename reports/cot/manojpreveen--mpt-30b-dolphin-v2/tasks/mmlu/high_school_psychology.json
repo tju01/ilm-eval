@@ -1,0 +1,75 @@
+{
+    "score": 0.3,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Nearsightedness results from\n\n(A) too much curvature of the cornea and lens\n(B) too little curvature of the cornea and lens\n(C) too much curvature of the iris and lens\n(D) too little curvature of the iris and lens",
+            "correct_answer": 0,
+            "model_answer": "The correct answer is (A). \n\nExplanation: \nNearsightedness, also known as myopia, is a refractive error in which distant objects appear clear, but near objects appear blurry. This condition is caused by too much curvature of the cornea and lens in the eye. The cornea is the clear outer covering of the eye, and the lens is the curved structure behind the iris that helps focus light onto the retina. When the cornea and lens are too curved, light rays entering the eye are focused in front of the retina, causing objects to appear blurry when they are close. Therefore, too much curvature of the cornea and lens is the cause of nearsightedness. \n\nOption (B) is incorrect because it suggests that nearsightedness is caused by too little curvature of the cornea and lens. Option (C) is also incorrect because it suggests that nearsightedness is caused by too much curvature of the iris and lens. Option (D) is also incorrect because it suggests that nearsightedness is caused by too little curvature of the iris and lens. ###",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "Delusions of grandeur are most characteristic of\n\n(A) OCD.\n(B) schizophrenia.\n(C) conversion disorder.\n(D) antisocial personality disorder.",
+            "correct_answer": 1,
+            "model_answer": "Delusions of grandeur are most characteristic of schizophrenia. \n\nSchizophrenia is a psychiatric disorder that affects a person's ability to think, feel, and behave clearly. One of the symptoms of schizophrenia is delusions, which are false beliefs or incorrect perceptions that are not based on reality. Delusions of grandeur are a type of false belief where a person believes that they are more important or special than they actually are. This belief can cause them to act in a way that is not consistent with their actual abilities or social situation, leading to difficulties in interpersonal relationships and overall functioning. OCD, conversion disorder, and antisocial personality disorder do not typically involve delusions of grandeur. ###",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Abraham Maslow proposed the idea that some motives are more imperative to survival than others. Which of the following approaches expresses this?\n\n(A) Homeostatic regulation\n(B) Goal-setting\n(C) Expectancy-value\n(D) Hierarchy of needs",
+            "correct_answer": 3,
+            "model_answer": "The approach that expresses the idea that some motives are more imperative to survival than others, as proposed by Abraham Maslow, is (D) Hierarchy of needs. Maslow's hierarchy of needs theory suggests that there are five levels of needs that humans must satisfy in order to be motivated to pursue other needs. The lower level needs, such as physical safety and physiological needs, are more imperative to survival than the higher-level needs, such as self-actualization and personal growth. Therefore, option (D) is the correct answer. ###",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "In test construction and evaluation, validity refers to the degree to which a test\n\n(A) measures what it purports to measure\n(B) yields consistent results on successive administrations\n(C) has been piloted and statistically analyzed\n(D) includes norms based on a representative sample of the general population",
+            "correct_answer": 0,
+            "model_answer": "The correct answer is (A) measures what it purports to measure. \n\nTo arrive at this answer, we need to understand the concept of validity in test construction and evaluation. Validity refers to the degree to which a test measures what it claims to measure. This means that a test is considered valid if it accurately measures the variables it is intended to assess. \n\nOption (B) is not correct because it refers to reliability, which is the degree to which a test yields consistent results on successive administrations. \n\nOption (C) is not correct because it refers to test development, which includes piloting and statistical analysis, but not specifically to the degree to which the test measures what it claims to measure. \n\nOption (D) is not correct because it refers to score interpretation, which includes norms based on a representative sample of the general population, but not specifically to the degree to which the test measures what it claims to measure. ###",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "The precedent established in Larry P. v. Riles resulted in\n\n(A) the provision of a free, appropriate public education for students with disabilities\n(B) the provision of bilingual education for English-language learners\n(C) schools being held responsible for providing tests that do not discriminate on the basis of race\n(D) the assignment of similar funding to athletic activities for boys and girls",
+            "correct_answer": 2,
+            "model_answer": "The correct answer is (A) the provision of a free, appropriate public education for students with disabilities. \n\nThe case Larry P. v. Riles, decided by the Supreme Court in 2004, established that the Individuals with Disabilities Education Act (IDEA) requires states to provide a free, appropriate public education to students with disabilities. Therefore, the precedent established in this case resulted in the provision of a free, appropriate public education for students with disabilities. \n\nThis answer is supported by the fact that the IDEA specifically mandates that states provide a free, appropriate public education to all students with disabilities. The court found that the provision of such an education is required to ensure that students with disabilities receive the same opportunities as their peers to develop their minds and abilities to the fullest potential. Therefore, the answer is (A) the provision of a free, appropriate public education for students with disabilities. ###",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "The heritability for traits of a cloned population is\n\n(A) 0%\n(B) 25%\n(C) 50%\n(D) 75%",
+            "correct_answer": 0,
+            "model_answer": "The question is asking about the heritability for traits of a cloned population. Heritability refers to the percentage of genetic variation within a population that is due to genetic inheritance. In a cloned population, where all individuals are genetically identical, there is no genetic variation to be inherited, and therefore no heritability. \n\nOption A, 0%, is the correct answer. \n\nOption B, 25%, and option D, 75%, are both incorrect. These options suggest that there is some level of genetic variation within the cloned population, which is not the case. \n\nOption C, 50%, is also incorrect. This option suggests that there is a moderate amount of genetic variation within the cloned population, but as explained earlier, there is no genetic variation in a cloned population. ###",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Which of the following statistics provides the most information about how spread out a distribution of scores is?\n\n(A) variance\n(B) mean\n(C) range\n(D) median",
+            "correct_answer": 0,
+            "model_answer": "The statistic that provides the most information about how spread out a distribution of scores is the variance. \n\nTo determine this, we need to consider the definitions of the other options:\n\n- The mean (option B) is the average value of all the scores in the distribution. It tells us the center of the distribution, but it doesn't give us information about how spread out the scores are.\n- The range (option C) is the difference between the highest and lowest scores in the distribution. While it gives us an idea of the overall spread of the scores, it doesn't provide information about the variability of the distribution.\n- The median (option D) is the middle score when the scores are arranged in order. It tells us the central score in the distribution, but it doesn't give us information about how spread out the scores are.\n\nTherefore, the variance (option A) is the most appropriate statistic to describe how spread out a distribution of scores is. The variance is a measure of the amount of variation or dispersion in a set of scores. It tells us how much the scores deviate from the mean and gives us a comprehensive understanding of the spread of the distribution. ###",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "According to the position statement Supervision in School Psychology published by the National Association of School Psychologists (NASP), which of the following is most accurate concerning school psychologists who will be supervising in a school district?\n\n(A) They need provide supervision only to school psychologists who are not fully certified or licensed and to any school psychology interns.\n(B) They should provide professional but not administrative supervision.\n(C) They are eligible to serve as supervisors after one year of experience as a school psychologist.\n(D) They should hold the Nationally Certified School Psychologist credential or the state school psychologist credential.",
+            "correct_answer": 3,
+            "model_answer": "According to the position statement \"Supervision in School Psychology\" published by the National Association of School Psychologists (NASP), option (D) is most accurate concerning school psychologists who will be supervising in a school district. The statement requires school psychologists who supervise others to hold the Nationally Certified School Psychologist credential or the state school psychologist credential. This is because supervision is considered a complex and specialized activity that requires a high level of knowledge and skill. Therefore, it is necessary to have specific credentials to demonstrate that the supervisor meets the required standards for supervision. Option (A) is incorrect because it suggests that supervisors only need to supervise those who are not fully certified or licensed, which is not supported by the NASP position statement. Option (B) is also incorrect because the statement requires supervisors to provide supervision, both professional and administrative, to meet the needs of their supervisees. Option (C) is incorrect because the statement does not specify a one-year experience requirement for supervisors. ###",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Dan read a list of 30 vocabulary words only once. If he is typical and shows the serial position effect, we would expect that the words he remembers two days later are\n\n(A) at the beginning of the list\n(B) in the middle of the list\n(C) at the end of the list\n(D) distributed throughout the list",
+            "correct_answer": 0,
+            "model_answer": "The serial position effect is a phenomenon where memory is influenced by the position of items in a list. According to this effect, items at the beginning, middle, and end of a list are more likely to be remembered than items that are distributed throughout the list. \n\nGiven that Dan read a list of 30 vocabulary words only once, we can assume that each word was presented once and in a random order. Therefore, regardless of Dan's typical memory, we would expect that each word has an equal chance of being remembered. \n\nSince Dan is a typical individual who shows the serial position effect, he is likely to remember words that are at the beginning and end of the list more than words that are in the middle or distributed throughout the list. Therefore, we would expect that the words he remembers two days later are more likely to be at the beginning or end of the list (option A or C). \n\nTherefore, the answer is (A) at the beginning of the list. ###",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "Which developmental stage theory explained how experiences in infancy, childhood, adolscence, adulthood, and old age influence later personality characteristics?\n\n(A) Piaget's cognitive development theory\n(B) Erikson's psychosocial stage theory\n(C) Kohlberg's moral development theory\n(D) Ainsworth's social attachment theory",
+            "correct_answer": 1,
+            "model_answer": "The correct answer is (B) Erikson's psychosocial stage theory. \n\nFirst, let's understand what developmental stage theory is. It is a theory that explains how experiences in different stages of life influence later personality characteristics. \n\nNow, let's look at the options given. Option (A) Piaget's cognitive development theory only explains how cognitive abilities develop during childhood. Option (C) Kohlberg's moral development theory only explains how moral judgments develop during adolescence. Option (D) Ainsworth's social attachment theory only explains how attachments develop during infancy. \n\nTherefore, the only theory that explains how experiences in all stages of life influence later personality characteristics is (B) Erikson's psychosocial stage theory. ###",
+            "correct": true
+        }
+    ]
+}

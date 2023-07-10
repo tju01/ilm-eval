@@ -1,0 +1,75 @@
+{
+    "score": 0.2,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Which foods tend to be consumed in lower quantities in Wales and Scotland (as of 2020)?\n\n\n(A) Meat\n(B) Confectionary\n(C) Fruits and vegetables\n(D) Potatoes",
+            "correct_answer": 2,
+            "model_answer": "The answer is (C) Fruits and vegetables. \n\nThis is because Wales and Scotland are known for having a culture of vegetarianism and veganism, with many people being actively opposed to the consumption of animal products. As a result, the demand for meat and confectionary tends to be lower in these regions, while the demand for fruits and vegetables is higher due to their association with a healthy and plant-based diet. Additionally, potatoes are a staple food in both Wales and Scotland, so they are not consumed in lower quantities. ###",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "In which one of the following circumstances will the prevalence of a disease in the population increase, all else being constant?\n\n\n(A) If the incidence rate of the disease falls.\n(B) If survival time with the disease increases.\n(C) If recovery of the disease is faster.\n(D) If the population in which the disease is measured increases.",
+            "correct_answer": 1,
+            "model_answer": "The correct answer is (D) If the population in which the disease is measured increases. \n\nExplanation: \n\nThe presence or absence of certain factors can either increase or decrease the prevalence of a disease in a population. \n\n(A) If the incidence rate of the disease falls, this would actually decrease the prevalence of the disease in the population. \n\n(B) If survival time with the disease increases, this would only have a small effect on the prevalence of the disease, as it would simply prolong the time individuals spend with the disease rather than increase the number of cases. \n\n(C) If recovery of the disease is faster, this would actually decrease the prevalence of the disease in the population. \n\n(D) If the population in which the disease is measured increases, this would increase the prevalence of the disease in the population, as there are now more individuals who can potentially contract and transmit the disease. ###",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Which of the following statements is correct?\n\n\n(A) The flavonoid class comprises flavonoids and isoflavonoids.\n(B) The digestibility and bioavailability of isoflavones in soya food products are not changed by processing.\n(C) \u00df-Carotene and lycopene can both act as provitamin A.\n(D) Carotenoids and flavonoids both belong to the polyphenol class.",
+            "correct_answer": 0,
+            "model_answer": "The correct statement is (D) Carotenoids and flavonoids both belong to the polyphenol class. \n\nExplanation: \n\nFlavonoids are a type of polyphenol, as well as other classes such as stilbenes, lignans, and quinones. \u00df-Carotene and lycopene are also classified as carotenoids, which are another group of polyphenols. Therefore, statement (D) is correct. \n\nStatement (A) is incorrect because isoflavonoids are actually a subclass of flavonoids, not a separate class. Therefore, (A) is incomplete information. \n\nStatement (B) is incorrect because the digestibility and bioavailability of isoflavones in soya food products can be affected by processing. For example, heat and light can cause the isoflavones to oxidize and become less available for absorption. Additionally, some processing methods such as boiling can also reduce the bioavailability of isoflavones. Therefore, (B) is incorrect. \n\nStatement (C) is incorrect because \u00df-Carotene is a carotenoid, not a flavonoid or provitamin A. Only certain carotenoids such as vitamin A itself can act as provitamin A. Therefore, (C) is incorrect. ###",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "What are the main causes of the obesity epidemic?\n\n\n(A) Increased energy quantity/density and a more sedentary life-style\n(B) Decreased leisure time activity\n(C) Changes in genetic profiles\n(D) None of the options given is correct",
+            "correct_answer": 0,
+            "model_answer": "The main causes of the obesity epidemic are (A) Increased energy quantity/density and a more sedentary life-style. \n\nExplanation: Obesity is defined as excess body fat having accumulated to the extent that it may have a negative effect on health. The main causes of obesity are changes in lifestyle and environment factors that lead to an imbalance between energy intake and energy expenditure. Increased energy quantity/density foods and a sedentary life-style are two major factors that contribute to the energy imbalance, leading to obesity. Therefore, option (A) is the correct answer. Option (B) is related to decreased physical activity, which is a factor that contributes to obesity but not the main cause. Option (C) is not a significant factor in causing obesity. Option (D) is incorrect as one of the options given is correct. ###",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "Which vitamin is a major lipid-soluble antioxidant in cell membranes?\n\n\n(A) Vitamin A\n(B) Vitamin D\n(C) Vitamin E\n(D) Vitamin K",
+            "correct_answer": 2,
+            "model_answer": "The vitamin that is a major lipid-soluble antioxidant in cell membranes is (C) Vitamin E. \n\nVitamin E is a fat-soluble vitamin that has antioxidant properties. It neutralizes free radicals in cell membranes, which can damage the cell and contribute to chronic diseases such as heart disease and cancer. Vitamin A, B vitamins, and Vitamin D are also important for various physiological processes, but they are not specifically known for their antioxidant properties in cell membranes. Vitamin K is important for blood clotting and bone health, but it is not a major lipid-soluble antioxidant in cell membranes. ###",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "Which of the following contributes to vitamin B12 deficiency in older adults?\n\n\n(A) Reduced secretion of intrinsic factor\n(B) Atrophic gastritis\n(C) Helicobacter pylori infection\n(D) All of the above",
+            "correct_answer": 3,
+            "model_answer": "To determine which of the following contributes to vitamin B12 deficiency in older adults, we need to consider the functions of intrinsic factor, atrophic gastritis, and Helicobacter pylori infection.\n\nIntrinsic factor is a substance secreted by the parietal cells of the stomach. It is essential for the absorption of vitamin B12. A reduced secretion of intrinsic factor can lead to vitamin B12 deficiency. Therefore, option (A) is a potential contributor to vitamin B12 deficiency in older adults.\n\nAtrophic gastritis is a condition in which the lining of the stomach is damaged and reduced in size. This condition can affect the production of intrinsic factor. Since intrinsic factor is necessary for vitamin B12 absorption, atrophic gastritis can also contribute to vitamin B12 deficiency. Therefore, option (B) is another potential contributor to vitamin B12 deficiency in older adults.\n\nHelicobacter pylori infection is a type of bacterial infection that is commonly found in the stomach. While it does not directly affect the secretion of intrinsic factor, it can lead to atrophic gastritis. Helicobacter pylori infection can cause inflammation and subsequent damage to the stomach lining, which can contribute to irreversible changes in the stomach through atrophic gastritis. Therefore, option (C) is also a potential contributor to vitamin B12 deficiency in older adults.\n\nConsidering the functions of intrinsic factor, atrophic gastritis, and Helicobacter pylori infection, we can conclude that all three options (A, B, and C) contribute to vitamin B12 deficiency in older adults. Therefore, the answer is (D) - All of the above. ###",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "Obesity increases the risk of endometrial cancer. Which hormone is thought to mediate this effect?\n\n\n(A) Testosterone\n(B) Oestrogen\n(C) Insulin-like growth factor-1\n(D) Thyroxine",
+            "correct_answer": 1,
+            "model_answer": "The hormone that is thought to mediate the effect of obesity on endometrial cancer is (B) Oestrogen. Obesity is associated with higher levels of oestrogen, which can promote the growth of endometrial tissue. This increased growth can lead to an increased risk of endometrial cancer. Testosterone, insulin-like growth factor-1, and thyroxine do not have a direct effect on the risk of endometrial cancer in relation to obesity. ###",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "Which vitamin is required for calcium absorption from the small intestine?\n\n\n(A) Vitamin A\n(B) Vitamin D\n(C) Vitamin E\n(D) Vitamin K",
+            "correct_answer": 1,
+            "model_answer": "The correct answer is (B) Vitamin D.\n\nExplanation:\nWhen we consume calcium-rich foods, it is absorbed into the bloodstream and stored in bones and teeth. For optimal absorption of calcium, the body requires vitamin D. Vitamin D is produced in the skin when exposed to sunlight and is also present in certain foods. Once vitamin D is consumed, it is converted into a hormonelike substance that helps transport calcium into the cells that need it. Without sufficient levels of vitamin D, calcium absorption and storage can be impaired, leading to issues such as weakened bones and teeth. ###",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Which of the following statements about the metabolic demand for amino acids is correct?\n\n\n(A) The metabolic demand is supplied only from the diet,\n(B) The metabolic demand is to maintain protein turnover.\n(C) The metabolic demand involves consumption of amino-acids by a number of irreversible pathways and these are either obligatory or adaptive.\n(D) The metabolic demand is a fixed amount",
+            "correct_answer": 2,
+            "model_answer": "The correct statement about the metabolic demand for amino acids is (B) The metabolic demand is to maintain protein turnover. \n\nThis is because amino acids are the building blocks of proteins, and proteins are essential for the growth, repair, and maintenance of tissues in the body. Therefore, the body requires a constant supply of amino acids to maintain protein turnover and to build new proteins as needed. \n\nOption (A) is incorrect because while the biochemical reactions involved in the metabolism of amino acids may occur in the mitochondria and other organelles in the body, the initial intake of amino acids is through the diet. \n\nOption (C) is partially correct, but it is too vague to be considered a definitive answer. The metabolic demand for amino acids does involve consumption of amino-acids by a number of irreversible pathways, but these pathways are not necessarily obligatory or adaptive. \n\nOption (D) is incorrect because the metabolic demand for amino acids is not a fixed amount. It varies depending on a number of factors, including diet, age, activity level, and overall health status. ###",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Which of the following statements about human amino acid requirements in human nutrition is correct?\n\n\n(A) The amino acid requirements determined for adults is assumed to be the requirement pattern for all ages.\n(B) The amino acid requirements determined for adults is assumed to be the requirements for maintenance for all ages.\n(C) The amino acid pattern of breast milk is assumed to be the requirement pattern for all children.\n(D) The amino acid pattern of human tissue protein is assumed to be the requirement patterns for infants and young children.",
+            "correct_answer": 1,
+            "model_answer": "The correct statement about human amino acid requirements in human nutrition is (B) The amino acid requirements determined for adults is assumed to be the requirements for maintenance for all ages.\n\nThis is because amino acid requirements are determined for individuals based on their age, gender, activity level, and other factors. While the requirements for adults can be used as a reference point for estimating requirements for other ages, they are not assumed to be the same. Option (A) is incorrect because it assumes that the requirements determined for adults apply to all ages, which is not true. Option (C) is incorrect because breast milk provides specific amino acids tailored for infants but not necessarily for all infants. Option (D) is incorrect because the amino acid pattern of human tissue protein is not used as a requirement pattern for infants and young children. ###",
+            "correct": false
+        }
+    ]
+}

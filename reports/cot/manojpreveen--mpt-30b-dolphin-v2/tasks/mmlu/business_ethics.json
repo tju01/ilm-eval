@@ -1,0 +1,75 @@
+{
+    "score": 0.2,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "_______ such as bitcoin are becoming increasingly mainstream and have a whole host of associated ethical implications, for example, they are______ and more ______. However, they have also been used to engage in _______.\n\n(A) Cryptocurrencies, Expensive, Secure, Financial Crime\n(B) Traditional currency, Cheap, Unsecure, Charitable giving\n(C) Cryptocurrencies, Cheap, Secure, Financial crime\n(D) Traditional currency, Expensive, Unsecure, Charitable giving",
+            "correct_answer": 2,
+            "model_answer": "The answer is (C) Cryptocurrency, Cheap, Secure, Financial crime.\n\nExplanation:\nThe question is asking for a statement about cryptocurrencies and their associated implications. The statement begins by acknowledging that cryptocurrencies such as bitcoin are becoming more mainstream, but then goes on to list the implications associated with them. The statement uses the words \"cheap\" and \"secure\" to describe cryptocurrencies, which is a common way of thinking about them. The issue of financial crime is also mentioned, which is another implication of cryptocurrencies. Option (B) is incorrect because it lists \"charitable giving\" as an implication, which is not related to the topic of the question. Option (D) is incorrect because it lists \"unsecure\" as a description of traditional currency, which is not accurate. Option (A) is incorrect because it lists \"expensive\" as a description of cryptocurrencies, which is not a characteristic that is commonly associated with them. ###",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "Typical advertising regulatory bodies suggest, for example that adverts must not: encourage _________, cause unnecessary ________ or _____, and must not cause _______ offence.\n\n(A) Unsafe practices, Wants, Fear, Trivial\n(B) Unsafe practices, Distress, Fear, Serious\n(C) Safe practices, Wants, Jealousy, Trivial\n(D) Safe practices, Distress, Jealousy, Serious",
+            "correct_answer": 1,
+            "model_answer": "The correct answer is (B) Unsafe practices, Distress, Fear, Serious.\n\nThe regulation of advertising aims to protect consumers from misleading or deceptive advertising practices. Adverts must not encourage unsafe practices, as this can lead to accidents or injuries. They must not cause unnecessary distress or fear, as this can cause psychological harm to consumers. They must also not cause serious offence, as this can lead to legal action and reputational damage to the advertiser. \n\nOption (A) contains incorrect options as it suggests that adverts must not encourage trivial things, which is not a regulatory requirement. Option (C) is also incorrect as it suggests that adverts must not encourage jealousy, which is not a regulatory requirement. Option (D) is incorrect as it suggests that adverts must not cause serious jealousy, which is not a regulatory requirement. ###",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "______ are the obligations of workers towards their employer, based on individual contracts and wider employment laws.\n\n(A) Employee rights\n(B) Employee rights\n(C) Employer duties\n(D) Employee duties",
+            "correct_answer": 3,
+            "model_answer": "The answer is (C) Employer duties. \n\nMy reasoning is as follows: The question is asking about the obligations of workers towards their employer. The options provided are (A) Employee rights, (B) Employee rights, (C) Employer duties, and (D) Employee duties. Since the obligations of workers towards their employer are not necessarily equal to the obligations of employers towards their workers, we can eliminate options (A) and (B). The correct answer is (C) Employer duties, as this option refers to the obligations that employers have towards their workers. Option (D) is incorrect because it refers to the obligations of employees, not employers. ###",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": " ______ is an employee's preferred ratio between work-related and non-work-related activities which, due to intensification of work and technological shifts, has become a hotly contested issue in recent years.\n\n(A) Presenteeism\n(B) Absenteeism\n(C) Work-play balance\n(D) Work-life balance",
+            "correct_answer": 3,
+            "model_answer": "The answer is (D) Work-life balance.\n\nExplanation:\n\nThe question is asking for an employee's preferred ratio between work-related and non-work-related activities. The options are presenteeism, absenteeism, work-play balance, and work-life balance. \n\nPresenteeism refers to being physically present at the workplace but not being productive, which is not related to the preferred ratio between work-related and non-work-related activities. Absenteeism refers to being physically absent from the workplace, which is also not related to the preferred ratio.\n\nWork-play balance refers to having a balance between work and leisure time, but it does not specifically address the preferred ratio between work-related and non-work-related activities.\n\nWork-life balance refers to having a balance between work and personal life, including relationships, hobbies, and self-care. This includes both work-related and non-work-related activities. Therefore, work-life balance is the answer to the question. ###",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": " _______ can be a likened to their natural counterparts, comprising of a balanced network of interdependent organisms and their environments thus adding value to sustainability thinking due to the consideration of companies and industries as being bound together, and interdependent due to all kinds of resources and wastes.\n\n(A) Industrial supply loops\n(B) Industrial ecosystems\n(C) Ecological ecosystems\n(D) Corporate ecosystems",
+            "correct_answer": 1,
+            "model_answer": "The answer is (D) Corporate ecosystems.\n\nThe passage describes how companies and industries are bound together in a balanced network of interdependent organisms and their environments, which adds value to sustainability thinking. This is similar to the idea of ecological ecosystems, which are also made up of interconnected organisms and their environments. However, the passage specifically uses the term \"corporate ecosystems\" to describe this interdependence between companies and their surroundings. Therefore, the correct answer is (D) Corporate ecosystems. ###",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "________, where for example one party possess more resources, unfair distribution of ________, where one party gains more from the relationship, and CSOs being ________, are all limitations and risks of business-CSO collaborations.\n\n(A) Power imbalance, Benefits, Hoodwinked\n(B) Power imbalance, Resources, Co-opted\n(C) Informational asymmetries, Benefits, Hoodwinked\n(D) Informational asymmetries, Resources, Co-opted",
+            "correct_answer": 1,
+            "model_answer": "The answer is (D) Informational asymmetries, Resources, Co-opted.\n\nExplanation:\n\nThe given sentence talks about the limitations and risks of business-CSO (civil society organizations) collaborations. It mentions three factors: power imbalance, unfair distribution of resources, and CSOs being co-opted. \n\nThe first factor is power imbalance, which means that one party has more power than the other. This can lead to an unfair distribution of resources, where one party gains more from the relationship. \n\nThe second factor is unfair distribution of resources, which refers to the situation where one party gains more from the relationship than the other. \n\nThe third factor is CSOs being co-opted, which means that an organization is being taken over by another party. This can also lead to an unfair distribution of resources, where the co-opting party gains more from the relationship than the CSO. \n\nOut of these three factors, the one that fits the given sentence the best is \"Informational asymmetries, Resources, Co-opted\" (option D), as the sentence talks about informational asymmetries, which means that one party has less information than the other, and this can lead to co-opting. The sentence also mentions resources, which is related to unfair distribution, and co-opting is a part of unequal distribution. ###",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Although corporate profit maximization is not directly prescribed by major normative theories to which normative theory is it most similar?\n\n(A) hedonistic utilitarianism\n(B) preference utilitarianism\n(C) The Categorical Imperative\n(D) ethics of care",
+            "correct_answer": 1,
+            "model_answer": "The most similar normative theory to corporate profit maximization is the preference utilitarianism, which is a form of utilitarianism that places importance on the satisfaction of individual preferences. This is because both corporate profit maximization and preference utilitarianism prioritize the satisfaction of preference, whether it be the preference of an individual or the preference of a company. In contrast, hedonistic utilitarianism prioritizes the satisfaction of pleasure, while the Categorical Imperative prioritizes the satisfaction of moral obligations. The ethics of care is more focused on individual relationships and caring for others, rather than prioritizing satisfaction. ###",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "What does Milton Friedman believe to be the sole responsibility of business?\n\n(A) The only social responsibility of business is to its shareholders\n(B) Managers should act in ways that balance the interest of society and shareholders\n(C) The primary responsibility organizations have is to its employees\n(D) The primary responsibility organizations have is to its stakeholders",
+            "correct_answer": 0,
+            "model_answer": "Milton Friedman believes that the sole responsibility of business is to its shareholders. Therefore, the answer is (A). \n\nFriedman's argument is based on the principle of free-market economics, which emphasizes the importance of profit maximization. He believes that businesses should operate with the goal of maximizing profits for their shareholders, as this will lead to greater investment, innovation, and economic growth. While he acknowledges that businesses may have some secondary obligations to society, such as providing jobs and contributing to the tax base, he believes that these obligations are secondary to the primary responsibility of maximizing profits for shareholders. ###",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "______ regulation goes further than the ______ that CSOs have with businesses, as it also concerns _______of such processes.\n\n(A) Legal, Interactions, Mechanics\n(B) Civil, Relations, Outcomes\n(C) Political, Interactions, Outcomes\n(D) Environmental, Relations, Mechanics",
+            "correct_answer": 1,
+            "model_answer": "The correct answer is (D) Environmental, Relations, Mechanics.\n\nExplanation: The question is asking for the item that is not covered by the regulation between CSOs and businesses, but is covered by the regulation between businesses and others. The key words \"CSOs\" and \"businesses\" suggest that the regulation is likely related to the relationship between civil society organizations and businesses. The options (A) and (B) are not related to this context.\n\nOption (C) contains the word \"political\", which could be relevant to the question, but the next words \"Interactions, Outcomes\" do not fit with the context. Option (D) contains the key words \"Environmental\", \"Relations\", and \"Mechanics\" that all relate to the relationship between businesses and others in this context. Therefore, the correct answer is (D) Environmental, Relations, Mechanics. ###",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "_______ working practices refer to working patterns which involve temporal, spatial and task related fluidity.\n\n(A) Dynamic\n(B) Fluid\n(C) Flexible\n(D) Modern",
+            "correct_answer": 2,
+            "model_answer": "The correct answer is (C) Flexible. Working practices are defined as the ways in which work is organized and carried out. The term \"flexible\" refers to the ability to adapt to changing circumstances and demands. This type of working pattern involves temporal, spatial, and task-related fluidity, meaning that work can be done at different times, in different places, and with different tasks, all while still maintaining productivity and efficiency. Therefore, the most appropriate answer to the question is (C) Flexible. ###",
+            "correct": true
+        }
+    ]
+}

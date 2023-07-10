@@ -1,0 +1,75 @@
+{
+    "score": 0.3,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "The main factor preventing subsistence economies from advancing economically is the lack of\n\n(A) a currency.\n(B) a well-connected transportation infrastructure.\n(C) government activity.\n(D) a banking service.",
+            "correct_answer": 1,
+            "model_answer": "The main factor preventing subsistence economies from advancing economically is the lack of (A) a currency. \n\nThis is because a currency provides a medium of exchange and a store of value, which are essential for economic growth. Without a currency, transactions cannot be easily conducted and savings cannot be made. A currency also helps to facilitate trade and investment, and provides a means of payment for public goods and services. Therefore, the lack of a currency is a significant obstacle for subsistence economies trying to move towards a more developed economy. ###",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "The tendency for a population to continue to grow long after replacement fertility has been achieved is called\n\n(A) zero population growth.\n(B) rapid growth rate.\n(C) homeostatic plateau.\n(D) demographic momentum.",
+            "correct_answer": 3,
+            "model_answer": "The tendency for a population to continue to grow long after replacement fertility has been achieved is called (D) demographic momentum. \n\nDemographic momentum refers to the idea that populations continue to grow even after the birth rate has dropped below the death rate, a state known as replacement fertility. This phenomenon is caused by the large numbers of individuals already in the population, who continue to age and pass away, while also continuing to have children. As a result, the population continues to grow even after the birth rate has dropped below the death rate, leading to what is known as population momentum. \n\nOption (A) zero population growth is a hypothetical state where the birth rate is exactly equal to the death rate, resulting in a stable population size. Option (B) rapid growth rate is a term used to describe a population that is growing at a faster rate than the carrying capacity of the environment can support. Option (C) homeostatic plateau is a term used to describe a stable state where the population size remains relatively constant, even though the birth rate and death rate continue to fluctuate within a relatively narrow range. ###",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "The tendency for migration to decrease with distance is called\n\n(A) push factors.\n(B) pull factors.\n(C) distance decay.\n(D) migration selectivity.",
+            "correct_answer": 2,
+            "model_answer": "The tendency for migration to decrease with distance is called push factors. (B) \n\nPush factors are the factors that cause people to leave a particular area, while pull factors are the factors that attract people to a particular area. Distance decay is a different concept related to the fading of memories or information as time passes. Migration selectivity refers to the choices that individuals make when deciding whether or not to migrate. ###",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "Which zone contains low-income slums, ethnic ghettos, and general deterioration in Burgess's concentric zone model of urban form?\n\n(A) First\n(B) Second\n(C) Third\n(D) Fourth",
+            "correct_answer": 0,
+            "model_answer": "The low-income slums, ethnic ghettos, and general deterioration are typically found in the inner city of a city. According to Burgess's concentric zone model of urban form, the inner city is typically found in the first zone, which is the central core of a city. Therefore, the answer is (A) First. ###",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "Which of the following statements is TRUE concerning women in the labor force?\n\n(A) Most women work in agriculture\n(B) The percentage of women economically active in the labor force declined worldwide\n(C) The percentage of women in the total labor force declined\n(D) Women spend more hours per day working than men in all regions except Anglo America and Australia",
+            "correct_answer": 3,
+            "model_answer": "The true statement concerning women in the labor force is (D) Women spend more hours per day working than men in all regions except Anglo America and Australia. This is because there is evidence to suggest that women work fewer hours per week than men globally, but they tend to work longer hours when they are employed. However, in regions such as the United States and Australia, women work similar or slightly fewer hours than men. Therefore, option (D) is the correct answer. ###",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "All the following factors can be considered pull factors of migration EXCEPT\n\n(A) safety.\n(B) better climate.\n(C) better schools.\n(D) overcrowding.",
+            "correct_answer": 3,
+            "model_answer": "The question is asking to identify the factor that is not a pull factor of migration. The pull factors are factors that attract people to a particular place or destination. The options are safety, better climate, better schools, and overcrowding. \n\nSafety is a pull factor of migration because it makes a place more attractive and desirable to live in. Better climate is also a pull factor of migration because it can improve the quality of life and make a place more livable. Better schools are also a pull factor of migration because they can improve the availability of education and make a place more attractive to families with children. \n\nOvercrowding, on the other hand, is not a pull factor of migration. In fact, overcrowding can be a deterrent to migration because it can make a place feel crowded, unsafe, and unsustainable. Therefore, the answer is (D) overcrowding. ###",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "Which of the following countries does NOT have a well-known example of a relict boundary?\n\n(A) Vietnam\n(B) United Kingdom\n(C) Germany\n(D) Bolivia",
+            "correct_answer": 3,
+            "model_answer": "To answer this question, we need to first understand what a relict boundary is. A relict boundary is a boundary that is a remnant of a former boundary. In other words, it is a boundary that has been moved or changed over time, often due to tectonic activity. \n\nNow, let's look at the options given. \n\nOption (A) Vietnam is a country located in Southeast Asia and is a known location for relict boundaries. Therefore, we can eliminate option (A) as the correct answer. \n\nOption (B) United Kingdom is a country located in Europe and is also known for having relict boundaries. Therefore, we can eliminate option (B) as the correct answer. \n\nOption (C) Germany is a country located in Europe and is also known for having relict boundaries. Therefore, we can eliminate option (C) as the correct answer. \n\nOption (D) Bolivia is a country located in South America and is also known for having relict boundaries. Therefore, we can eliminate this option as the correct answer. \n\nTherefore, the country that does NOT have a well-known example of a relict boundary is (B) United Kingdom. ###",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Which form of migration below are farm workers from another country most likely to be practicing during the year?\n\n(A) Chain migration\n(B) Cluster migration\n(C) Circular migration\n(D) International migration",
+            "correct_answer": 2,
+            "model_answer": "The most likely form of migration that farm workers from another country are practicing during the year is international migration. \n\nThis is because international migration involves people moving from one country to another country for various purposes, including work. Farm workers may be attracted to other countries with more favorable job opportunities, such as the United States, Canada, Australia, and several European countries. Therefore, the answer is (D) International migration. ###",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Which of the following is a centrifugal force in a country?\n\n(A) Religious differences\n(B) A national holiday\n(C) An attack by another country\n(D) A charismatic national leader",
+            "correct_answer": 0,
+            "model_answer": "First, let's define what centrifugal force means. Centrifugal force is a force that acts on an object moving in a circular path, causing the object to move away from the center around which it is moving. \n\nNow, let's analyze each option:\n\n(A) Religious differences: This option does not involve an object moving in a circular path, so it cannot be a centrifugal force according to our definition. Therefore, it is not the correct answer.\n\n(B) A national holiday: This option does not involve an object moving in a circular path, so it cannot be a centrifugal force according to our definition. Therefore, it is not the correct answer.\n\n(C) An attack by another country: This option involves an object (a country) moving in a circular path (around the attacking country), so it can be considered a centrifugal force according to our definition. Therefore, it is a possible answer.\n\n(D) A charismatic national leader: This option does not involve an object moving in a circular path, so it cannot be a centrifugal force according to our definition. Therefore, it is not the correct answer.\n\nSo, the possible answer is (C) An attack by another country. ###",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Early settlements and high population density along coastlines and rivers are best attributed to which of the following?\n\n(A) Mediterranean climate\n(B) Limited forest cover\n(C) Growth of manufacturing\n(D) Access to trade routes",
+            "correct_answer": 3,
+            "model_answer": "The best answer to the question is (D) Access to trade routes. \n\nEarly settlements and high population density along coastlines and rivers are best attributed to access to trade routes. This is because people who live near coastlines and rivers have easy access to transportation routes, such as rivers and seas, which made it easier for them to trade goods and resources with other communities. This led to the growth of early settlements and high population density along these areas. \n\nWhile Mediterranean climate and limited forest cover can both contribute to settlement patterns, they are not the best explanations for the specific patterns described in the question. Growth of manufacturing is also not a significant factor in explaining early settlements and high population density along coastlines and rivers. ###",
+            "correct": false
+        }
+    ]
+}

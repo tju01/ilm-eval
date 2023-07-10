@@ -1,0 +1,75 @@
+{
+    "score": 0.4,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "As of 2016, about what percentage of adults aged 18 years or older were overweight?\n\n(A) 10%\n(B) 20%\n(C) 40%\n(D) 80%",
+            "correct_answer": 2,
+            "model_answer": "According to the World Health Organization (WHO), as of 2016, about 40% of adults aged 18 years or older were overweight. \n\nThis information is based on data from the Global Burden of Disease study, which is a comprehensive health analysis conducted by the WHO. The study examines the health impact of various diseases, injuries, and risk factors in different populations around the world. The study found that the prevalence of overweight and obesity in adults aged 18 years or older has increased over the years, and in 2016, it reached 40%. \n\nTherefore, the answer is (C) 40%. ###",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "What was GDP per capita in the United States in 1850 when adjusting for inflation and PPP in 2011 prices?\n\n(A) About $300\n(B) About $3k\n(C) About $8k\n(D) About $15k",
+            "correct_answer": 1,
+            "model_answer": "To determine GDP per capita in the United States in 1850 when adjusting for inflation and PPP in 2011 prices, we need to follow these steps:\n\nStep 1: Calculate GDP per capita in 1850.\nTo calculate GDP per capita, we need to divide the gross domestic product (GDP) by the population. According to data from the Cambridge Economic History of the United States, the GDP in 1850 was approximately $286 billion. However, this figure is in terms of constant prices. To calculate the GDP per capita, we need to adjust it for inflation.\n\nStep 2: Adjust GDP for inflation.\nUsing the Consumer Price Index (CPI) for the same year, we can convert the GDP to constant prices. The CPI for 1850 was 72.4, which indicates that prices were 1.392 times higher than in 1950. Therefore, the GDP in 1850 would be 1.392 times higher than $286 billion, which is approximately $369 billion.\n\nStep 3: Calculate GDP per capita in 2011 prices.\nSince we want to adjust the GDP per capita for inflation, we need to convert it to 2011 prices. To do this, we use the GDP deflator, which is a measure of the average price changes in the economy. According to data from the U.S. Bureau of Economic Analysis, the GDP deflator for the period 1850-2012 is 0.991. This means that the GDP per capita in 1850 would be approximately $206,000 (369 billion/1850 population) in 2011 prices.\n\nStep 4: Convert GDP per capita to PPP.\nTo convert the GDP per capita to PPP, we need to calculate the Purchasing Power Parity (PPP) of the United States dollar in 1850. According to the International Comparison Program, the PPP of the United States dollar in 1850 was about 0.21 times higher than its nominal value. This means that the GDP per capita in 1850 would be approximately $309,000 (206,000/0.21) in terms of PPP.\n\nStep 5: Output the answer.\nThe GDP per capita in the United States in 1850 when adjusting for inflation and PPP in 2011 prices is approximately $309,000.\n\nTherefore, the answer is (C) About $8k. ###",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "As of 2019, about what percentage of people from the United States says homosexuality should be accepted by society?\n\n(A) 52%\n(B) 62%\n(C) 72%\n(D) 82%",
+            "correct_answer": 2,
+            "model_answer": "To answer this question, we need to find the most recent data on the percentage of people from the United States who accept homosexuality. Here are the steps to find the answer:\n\n1. Go to a reliable source for data on public opinion on homosexuality in the United States. One such source is the Pew Research Center.\n\n2. Look for the most recent survey conducted by the Pew Research Center on the topic of public opinion on homosexuality. In early 2019, the most recent survey was conducted by the Pew Research Center on May 1-11, 2019.\n\n3. Look for the percentage of people in the survey who said that homosexuality should be accepted by society. According to the survey, 70% of Americans said that homosexuality should be accepted by society.\n\n4. Convert the percentage to a letter grade. 70% is equivalent to 0.7 or 2.5 out of 5. We can round this to 2 or 2.5 to get closest to the answer choices. Therefore, the answer is closest to (C) 72%.\n\n5. Add parentheses to the answer to indicate that we are giving a rounded answer. The final answer is: (C) 72%. ###",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "Which of the following countries generated the most total energy from solar sources in 2019?\n\n(A) China\n(B) United States\n(C) Germany\n(D) Japan",
+            "correct_answer": 0,
+            "model_answer": "To answer this question, we need to look at the data on the total energy generated from solar sources in 2019 by each country. According to the International Energy Agency, the country that generated the most total energy from solar sources in 2019 is China. \n\nTherefore, the answer is (A) China. ###",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "Controlling for inflation and PPP-adjustment, about how much did GDP per capita increase from 1950 to 2016 in Japan?\n\n(A) by 5 fold\n(B) by 10 fold\n(C) by 15 fold\n(D) by 20 fold",
+            "correct_answer": 2,
+            "model_answer": "To answer this question, we need to calculate the GDP per capita for Japan in 1950 and 2016 and then calculate the percentage increase in GDP per capita. The GDP per capita is the GDP divided by the population. \n\nFirst, we need to find the GDP per capita for Japan in 1950 and 2016. According to the World Bank, the GDP per capita of Japan in 1950 was $545 and in 2016 it was $44,456. \n\nNext, we need to calculate the percentage increase in GDP per capita. We can use the following formula:\n\nPercentage increase = (New value - Old value) / Old value x 100%\n\nPlugging in the values, we get:\n\nPercentage increase = ($44,456 - $545) / $545 x 100%\nPercentage increase = 42,625 / $545 x 100%\nPercentage increase = 77.8%\n\nFinally, we need to round this percentage to the nearest whole number. Therefore, the answer is (A) by 10 fold. ###",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "What is the biggest cause of death in children under five years old (as of 2017)?\n\n(A) Lower respiratory infections\n(B) Preterm birth complications\n(C) Diarrheal diseases\n(D) Malaria",
+            "correct_answer": 0,
+            "model_answer": "The correct answer is (D) Malaria. \n\nMalaria is the biggest cause of death in children under five years old in developing countries, as of 2017. According to the World Health Organization (WHO), malaria kills approximately 409,000 children under five years old each year. In contrast, lower respiratory infections in children are a common cause of death, but not the biggest one. Preterm birth complications are also a significant cause of death, but they are not the biggest one either. Diarrheal diseases are another major cause of death in children, but not the biggest one. Therefore, the correct answer is (D) Malaria. ###",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "As of 2019, about what percentage of the global population does not have access to safe drinking water?\n\n(A) 10%\n(B) 20%\n(C) 30%\n(D) 40%",
+            "correct_answer": 2,
+            "model_answer": "The United Nations reports that as of 2019, about 30% of the global population does not have access to safe drinking water. Therefore, the correct answer is (C) 30%. ###",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "About what percentage of survey respondents from India report having paid a bribe in the last year to access public services (such as education; judiciary; medical and health; police; registry and permit services; utilities; tax revenue and customs; and land service) as of 2017?\n\n(A) 29%\n(B) 49%\n(C) 69%\n(D) 89%",
+            "correct_answer": 2,
+            "model_answer": "According to a study conducted by Transparency International in 2017, only a little over 50% of survey respondents from India reported having paid a bribe in the last year to access public services. Therefore, the answer is (A) 29% would be incorrect, (B) 49%, (C) 69%, and (D) 89% would also be incorrect. The correct answer is (B) 50%. ###",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "As of 2017, what fraction of the population in Brazil used the internet in the past three months?\n\n(A) 18%\n(B) 38%\n(C) 58%\n(D) 78%",
+            "correct_answer": 2,
+            "model_answer": "To answer this question, we need to know the population of Brazil and the number of people who used the internet in the past three months. According to the World Bank, the population of Brazil in 2017 was approximately 200 million. According to a survey conducted by Carry, a Brazilian telecommunications company, approximately 45 million people in Brazil used the internet in the past three months.\n\nTo find the fraction of the population in Brazil that used the internet in the past three months, we can divide the number of people who used the internet by the total population and express it as a fraction. \n\n```\n 45 million / 200 million = 0.225\n\nSo 223 out of every 1,000 people in Brazil used the internet in the past three months. Therefore, the fraction of the population in Brazil that used the internet in the past three months is:\n\n```\n(0.225) / (1.0) = 0.225\n\nSo the answer is (A) 18%. ###",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "As of 2017, what fraction of the population in India used the internet in the past three months?\n\n(A) 11%\n(B) 26%\n(C) 41%\n(D) 56%",
+            "correct_answer": 1,
+            "model_answer": "To determine the fraction of the population in India that used the internet in the past three months as of 2017, we need to look at the latest available data. According to a report by the Internet and Mobile Association of India (IAMAI) and Kantar IMRB, as of Q4 2017, the internet penetration rate in India was 30%.\n\nTo find the fraction of the population that used the internet in the past three months, we can use the estimate of the total population of India in 2017. According to the World Bank, the population of India in 2017 was approximately 1.3 billion.\n\nTo find the fraction, we can divide the number of people who used the internet in the past three months by the total population of India in 2017 and multiply by 100 to convert to a percentage:\n\n($30 billion * 3 months) / $1.3 trillion = $0.269 trillion\n($269 billion / $1.3 trillion) x 100 = 20.05%\n\nTherefore, the answer is not one of the given options. ###",
+            "correct": false
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "score": 0.2,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Which one of the following is the most appropriate definition of a 99% confidence interval?\n\n(A) 99% of the time in repeated samples, the interval would contain the true value of the parameter\n(B) 99% of the time in repeated samples, the interval would contain the estimated value of the parameter\n(C) 99% of the time in repeated samples, the null hypothesis will be rejected\n(D) 99% of the time in repeated samples, the null hypothesis will not be rejected when it was false",
+            "correct_answer": 0,
+            "model_answer": "The correct answer is (A) 99% of the time in repeated samples, the interval would contain the true value of the parameter. \n\nA 99% confidence interval is a range of values that contains the true value of a population parameter with 99% confidence. This means that if we take repeated random samples of the population and draw a confidence interval from each sample, the true value of the parameter will be contained within the given confidence interval 99% of the time. \n\nOption (B) is incorrect because the estimated value of the parameter is not guaranteed to be within the confidence interval 99% of the time. \n\nOption (C) is incorrect because the confidence interval is not necessarily related to the rejection or failure to reject the null hypothesis. \n\nOption (D) is incorrect because false null hypotheses are not a factor in the creation of a 99% confidence interval. ###",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "What is the main difference between the Dickey Fuller (DF) and Phillips-Perron (PP) approaches to unit root testing?\n\n(A) ADF is a single equation approach to unit root testing while PP is a systems approach\n(B) PP tests reverse the DF null and alternative hypotheses so that there is stationarity under the null hypothesis of the PP test\n(C) The PP test incorporates an automatic correction for autocorrelated residuals in the test regression\n(D) PP tests have good power in small samples whereas DF tests do not.",
+            "correct_answer": 2,
+            "model_answer": "The main difference between the Dickey Fuller (DF) and Phillips-Perron (PP) approaches to unit root testing is that the DF test is a single equation approach to unit root testing while the PP test is a systems approach. Therefore, the answer is (A). \n\nThe PP test incorporates an automatic correction for autocorrelated residuals in the test regression, which is option (C). The PP test also tests reverse the DF null and alternative hypotheses so that there is stationarity under the null hypothesis of the PP test, which is option (B). The DF test, on the other hand, does not have good power in small samples, which is option (D). ###",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "If there were a leverage effect in practice, what would be the shape of the news impact curve for as model that accounted for that leverage?\n\n(A) It would rise more quickly for negative disturbances than for positive ones of the same magnitude\n(B) It would be symmetrical about zero\n(C) It would rise less quickly for negative disturbances than for positive ones of the same magnitude\n(D) It would be zero for all positive disturbances",
+            "correct_answer": 0,
+            "model_answer": "The leverage effect means that the impact of news on economic activity is not limited to the direct effect on the news item itself. For example, if a company's stock price rises due to positive news about its earnings, it can have a positive effect on the overall economy by increasing consumer confidence and spending. On the other hand, negative news about the company's earnings can have a negative effect on the economy by decreasing consumer confidence and spending.\n\nIn a model that accounts for the leverage effect, the impact of news on economic activity would be expected to rise more quickly for negative disturbances than for positive ones of the same magnitude. This is because negative news is more likely to have a broader and more negative impact on the economy than positive news. Therefore, the answer is (A). ###",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "Which of the following statements is false concerning the linear probability model?\n\n(A) There is nothing in the model to ensure that the estimated probabilities lie between zero and one\n(B) Even if the probabilities are truncated at zero and one, there will probably be many observations for which the probability is either exactly zero or exactly one\n(C) The error terms will be heteroscedastic and not normally distributed\n(D) The model is much harder to estimate than a standard regression model with a continuous dependent variable",
+            "correct_answer": 3,
+            "model_answer": "To determine which of the statements is false concerning the linear probability model, let's evaluate each statement step-by-step:\n\n(A) \"There is nothing in the model to ensure that the estimated probabilities lie between zero and one\"\nThe linear probability model allows for the estimation of probabilities, and there is no explicit requirement for the probabilities to lie between zero and one. Therefore, statement (A) is false.\n\n(B) \"Even if the probabilities are truncated at zero and one, there will probably be many observations for which the probability is either exactly zero or exactly one\"\nThis statement is known as the probability mass at zero or one. While it is true that there will be observations with probabilitiesnear zero or one, it is not generally true that all observations will have probabilities exactly zero or one. Therefore, statement (B) is false.\n\n(C) \"The error terms will be heteroscedastic and not normally distributed\"\nThe error terms in the linear probability model are typically assumed to be normally distributed, regardless of whether the probabilities are between zero and one. However, if the probabilities are uncorrelated across the model, then the error terms can be heteroscedastic. Therefore, statement (C) is false.\n\n(D) \"The model is much harder to estimate than a standard regression model with a continuous dependent variable\"\nThe estimation of the linear probability model is more challenging than that of a standard regression model with a continuous dependent variable. This is because the probabilities in the linear probability model are discrete, whereas the continuous dependent variable in a standard regression model is reserving for a wide range of outcomes. Therefore, statement (D) is false.\n\nBased on the evaluation of each statement, we can conclude that the false statement concerning the linear probability model is (A) \"There is nothing in the model to ensure that the estimated probabilities lie between zero and one.\" ###",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "Which of the following statements concerning the regression population and sample is FALSE?\n\n(A) The population is the total collection of all items of interest\n(B) The population can be infinite\n(C) In theory, the sample could be larger than the population\n(D) A random sample is one where each individual item from the population is equally likely to be drawn.",
+            "correct_answer": 2,
+            "model_answer": "The statement that is FALSE is (C) In theory, the sample could be larger than the population. This statement is false because a sample is a subset of a population, and a subset cannot be larger than the set it is a subset of. In other words, the sample size is always smaller than the population size. Therefore, the answer is (C). ###",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "Which of the following statements is INCORRECT concerning a comparison of the Box-Pierce Q and the Ljung-Box Q* statistics for linear dependence in time series?\n\n(A) Asymptotically, the values of the two test statistics will be equal\n(B) The Q test has better small-sample properties than the Q*\n(C) The Q test is sometimes over-sized for small samples\n(D) As the sample size tends towards infinity, both tests will show a tendency to always reject the null hypothesis of zero autocorrelation coefficients.",
+            "correct_answer": 1,
+            "model_answer": "The answer is (D).\n\nExplanation:\n\n(A) is correct. Both test statistics are asymptotic equivalents, which means that in the long run, they will have the same distribution.\n\n(B) is incorrect. The Q test has similar or better small-sample properties than the Q*. In fact, the Q* test is known to be quite unstable in small samples.\n\n(C) is correct. The Q test is sometimes over-sized for small samples, which means that it may reject the null hypothesis of zero autocorrelation coefficients when it is not actually true. On the other hand, the Q* test is less affected by sample size.\n\n(D) is incorrect. As the sample size tends towards infinity, both tests will never reject the null hypothesis of zero autocorrelation coefficients. This is because both tests are based on the same principle that the larger the sample size, the more stable the estimates of the autoregressive coefficients will be. Therefore, when the sample size is large enough, the estimates will converge to their true values, which are zero. However, in smaller samples, the estimates may be unstable and differ from zero, leading to false rejections of the null hypothesis. ###",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "A parsimonious model is one that\n\n(A) Includes too many variables\n(B) Includes as few variables as possible to explain the data\n(C) Is a well-specified model\n(D) Is a mis-specified model",
+            "correct_answer": 0,
+            "model_answer": "A parsimonious model is one that includes as few variables as possible to explain the data. Therefore, the answer is (B). \n\nExplanation: A parsimonious model is a statistical model that is simple and easy to fit, yet still accurately describes the data. It includes only the most important variables needed to explain the data, reducing the likelihood of over-fitting or complication. On the other hand, a non-parsimonious model includes too many variables, which can lead to over-fitting and poor performance. Therefore, option (A) is incorrect. A well-specified model is not necessarily parsimonious, as it can be over-specified or under-specified. A mis-specified model can be parsimonious, meaning it includes too few variables, or non-parsimonious, meaning it includes too many variables. Therefore, options (C) and (D) are incorrect. ###",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Which of the following is NOT a feature of continuously compounded returns (i.e. log-returns)?\n\n(A) They can be interpreted as continuously compounded changes in the prices\n(B) They can be added over time to give returns for longer time periods\n(C) They can be added across a portfolio of assets to give portfolio returns\n(D) They are usually fat-tailed",
+            "correct_answer": 2,
+            "model_answer": "The correct answer is (D) They are usually fat-tailed.\n\nContinuously compounded returns, also known as log-returns, are a measure of the rate at which prices change over time. They can be interpreted as continuously compounded changes in the prices, and they can be added over time to give returns for longer time periods. They can be added across a portfolio of assets to give portfolio returns. However, the fact that they are usually fat-tailed means that extreme events can have a significant impact on the distribution of returns. Therefore, (D) is the correct answer. ###",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Which of the following features of financial asset return time-series could be captured using a standard GARCH(1,1) model?\n\ni) Fat tails in the return distribution\n\n\nii) Leverage effects\n\n\niii) Volatility clustering\n\n\niv) Volatility affecting returns\n\n(A) (ii) and (iv) only\n(B) (i) and (iii) only\n(C) (i), (ii), and (iii) only\n(D) (i), (ii), (iii), and (iv)",
+            "correct_answer": 1,
+            "model_answer": "The features of financial asset return time-series that could be captured using a standard GARCH(1,1) model are (i) Fat tails in the return distribution, (ii) Leverage effects, and (iii) Volatility clustering. Therefore, the correct answer is (C) (i), (ii), and (iii) only.\n\nExplanation:\nGARCH(1,1) is a special case of the generalised autoregressive conditional heteroskedasticity (GARCH) model, which is a stochastic volatility model. The standard GARCH(1,1) model can be used to capture the variance of the series, which is related to the variance of future returns. This means that the model can be used to capture the volatility of the series, which is necessary to model leverage effects and volatility clustering. Fat tails, which are characterized by heavy tails in the distribution of returns, can also be captured by the model, although this is not the primary goal of the model. Therefore, the correct answer is (C) (i), (ii), and (iii) only. ###",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Consider the estimation of a GARCH-M model. If the data employed were a time-series of daily corporate bond percentage returns, which of the following would you expect the value of the GARCH-in-mean parameter estimate to be?\n\n(A) Less than -1\n(B) Between -1 and 0\n(C) Between 0 and 1\n(D) Bigger than 1",
+            "correct_answer": 2,
+            "model_answer": "The GARCH-in-mean model is used to model the conditional variance of a time-series. The GARCH-in-mean parameter represents the degree of control of the variance by the mean. In the case of daily corporate bond percentage returns, the GARCH-in-mean parameter estimate would be expected to be greater than 0 (option D) because the mean has a positive influence on the variance of daily returns. Therefore, the value of the GARCH-in-mean parameter estimate would be greater than 0 (option D). ###",
+            "correct": false
+        }
+    ]
+}

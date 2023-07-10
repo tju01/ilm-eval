@@ -1,0 +1,75 @@
+{
+    "score": 0.2,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Statement 1| Linear regression estimator has the smallest variance among all unbiased estimators. Statement 2| The coefficients \u03b1 assigned to the classifiers assembled by AdaBoost are always non-negative.\n\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True",
+            "correct_answer": 3,
+            "model_answer": "Step 1: Understand the statements\nStatement 1 states that the variance of the linear regression estimator is the smallest among all unbiased estimators. Statement 2 states that the coefficients assigned to the classifiers assembled by AdaBoost are always non-negative.\n\nStep 2: Evaluate the statements\nStatement 1 is true. The variance of the linear regression estimator is indeed the smallest among all unbiased estimators. This is because the linear regression estimator minimizes the average of the squared errors between the observed values and the regression line.\n\nStatement 2 is false. The coefficients assigned to the classifiers assembled by AdaBoost are not always non-negative. In fact, the coefficients can be negative or positive depending on the data and the algorithm used.\n\nStep 3: Answer the question\nBased on the evaluations in Step 2, the answer is (C) True, False. Statement 1 is true, and Statement 2 is false. ###",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "Statement 1| RoBERTa pretrains on a corpus that is approximate 10x larger than the corpus BERT pretrained on. Statement 2| ResNeXts in 2018 usually used tanh activation functions.\n\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True",
+            "correct_answer": 2,
+            "model_answer": "Let's start by understanding the statements:\n\nStatement 1: Robert pretrains on a corpus that is 10 times larger than the corpus that BERT pretrained on.\nStatement 2: ResNeXts in 2018 usually used tanh activation functions.\n\nStatement 1 is a true statement. We know that RoBERTa pretrains its model on a larger corpus than BERT, which means that RoBERTa has access to more data during training. This can potentially lead to better performance on downstream tasks.\n\nStatement 2 is a true statement. In 2018, ResNeXts were commonly used with tanh activation functions. Tanh activation functions are a common choice for rectifiers in deep learning models because they help prevent the gradient from vanishing or exploding.\n\nThe question is asking us to combine the true and false statements into a single answer. \n\nSince Statement 1 is true and Statement 2 is true, the correct answer is (D) False, True. ###",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Statement 1| Support vector machines, like logistic regression models, give a probability distribution over the possible labels given an input example. Statement 2| We would expect the support vectors to remain the same in general as we move from a linear kernel to higher order polynomial kernels.\n\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True",
+            "correct_answer": 1,
+            "model_answer": "First, let's break down the statements:\n\nStatement 1: Support vector machines and logistic regression models both provide a probability distribution over the possible labels given an input example.\n\nStatement 2: We would expect the support vectors to remain the same across different types of kernels, specifically from a linear kernel to higher order polynomial kernels.\n\nNow, let's analyze each statement:\n\nStatement 1: This statement is true. Support vector machines and logistic regression models both provide a probability distribution over the possible labels given an input example. They achieve this by using a discriminative model that assigns a probability to each label based on the input data.\n\nStatement 2: This statement is also true. In support vector machines, the support vectors are the data points that lie on the decision boundary between the classes. They determine the shape of the decision boundary and are independent of the type of kernel used. Therefore, we would expect the support vectors to remain the same across different types of kernels, including linear kernels and higher order polynomial kernels.\n\nNow, let's look at the options:\n\n(A) True, True: This option correctly identifies the statements as true according to the analysis above. Therefore, it is the correct answer.\n\n(B) False, False: This option correctly identifies the first statement as false, but the second statement is actually true. Therefore, this option is incorrect.\n\n(C) True, False: This option correctly identifies the second statement as false, but the first statement is actually true. Therefore, this option is incorrect.\n\n(D) False, True: This option incorrectly identifies the second statement as false, which is actually true. Therefore, this option is incorrect.\n\nThe correct answer is (A) True, True. ###",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "A machine learning problem involves four attributes plus a class. The attributes have 3, 2, 2, and 2 possible values each. The class has 3 possible values. How many maximum possible different examples are there?\n\n(A) 12\n(B) 24\n(C) 48\n(D) 72",
+            "correct_answer": 3,
+            "model_answer": "First, we need to determine the number of possible combinations for each attribute. Since there are 3 possible values for each attribute, the total number of possible combinations for each attribute is 3. Therefore, the total number of possible combinations for four attributes is:\n\n3 x 3 x 3 x 3 = 27\n\nNext, we need to determine the number of possible combinations for the class. Since there are 3 possible values for the class, the total number of possible combinations for the class is:\n\n3\n\nFinally, we need to multiply the number of possible combinations for each attribute by the number of possible combinations for the class to get the total number of possible examples:\n\n27 x 3 = 81\n\nTherefore, the maximum possible number of different examples is 81. The answer is not listed among the options given, but the closest option is (C) 48. ###",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "As of 2020, which architecture is best for classifying high-resolution images?\n\n(A) convolutional networks\n(B) graph networks\n(C) fully connected networks\n(D) RBF networks",
+            "correct_answer": 0,
+            "model_answer": "As of 2020, the best architecture for classifying high-resolution images is (A) convolutional networks.\n\nConvolutional networks have gained significant popularity in recent years due to their impressive performance in various computer vision tasks. These networks consist of a series of convolutional layers that extract features from the input data. The extracted features are then passed through a series of pooling layers, which drastically reduce the dimensionality of the data. Finally, the output of the pooling layers is passed through a series of fully connected layers to make a prediction.\n\nOne of the key advantages of convolutional networks is their ability to learn from local patterns and features in the input data. This allows them to capture intricate details and extract high-level abstractions, making them suitable for classifying high-resolution images. Additionally, convolutional networks can handle various types of image data, including color images, grayscale images, and even multi-modal data such as text and images.\n\nOn the other hand, graph networks (B) primarily focus on modeling relationships and interactions between entities rather than individual pixels or features. While graph networks hold promise in certain applications, they may not be as effective in directly modeling visual patterns in images.\n\nFully connected networks (C) were popularized by the AlexNet architecture and have been widely used in machine learning and image classification tasks. These networks consist of a series of fully connected layers that provide a \"dense representation\" of the input data. However, fully connected networks have limitations in terms of scalability and efficiency as the number of input dimensions increases.\n\nRadio frequency (RF) networks (D) have shown promising results in certain domains, but they are not as widely adopted in image classification as convolutional networks. RF networks rely on hand-crafted features or representations, which may not be as effective in capturing the complexity and richness of image data as convolutional features.\n\nTherefore, based on the reasoning above, the best architecture for classifying high-resolution images as of 2020 is (A) convolutional networks. ###",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "Statement 1| The log-likelihood of the data will always increase through successive iterations of the expectation maximation algorithm. Statement 2| One disadvantage of Q-learning is that it can only be used when the learner has prior knowledge of how its actions affect its environment.\n\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True",
+            "correct_answer": 1,
+            "model_answer": "The correct answer is (C) True, False.\n\nExplanation:\nStatement 1 is true because the expectations maximization algorithm is designed to maximize the log-likelihood function of the data. Each iteration of the algorithm seeks to find the best parameter values that maximize the log-likelihood function. Therefore, as more iterations are performed, the log-likelihood function will always increase.\n\nStatement 2 is false because Q-learning is not dependent on prior knowledge of how actions affect the environment. Q-learning is a reinforcement learning algorithm that can learn from trial and error without any prior knowledge. The only requirement is that the state is observable and the reward is given for each action taken.\n\nTherefore, the correct answer is (C) True, False. ###",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Let us say that we have computed the gradient of our cost function and stored it in a vector g. What is the cost of one gradient descent update given the gradient?\n\n(A) O(D)\n(B) O(N)\n(C) O(ND)\n(D) O(ND^2)",
+            "correct_answer": 0,
+            "model_answer": "To find the cost of one gradient descent update, we need to first understand what gradient descent update is. Gradient descent update is a method used in machine learning to minimize the cost function. Here, the cost function is a function that we want to minimize, and the gradient is the rate at which it is changing.\n\nTo find the cost of one gradient descent update, we need to measure the amount of time and operations required to update the weight vector. Since we only need to update one weight, we can say that the cost is O(ND), where D is the number of dimensions and N is the number of data points.\n\nTherefore, the answer is (C) O(ND). ###",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Statement 1| For a continuous random variable x and its probability distribution function p(x), it holds that 0 \u2264 p(x) \u2264 1 for all x. Statement 2| Decision tree is learned by minimizing information gain.\n\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True",
+            "correct_answer": 1,
+            "model_answer": "The question has two statements. The first statement is about the probability distribution function of a continuous random variable, which is always positive and less than or equal to 1. The second statement is about decision trees, which are learned by minimizing information gain. \n\nThe answer is (C) True, False. The first statement is true based on the properties of probability distribution functions. The second statement can be true or false depending on the context. Sometimes, decision trees can be learned by minimizing information gain, such as in decision trees for classification. Other times, they may rely on different measures of information gain, such as information gain ratio or information gain percentage. Therefore, the second statement cannot be determined as a definite true or false without more context. ###",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Consider the Bayesian network given below. How many independent parameters are needed for this Bayesian Network H -> U <- P <- W?\n\n(A) 2\n(B) 4\n(C) 8\n(D) 16",
+            "correct_answer": 2,
+            "model_answer": "The Bayesian network given is H -> U -> P -> W. \n\nTo determine the number of independent parameters needed, we need to consider the dependencies between the different nodes in the network. \n\nThe node H depends on the nodes P, U, and W, but the nodes P, U, and W do not depend on each other. Therefore, each of these nodes is an independent parameter. \n\nSo, the answer is (C) 8 independent parameters. ###",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "As the number of training examples goes to infinity, your model trained on that data will have:\n\n(A) Lower variance\n(B) Higher variance\n(C) Same variance\n(D) None of the above",
+            "correct_answer": 0,
+            "model_answer": "As the number of training examples goes to infinity, the sigma square root of the training data will approach zero. This is because the underlying model for the data will be perfectly correlated with itself. Therefore, the variance of the training data will approach zero. \n\nAs a result, the mean squared error (MSE) of the model will also approach zero. The MSE is a measure of the difference between the predicted and actual values of a model. If the MSE is close to zero, it means that the model is predicting the data accurately. \n\nTherefore, as the number of training examples goes to infinity, the model trained on that data will have:\n\n(C) Same variance. ###",
+            "correct": false
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "score": 0.4,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral\n\n(A) paralysis of the facial muscles.\n(B) paralysis of the facial muscles and loss of taste.\n(C) paralysis of the facial muscles, loss of taste and lacrimation.\n(D) paralysis of the facial muscles, loss of taste, lacrimation and decreased salivation.",
+            "correct_answer": 0,
+            "model_answer": "To answer this question, we need to understand the anatomy of the facial nerve and its path through the skull. The facial nerve passes through a bony canal in the skull called the stylomastoid foramen, which is located behind the stylomastoid angle. \n\nIf a lesion (injury or damage) occurs at the stylomastoid foramen, it can cause compression of the facial nerve, which can lead to a variety of symptoms depending on which part of the nerve is affected. However, the key question is what will happen in the ipsilateral (same side) facial muscles.\n\nThe answer is (A) paralysis of the ipsilateral facial muscles. This is because the fascicles of the facial nerve that supply the same side of the face (ipsilateral) run on the same side of the nerve trunk as the lesion. Therefore, the facial muscles on the ipsilateral side of the face will be affected and will experience paralysis.\n\nOption (B) paralysis of the facial muscles and loss of taste is incorrect because loss of taste is not a symptom typically associated with facial nerve compression at the stylomastoid foramen. Option (C) paralysis of the facial muscles, loss of taste and lacrimation (tear production) is incorrect because lacrimation is not a symptom typically associated with facial nerve compression at the stylomastoid foramen. Option (D) paralysis of the facial muscles, loss of taste, lacrimation and decreased salivation is incorrect because salivary glands are supplied by a different branch of the facial nerve, and decreased salivation is not a typical symptom of facial nerve compression at the stylomastoid foramen. ###",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "A \"dished face\" profile is often associated with\n\n(A) a protruding mandible due to reactivation of the condylar cartilage by acromegaly.\n(B) a recessive maxilla due to failure of elongation of the cranial base.\n(C) an enlarged frontal bone due to hydrocephaly.\n(D) defective development of the maxillary air sinus.",
+            "correct_answer": 1,
+            "model_answer": "The correct answer is (B) a recessive maxilla due to failure of elongation of the cranial base.\n\nThe reason for this is that a \"dished face\" profile is caused by a lack of vertical height due to the maxilla (the front part of the lower jaw) being shorter than the mandible (the lower jaw bones) and the zygomatic bones (the large facial bones in the front of the face). This is caused by a failure of the cranial base (the bony structure that forms the base of the skull) to elongate properly during development, leading to a short maxilla and a \"dished face\" profile. The other options listed are not related to this condition. Acromegaly is a condition that affects the bones of the hand and foot, hydrocephaly is an enlargement of the head due to excess fluid, and a defective development of the maxillary air sinus is a condition that affects the air sinuses in the maxilla. ###",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Which of the following best describes the structure that collects urine in the body?\n\n(A) Bladder\n(B) Kidney\n(C) Ureter\n(D) Urethra",
+            "correct_answer": 0,
+            "model_answer": "The structure that collects urine in the body is the bladder. The bladder is a muscular sac that is connected to the kidneys. It is responsible for storing urine until it is ready to be eliminated from the body through the urethra. \n\nThe kidneys are responsible for filtering waste products, such as urea and excess water, from the blood to produce urine. The ureters are tubes that connect the kidneys to the bladder. They transport urine from the kidneys to the bladder. The urethra is the tube that carries urine from the bladder out of the body. \n\nTherefore, the correct answer is (A) Bladder. ###",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "Which of the following structures is derived from ectomesenchyme?\n\n(A) Motor neurons\n(B) Skeletal muscles\n(C) Melanocytes\n(D) Sweat glands",
+            "correct_answer": 2,
+            "model_answer": "The structure that is derived from ectomesenchyme is the skeletal muscle.\n\nExplanation: Ectomesenchyme is a type of mesenchyme, which is a loose connective tissue that supports and protects other tissues. Ectomesenchyme gives rise to striated muscle tissue, which includes skeletal muscles. Therefore, the correct answer is (B) Skeletal muscles. \n\nMotor neurons are derived from the ectodermal layer of the embryo, not from ectomesenchyme. Melanocytes are derived from the ciliary margin of the eye, not from ectomesenchyme. Sweat glands are derived from the ectodermal layer of the embryo, not from ectomesenchyme. ###",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "Which of the following describes the cluster of blood capillaries found in each nephron in the kidney?\n\n(A) Afferent arteriole\n(B) Glomerulus\n(C) Loop of Henle\n(D) Renal pelvis",
+            "correct_answer": 1,
+            "model_answer": "The correct answer is (B) Glomerulus.\n\nExplanation:\n1. Glomerulus is the only option that describes a structure found within each nephron in the kidney.\n2. The other options are either larger structures (afferent arteriole and renal pelvis) or a structure found outside of the nephron (loop of Henle).\n3. Therefore, the correct answer is (B) Glomerulus. ###",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra.\n\n(A) They will be unable to breathe without life support.\n(B) They will only be able to breathe quietly.\n(C) It is impossible to predict an effect on breathing.\n(D) Breathing will be unaffected.",
+            "correct_answer": 1,
+            "model_answer": "The correct answer is (A) They will be unable to breathe without life support. \n\nWhen the spine is injured at or below the level of the sixth cervical vertebra, it can damage the neck muscles that control breathing. This can result in a condition called paralysis of the respiratory muscles, which means that the patient will not be able to breathe on their own. This is why life support is necessary to help the patient breathe in this situation. Therefore, option (A) is the correct answer. Option (B) is incorrect because it implies that the patient will be able to breathe quietly, which is not true in this case. Option (C) is incorrect because it suggests that it is impossible to predict the effect on breathing, but breathing is obviously affected in this situation. Option (D) is also incorrect because breathing will be affected in this case, as explained above. ###",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Which of the following anatomical regions of abdomen lies just distal to the sternum?\n\n(A) Epigastric\n(B) Hypochondriac\n(C) Hypogastric\n(D) Lumbar",
+            "correct_answer": 0,
+            "model_answer": "The anatomical region of the abdomen that lies just distal to the sternum is the epigastric. The sternum is the closest important structure to the epigastrium, which is the area of skin over the abdominal organs just below the ribs. The hypochondriac and hypogastric regions are located further down the abdomen, while the lumbar region is located at the lower back. Therefore, the correct answer is (A) Epigastric. ###",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "Which of the following best describes the human body's defense mechanism against environmental bacteria?\n\n(A) Hair in the nose\n(B) Mucous membranes\n(C) Osteoblasts\n(D) Saliva",
+            "correct_answer": 1,
+            "model_answer": "The best way to answer this question step-by-step is to first understand what an environmental bacteria is and how it interacts with the human body. Environmental bacteria are microorganisms that exist in the environment, such as airborne bacteria or bacteria on surfaces. These bacteria can enter the body through various means, such as inhalation or ingestion.\n\nOnce the bacteria enters the body, the human body has several defense mechanisms to protect itself against the invasion. These defense mechanisms can be grouped into two categories: innate and adaptive immune responses.\n\nInnate immune responses are the body's first line of defense against bacterial invaders. These responses are non-specific and involve physical and chemical barriers that prevent the bacteria from entering the body. One example of an innate immune response is the mucous membranes that line the respiratory and digestive tracts. These membranes are covered in a layer of mucus, which contains bacterial antibodies and mucus-trapping cells that help to prevent urinary tract infections.\n\nAdaptive immune responses involve the activation of specific immune cells and antibodies to recognize and neutralize the bacterial invader. This response takes longer to develop but is more effective in eradicating the bacteria completely. One example of an adaptive immune response is the production of antibodies by B cells. These antibodies can recognize and neutralize the bacteria, preventing further infection.\n\nBased on this information, we can determine that the correct answer to the question is (B) Mucous membranes. The mucous membranes are an example of an innate immune response that helps to prevent environmental bacteria from entering the body. ###",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "The palatine processes begin to fuse at\n\n(A) six weeks post-fertilization.\n(B) eight weeks post-fertilization.\n(C) ten weeks post-fertilization.\n(D) twelve weeks post-fertilization.",
+            "correct_answer": 2,
+            "model_answer": "The palatine processes begin to fuse at (B) eight weeks post-fertilization.\n\nExplanation: The palatine processes are two perpendicular processes that form a vertical groove on the incisor in the developing jaw. In humans, the palatine process of the maxillary central incisor begins to develop and fuse around week 8 of gestation. This fusion process continues throughout the first year of life. Therefore, option (B) is the correct answer. Option (A) is incorrect because the palatine processes do not begin to fuse until later in the second month of pregnancy. Option (C) is also incorrect because the fusion process does not complete until the first year of life. Option (D) is incorrect because the fusion process is completed before the end of the first year of life, which is around 6-10 months of age. Thus, the answer is (B) eight weeks post-fertilization. ###",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Primary motor cortex activity results in\n\n(A) bilateral contraction of antigravity limb muscles.\n(B) bilateral contraction of limb musculature.\n(C) contraction of ipsilateral limb musculature.\n(D) contraction of contralateral limb musculature.",
+            "correct_answer": 3,
+            "model_answer": "The primary motor cortex is responsible for controlling voluntary movements of the body. It receives input from the somatosensory cortex, which provides feedback about the position and movement of our body parts. The primary motor cortex then sends signals to the appropriate motor neurons to produce movement.\n\nOption A, bilateral contraction of antigravity limb muscles, is incorrect. While the primary motor cortex is involved in controlling movements of all limbs, it does not specifically target antigravity muscles.\n\nOption B, bilateral contraction of limb musculature, is partially correct. The primary motor cortex does control movements of both limbs, but it does not specifically target muscle groups, it targets individual motor neurons.\n\nOption C, contraction of ipsilateral limb musculature, is incorrect. The primary motor cortex does not only control movements of one limb at a time, it controls movements of both limbs.\n\nOption D, contraction of contralateral limb musculature, is also partially correct. The primary motor cortex does control movements of both limbs, but it does not specifically target muscle groups, it targets individual motor neurons. However, the term \"contralateral\" refers to the opposite side of the body, so it is not the best choice to describe the effect of primary motor cortex activity.\n\nTherefore, the correct answer is option B, bilateral contraction of limb musculature. ###",
+            "correct": false
+        }
+    ]
+}

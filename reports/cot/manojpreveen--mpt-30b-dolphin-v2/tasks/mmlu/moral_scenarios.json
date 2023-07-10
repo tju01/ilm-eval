@@ -1,0 +1,75 @@
+{
+    "score": 0.3,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I slammed on my breaks to miss the ball as it came in to the road. Scenario 2 | I taught my children to play the xylophone.\n\n(A) Wrong, Wrong\n(B) Wrong, Not wrong\n(C) Not wrong, Wrong\n(D) Not wrong, Not wrong",
+            "correct_answer": 3,
+            "model_answer": "The main character in Scenario 1 does something clearly morally wrong, according to ordinary moral standards in the US as of 2020. Therefore, the answer is (A) Wrong, Wrong. The act of slamming on the brakes to miss a ball that is on the road is an intentional act of harm that could potentially cause injury to the ball or other people on the road. This behavior is not only immoral but also dangerous and could result in legal consequences. \n\nOn the other hand, in Scenario 2, the main character did not do anything clearly wrong according to ordinary moral standards in the US as of 2020. Teaching children to play an instrument is a positive and beneficial activity that promotes creativity and self-expression. Therefore, the answer is (D) Not wrong, Not wrong. ###",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I spoke to my mom on the phone during my entire work shift. Scenario 2 | I helped my friend escape prison.\n\n(A) Wrong, Wrong\n(B) Wrong, Not wrong\n(C) Not wrong, Wrong\n(D) Not wrong, Not wrong",
+            "correct_answer": 0,
+            "model_answer": "The main character in Scenario 1, \"I spoke to my mom on the phone during my entire work shift,\" does not do anything clearly wrong according to ordinary moral standards in the US as of 2020. Therefore, the answer is (A) Wrong, Wrong. \n\nExplanation: \nThe main character is using \"I/me/my\" to refer to themselves, but it is not clear who is being talked about in relation to the action of helping someone escape prison. However, in Scenario 1, the main character is not doing anything wrong according to ordinary moral standards in the US as of 2020. Therefore, the answer is (A) Wrong, Wrong. ###",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I made sure to dispose of my banana peel since someone could trip on it. Scenario 2 | I stirred the drink before giving it to the customer.\n\n(A) Wrong, Wrong\n(B) Wrong, Not wrong\n(C) Not wrong, Wrong\n(D) Not wrong, Not wrong",
+            "correct_answer": 3,
+            "model_answer": "The correct answer is (A) Wrong, Wrong. \n\nIn Scenario 1, the main character disposes of their banana peel, which is not a clear moral wrong according to ordinary moral standards in the US as of 2020. \n\nIn Scenario 2, the main character stirs the drink before giving it to the customer, which could be a clear moral wrong depending on the circumstances. Stirring the drink could potentially make it unappetizing or spoil it, causing harm to the customer. However, without more information about the context, we cannot definitively say that the main character did something clearly morally wrong. ###",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | Sometimes I hide my grandpa's teeth because he loves a good steak. Scenario 2 | I pushed the small children on the swing set.\n\n(A) Wrong, Wrong\n(B) Wrong, Not wrong\n(C) Not wrong, Wrong\n(D) Not wrong, Not wrong",
+            "correct_answer": 1,
+            "model_answer": "The main character in Scenario 1 does something clearly morally wrong, according to ordinary moral standards in the US as of 2020. Therefore, the answer is (C) Not wrong, Wrong. ###",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I played fetch with my dog at the park. Scenario 2 | I baked peanut butter cookies for my daughter's friends.\n\n(A) Wrong, Wrong\n(B) Wrong, Not wrong\n(C) Not wrong, Wrong\n(D) Not wrong, Not wrong",
+            "correct_answer": 3,
+            "model_answer": "The correct answer is (C) Not wrong, Wrong.\n\nIn Scenario 1, the main character played fetch with their dog at the park. This activity is generally considered to be a harmless and enjoyable pursuit for both the dog and the owner. It aligns with ordinary moral standards in the US as of 2020.\n\nIn Scenario 2, the main character baked peanut butter cookies for their daughter's friends. This action is also generally considered to be kind and thoughtful, as the main character made a gesture to show their daughter that they care about her relationships with her friends. It also aligns with ordinary moral standards in the US as of 2020.\n\nTherefore, based on the given information, the main character does something clearly not wrong in both scenarios. Hence, the answer is (C) Not wrong, Wrong. ###",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I was all out of face paint for my child's Halloween outfit, so I used a makeup pallet since I had to improvise. Scenario 2 | I like Bill, and he doesn't know me; I'm planted one on him to see if sparks would fly.\n\n(A) Wrong, Wrong\n(B) Wrong, Not wrong\n(C) Not wrong, Wrong\n(D) Not wrong, Not wrong",
+            "correct_answer": 2,
+            "model_answer": "The answer is (A) Wrong, Wrong. The scenario in which the main character (who uses I/me/my) clearly violates ordinary moral standards in the US as of 2020 is Scenario 2: \"I like Bill, and he doesn't know me; I'm planted one on him to see if sparks would fly.\" This scenario involves intentionally deceiving someone and potentially causing harm to them, which is a moral violation. In contrast, Scenario 1 does not involve any clear moral violation. ###",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I watched the nurse grab a box of crackers and put them in her purse at work. Scenario 2 | I was due to start work soon, so I went there.\n\n(A) Wrong, Wrong\n(B) Wrong, Not wrong\n(C) Not wrong, Wrong\n(D) Not wrong, Not wrong",
+            "correct_answer": 3,
+            "model_answer": "Based on ordinary moral standards in the US as of 2020, the main character (who uses I/me/my) does something clearly wrong in Scenario 1. The act of stealing (grabbing a box of crackers and putting them in her purse without authorization) is considered theft and is considered wrong according to standard moral values. In Scenario 2, the main character is simply about to start work, and there is no indication of any moral wrongdoing. Therefore, the answer is (C) Not wrong, Wrong. ###",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | While the elderly lady was gone I helped her out by cleaning everything in her house. Scenario 2 | I got a permit to bring a gun into the classroom in case I needed to defend the students.\n\n(A) Wrong, Wrong\n(B) Wrong, Not wrong\n(C) Not wrong, Wrong\n(D) Not wrong, Not wrong",
+            "correct_answer": 3,
+            "model_answer": "To determine whether the main character in each scenario does something clearly moral wrong, we need to consider ordinary moral standards in the US as of 2020.\n\nScenario 1: While the elderly lady was gone, you helped her out by cleaning everything in her house. This action of helping an elderly lady by cleaning her house is generally seen as compassionate and caring. It aligns with ordinary moral standards in the US as of 2020, as helping others and showing kindness to those in need is widely accepted. Therefore, the answer is not wrong.\n\nScenario 2: I got a permit to bring a gun into the classroom in case I needed to defend the students. This action of obtaining a permit to bring a gun into a classroom raises concerns about the safety and well-being of the students. Despite obtaining a permit, the decision to carry a gun in a school setting can be seen as potentially increasing risk and causing fear among students. This action does not align with ordinary moral standards in the US as of 2020, as it prioritizes gun rights over the safety and comfort of students. Therefore, the answer is wrong.\n\nBased on the analysis above, the final answer is (D) Wrong, Not wrong. ###",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I took my best friend's wife on a romantic cruise to the Bahamas. Scenario 2 | I bound her arms and legs and lashed her with a whip.\n\n(A) Wrong, Wrong\n(B) Wrong, Not wrong\n(C) Not wrong, Wrong\n(D) Not wrong, Not wrong",
+            "correct_answer": 0,
+            "model_answer": "(A) Wrong, Wrong. \n\nThe main character in Scenario 1 is taking their best friend's wife on a romantic cruise without their consent. This is a clear violation of trust and boundaries, and is considered wrong according to ordinary moral standards in the US as of 2020. \n\nIn Scenario 2, the main character is described as bound her arms and legs and lashed her with a whip. This is a clear physical abuse and a violation of human rights. Therefore, the main character is doing something clearly wrong according to ordinary moral standards in the US as of 2020. ###",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I chopped down the trees intended for lumber. Scenario 2 | While visiting the Louvre, I touched many of the paintings.\n\n(A) Wrong, Wrong\n(B) Wrong, Not wrong\n(C) Not wrong, Wrong\n(D) Not wrong, Not wrong",
+            "correct_answer": 2,
+            "model_answer": "The correct answer is (A) Wrong, Wrong.\n\nScenario 1 involves chopping down trees intended for lumber. This action clearly goes against the moral standards of not harming living beings and disrespecting the natural environment. Therefore, the main character's action is clearly wrong according to ordinary moral standards in the US as of 2020.\n\nScenario 2 involves touching many of the paintings while visiting the Louvre. This action does not necessarily involve harming anyone or anything. While it may be seen as a violation of the rules of the museum, it does not necessarily go against ordinary moral standards in the US as of 2020. Therefore, the main character's action is not considered wrong according to ordinary moral standards in the US as of 2020. ###",
+            "correct": false
+        }
+    ]
+}

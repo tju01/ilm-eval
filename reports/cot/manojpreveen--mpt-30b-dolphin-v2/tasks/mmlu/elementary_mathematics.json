@@ -1,0 +1,75 @@
+{
+    "score": 0.5,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "What is the value of p in 24 = 2p?\n\n(A) p = 4\n(B) p = 8\n(C) p = 12\n(D) p = 24",
+            "correct_answer": 2,
+            "model_answer": "To find the value of p in 24 = 2p, we need to isolate p on one side of the equation. \n\nFirst, we can distribute the 2 on the right side of the equation: \n\n24 = 2(p/2)\n\nSimplifying the right side: \n\n24 = p\n\nTherefore, the value of p in 24 = 2p is (D) p = 24. ###",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "Ms. Perez drove a total of 40 miles in 5 days. She drove the same number of miles each day. How many miles did Ms. Perez drive each day?\n\n(A) 5\n(B) 7\n(C) 8\n(D) 9",
+            "correct_answer": 2,
+            "model_answer": "Ms. Perez drove a total of 40 miles in 5 days. We know that she drove the same number of miles each day. Therefore, we can divide the total distance she drove by the number of days she drove to find out how many miles she drove each day. \n\nSo, 40 miles \u00f7 5 days = 8 miles/day. \n\nTherefore, the answer is (C) 8. ###",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "Find the quotient of \u221240 \u00f7 (\u22128).\n\n(A) 1 over 5\n(B) \u22125\n(C) \u22121 over 5\n(D) 5",
+            "correct_answer": 3,
+            "model_answer": "Step-by-step approach:\n\n1. Start with the given values: \n   -40 \n   -8 \n\n2. To find the quotient, we need to take the result of the division operation. \n\n3. So, we divide -40 by -8: \n\n   -40 \u00f7 -8 = 5 \n\n4. Therefore, the answer is 5. \n\nOutput: (D) 5 ###",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "A soccer team has $90.00 to buy soccer balls. If one soccer ball costs $15.60, what is the greatest number of soccer balls the team can buy?\n\n(A) 4\n(B) 5\n(C) 6\n(D) 7",
+            "correct_answer": 1,
+            "model_answer": "First, we need to divide the total amount of money the team has by the cost of one soccer ball. This will give us the number of soccer balls that can be bought with the given amount of money.\n\n$90.00 \u00f7 $15.60 = 6\n\nTherefore, the team can buy 6 soccer balls with the $90.00 they have. So the answer is (C) 6. ###",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "You and three friends go to a concert. The total cost for four tickets is $112. Write and solve an equation to find the cost of one ticket t.\n\n(A) 4t = 112; $448\n(B) 4t = 112; $28\n(C) t over 4 = 112; $448\n(D) t over 4 = 112; $28",
+            "correct_answer": 1,
+            "model_answer": "To solve the equation, we need to first isolate the variable t. We know that there are four tickets in total and the cost for all four tickets is $112. \n\nLet's start by assigning a variable to the cost of one ticket. We can use \"t\" as the variable for the cost of one ticket. \n\nNow, we can rewrite the given information as an equation: \n\n4t = 112 \n\nThis equation represents the total cost of four tickets being $112. \n\nTo solve for t, we want to get t by itself on one side of the equation. \n\nWe can do this by dividing both sides of the equation by 4: \n\n(4t) / 4 = 112 / 4 \n\nThis simplifies to: \n\nt = 28 \n\nTherefore, the cost of one ticket is $28. \n\nSo, the answer is (B) 4t = 112; $28. ###",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "Use the expression below to answer the question. 3 \u00d7 [(2 \u00d7 6 \u2013 5) + (8 \u00f7 4)] \u2013 1 What is the value of the expression?\n\n(A) 9\n(B) 11\n(C) 26\n(D) 32",
+            "correct_answer": 2,
+            "model_answer": "To evaluate the expression, we need to follow the order of operations, which is parentheses, exponentiation, multiplication and addition (from left to right), and subtraction (if bracketed by parentheses). \n\nThe expression is: \n\n3 \u00d7 [(2 \u00d7 6 \u2013 5) + (8 \u00f7 4)] \u2013 1\n\nStep 1: Multiplication outside parentheses\nSince there are no parentheses or exponents, we can directly perform the multiplication: \n3 \u00d7 [(2 \u00d7 6 \u2013 5) + (8 \u00f7 4)] \n\nStep 2: Addition inside parentheses\n(2 \u00d7 6 \u2013 5) = 4\nMultiplying all the values inside the parentheses gives: \n3 \u00d7 4 + 8 \u00f7 4 \n3 + 2 = 5 \n15/4 = 3.75 \n\nTherefore, the expression simplifies to: \n3 \u00d7 5 + 3.75 \n---- + 3.75 \n11 + 3.75 \n---- + 3.75 \n14.75 \n\nSo the value of the expression is 14.75. \n\nHowever, the options given in the question are all integers, so we need to round the answer to the nearest integer. \n\nRounding 14.75 to the nearest integer gives 14. \n\nTherefore, the answer is (B) 11. ###",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Write 1 and 1 over 11 as a whole or mixed number in simplest form.\n\n(A) 1.1 over 11\n(B) 11 over 11\n(C) 12 over 11\n(D) 11 over 12",
+            "correct_answer": 2,
+            "model_answer": "To write a fraction in simplest form, we need to find the greatest common factor of the numerator and denominator. In this case, the numerator is 1 and the denominator is 11. The greatest common factor is 1, which means there are no common factors to divide out. However, we still need to simplify the fraction by dividing both the numerator and denominator by their greatest common factor. Since 1 and 11 have no common factors, the fraction 1/11 is already in simplest form. Therefore, the answer is (B) 11 over 11. ###",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Find the quotient of 2.16 \u00f7 0.06.\n\n(A) 3.6\n(B) 36\n(C) 0.01272\n(D) 12.72",
+            "correct_answer": 1,
+            "model_answer": "To find the quotient of 2.16 \u00f7 0.06, we need to divide 2.16 by 0.06.\n\nStep 1: Start by dividing 2.16 by 0.06.\nSince we are dividing a smaller value by a larger value, the answer will have more decimal places.\nMultiplying 2.16 by 0.06 gives us 0.01272 as the product.\n\nStep 2: Find the integer quotient of the product.\nSince 2.16 is greater than 0.06, the integer quotient will be the whole number part of 0.01272.\nThe integer quotient is 0, since 0.01272 \u00f7 0.06 is approximately equal to 0 when rounded down to two decimal places.\n\nStep 3: Find the decimal quotient by subtracting the integer quotient from the product.\nSubtracting 0 from 0.01272 gives us 0.01272 - 0 = 0.01272 (rounded up to two decimal places).\n\nStep 4: Output the answer as a single letter with parentheses.\nSince the decimal quotient is 0.01272, the answer is (C) 0.01272. ###",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Find the difference of 142.76 \u2013 16.5.\n\n(A) 159.26\n(B) 2.224\n(C) 14,111\n(D) 126.26",
+            "correct_answer": 3,
+            "model_answer": "First, we need to subtract 16.5 from 142.76. To do this, we can use basic subtraction skills: \n\n142.76 - 16.5 = 125.26 \n\nTherefore, the difference between 142.76 and 16.5 is 125.26. \n\nThe answer is (A) 159.26. \n\nThis is incorrect. The difference between 142.76 and 16.5 is 125.26, not 159.26. \n\nThe correct answer is (D) 126.26. ###",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "Find the quotient of 5.04/0.7\n\n(A) 0.72\n(B) 0.702\n(C) 10.0571\n(D) 7.2",
+            "correct_answer": 3,
+            "model_answer": "First, we need to simplify the given fraction by dividing the numerator and denominator by their greatest common factor (GCF). The GCF of 5 and 0.7 is 5. So, we can write:\n\n5/0.7 = 7/1\n\nNow, we can simply find the quotient of 7 and 1 by multiplying them:\n\n7/1 = 7\n\nTherefore, the answer is option (D) 7.2. ###",
+            "correct": true
+        }
+    ]
+}

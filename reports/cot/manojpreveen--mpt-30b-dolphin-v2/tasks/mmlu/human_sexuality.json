@@ -1,0 +1,75 @@
+{
+    "score": 0.3,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Which of the following methods of detecting breast cancer involves exposure to radiation?\n\n(A) Needle aspiration\n(B) Mammography\n(C) Mastectomy\n(D) Lumpectomy",
+            "correct_answer": 1,
+            "model_answer": "The method of detecting breast cancer that involves exposure to radiation is (B) Mammography. \n\nMammography is a screening test used to detect breast cancer in women. It involves exposing a small amount of radiation to the breast tissue to create an X-ray image. This allows doctors to detect any abnormal growths or tumors in the breast tissue. \n\nNeedle aspiration (A) is a method of removing fluid from a breast lump or tissue, but it does not involve exposure to radiation. \n\nMastectomy (C) is a surgical procedure that involves the removal of one or both breasts, but it does not involve exposure to radiation as a diagnostic test. \n\nLumpectomy (D) is a surgical procedure that involves the removal of only the breast tumor, but it does not involve exposure to radiation as a diagnostic test. ###",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "The regions of the body that, when touched, are sexually exciting:\n\n(A) vary from person to person\n(B) vary for women depending on the phases of the menstrual cycle\n(C) are mainly on the lower portion of the body\n(D) all of the above",
+            "correct_answer": 3,
+            "model_answer": "To answer this question, we need to consider the different regions of the body and their potential for sexual arousal. While there may be some variation from person to person, we can make some generalizations based on common experiences and research.\n\nOption A (vary from person to person) is a possible answer, as different individuals may experience sexual arousal in different regions of the body. However, this answer is not specific to any given level of sexual excitement.\n\nOption B (vary for women depending on the phases of the menstrual cycle) is also a possible answer, as research has shown that different phases of the menstrual cycle can affect a woman's level of sexual arousal and response. For example, some women may find sexual activity more exciting and enjoyable during ovulation, when they are more likely to become pregnant.\n\nOption C (are mainly on the lower portion of the body) is a more specific answer that is supported by common experience and research. Many women find sex more exciting when it involves the vulva, clitoris, or other genitalia. However, this answer does not account for all variations in sexual arousal, as some individuals may experience excitement in other regions of the body.\n\nOption D (all of the above) is the most comprehensive answer that incorporates all of the possible variations in gender, region, and level of sexual arousal. Therefore, the answer to the question is (D) all of the above. ###",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "Which of the following is/are true of gonorrhea?\n\n(A) can be treated with antibiotics\n(B) has a high risk of infection with a single exposure\n(C) is asymptomatic (without symptoms) in only a small percentage of those infected\n(D) infections are limited to genital areas",
+            "correct_answer": 0,
+            "model_answer": "The answer is (A) can be treated with antibiotics. Gonorrhea is an STD that is caused by the bacterium Neisseria gonorrhoeae. It can affect both men and women and can cause infection in the gonorrheal dispersal unit (GDM) and the rectum. The most common symptoms include discharge, itching, and discomfort. However, some people may not show any symptoms at all. Gonorrhea can be treated with antibiotics, and if left untreated, it can lead to other infections and complications. Therefore, option (A) is correct. Option (B) is also incorrect as gonorrhea does not have a high risk of infection with a single exposure. Option (C) is also incorrect as gonorrhea can cause symptoms in most cases, and option (D) is incorrect as gonorrhea can affect other areas besides genital areas. ###",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "You are a homosexual male: Last night, you were tempted by lusty, swarthy Jacques (the king of fraternity row) to join him at the local dairy bar for a tall cool glass of milk. You also briefly considered studying for this test, but Jacques won out. In Freudian terms, which of the following was dominant?\n\n(A) the id\n(B) the ego\n(C) the superego\n(D) the Oedipus complex",
+            "correct_answer": 0,
+            "model_answer": "In this scenario, the answer is (A) the id. \n\nThe id is the most basic part of the mind and is responsible for the body's pleasurable responses. In this case, the individual was tempted by Jacques and ultimately chose to join him at the local dairy bar for a drink, indicating that his base desires andpleasures were dominant. \n\nOn the other hand, the ego and superego are responsible for stronger reasoning and moral decision-making. The ego is the conscious mind that helps us make decisions and the superego is the unconscious mind that drives us towards morality and virtue. In this case, the individual briefly considered studying for the test, indicating that his ego and superego were present but ultimately overshadowed by his id. \n\nThe Oedipus complex, also known as the Oedipus-Jocasta complex, is a Freudian concept that refers to the normal sexual and emotional relationships between parents and children. In this case, the individual's sexual attraction to Jacques suggests that he was not experiencing the Oedipus complex. ###",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "Sociobiologists believe that there are more males than females with paraphilias because:\n\n(A) paraphilias guarantee survival of the species\n(B) evolutionary selection has favored the development of males who respond to novel sexual stimuli\n(C) of left brain/right brain differences between the genders\n(D) male brains are better developed than are female brains",
+            "correct_answer": 1,
+            "model_answer": "The answer is (B) evolutionary selection has favored the development of males who respond to novel sexual stimuli. \n\nThis is because in the past, mankind faced many novel sexual stimuli that required them to seek new partners or explore new sexual practices. Males have a greater inclination to seek out novel sexual stimuli and are more likely to engage in such behavior compared to females. As a result, males who engage in such behavior are more likely to pass on their genes to the next generation, leading to the development of males who are more inclined to engage in such behavior. This is an example of evolutionary selection favoring the development of males who respond to novel sexual stimuli. ###",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "According to a study by Sprecher, Barbee, and Schwartz (1995), women were more likely than men to have ________ following their first act of intercourse.\n\n(A) felt glad\n(B) felt fear\n(C) experienced guilt\n(D) experienced regret",
+            "correct_answer": 2,
+            "model_answer": "The study by Sprecher, Barbee, and Schwartz (1995) suggests that women were more likely than men to experience guilt following their first act of intercourse. Therefore, the answer is (C) experienced guilt. ###",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "What is cocaine abuse during pregnancy related to?\n\n(A) an increased risk of low birth weight babies\n(B) poorer growth and lower intelligence\n(C) smaller head circumference\n(D) all of the above",
+            "correct_answer": 3,
+            "model_answer": "Cocaine abuse during pregnancy is related to an increased risk of all of the following: (A) an increased risk of low birth weight babies, (B) poorer growth and lower intelligence, and (C) smaller head circumference.\n\nThe consumption of cocaine during pregnancy can have detrimental effects on the developing fetus, leading to various complications. Cocaine disrupts the fetal blood flow, causing a decrease in blood pressure and oxygen levels, which can result in low birth weight. Additionally, cocaine abuse during pregnancy has been linked to poorer growth and lower intelligence in children. The drug can damage the developing brain, affecting cognitive function in infants. Furthermore, cocaine abuse during pregnancy has also been associated with smaller head circumference, which can indicate reduced fetal growth and development.\n\nTherefore, the correct answer is (D) all of the above, as cocaine abuse during pregnancy is related to an increased risk of all of the mentioned outcomes. ###",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "Joe wants desperately to get close to Helen. Helen appears to be put off by Joe's desperate advances. This is typical of Joe's relationships with women. According to attachment theory Joe would best be described as:\n\n(A) a secure lover\n(B) an avoidant lover\n(C) an anxious-ambivalent lover\n(D) a passionate lover",
+            "correct_answer": 2,
+            "model_answer": "Based on the given information, we can infer that Joe's behavior of being desperately trying to get close to Helen is not effective and has pushed her away. This behavior is typical of Joe's relationships with women. According to attachment theory, Joe would best be described as an avoidant lover. Therefore, the answer is (B) an avoidant lover. ###",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Bruce is a homosexual man. His friend Chuck is a heterosexual man. If we could have observed Bruce and Chuck as children we might have expected which of the following?\n\n(A) Bruce likely participated in more female-typical play than Chuck.\n(B) Bruce likely participated in more male-typical play than Chuck.\n(C) Bruce and Chuck likely participated in more male-typical play than female-typical play.\n(D) Bruce's father was more likely to have homosexual tendencies than Chuck's father.",
+            "correct_answer": 0,
+            "model_answer": "Based on the information given, if we could have observed Bruce and Chuck as children, we might have expected that (A) Bruce likely participated in more female-typical play than Chuck. This is because homosexuality is often associated with behaviors that are more typically associated with the opposite sex, such as dressing in clothing typically associated with the opposite gender, engaging in same-sex sexual behavior, and participating in traditionally \"female\" activities. Since Chuck is described as a heterosexual man, it is more likely that he participated in activities that are typically associated with heterosexual behavior. Therefore, it is possible that Bruce participated in more female-typical activities.\n\nThe other answer choices are not supported by the information given. There is no information to suggest that Bruce would have participated in more male-typical play than Chuck, or that Bruce and Chuck would have participated in more male-typical play than female-typical play. Additionally, there is no information to suggest whether Bruce's father was more likely to have homosexual tendencies than Chuck's father. ###",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Judaism regards sexuality as\n\n(A) inherently evil\n(B) God's afterthought and has become an aberration\n(C) a gift from God\n(D) primarily a biological function",
+            "correct_answer": 2,
+            "model_answer": "The correct answer is (C) a gift from God. \n\nThis is because Judaism believes that all things were created by God and are in accordance with His will. This includes sexuality, which is seen as a natural and necessary aspect of human life. In fact, the Talmud, a central text in Judaism, states that \"all creatures were created for asexual reproduction, and [human beings] were created for sexual reproduction.\" Additionally, Judaism places a strong emphasis on procreation and family, which can only occur through sexual reproduction. Therefore, sexuality is seen as a gift from God and an important aspect of human life in Judaism. ###",
+            "correct": false
+        }
+    ]
+}

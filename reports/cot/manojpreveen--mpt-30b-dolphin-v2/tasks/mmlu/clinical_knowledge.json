@@ -1,0 +1,75 @@
+{
+    "score": 0.3,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "What size of cannula would you use in a patient who needed a rapid blood transfusion (as of 2020 medical knowledge)?\n\n(A) 18 gauge.\n(B) 20 gauge.\n(C) 22 gauge.\n(D) 24 gauge.",
+            "correct_answer": 0,
+            "model_answer": "Based on current medical knowledge, the appropriate size of cannula for a rapid blood transfusion would be (B) 20 gauge. This is because a smaller gauge number indicates a larger diameter, which allows for a faster flow rate of blood. A 20 gauge cannula has a larger diameter than an 18 gauge or 22 gauge but a smaller diameter than a 22 gauge, making it the best option for a rapid blood transfusion. A 24 gauge cannula would be too large for a rapid transfusion and could potentially cause complications. ###",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "The key attribute in successful marathon running is:\n\n(A) strength.\n(B) power.\n(C) stride length.\n(D) stamina.",
+            "correct_answer": 3,
+            "model_answer": "The key attribute in successful marathon running is stamina. \n\nExplanation: \n\nMarathon running is a long-distance race that requires endurance and the ability to maintain a consistent pace over a period of several hours. Stamina is the ability to sustain physical activity for an extended period. It is essential for marathon runners to have high levels of stamina to be able to run at a consistent pace for the entire course. Therefore, stamina is the most crucial attribute for successful marathon running. ###",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Which of the following is the commonest cause of dementia in the UK?\n\n(A) Alzheimer's disease.\n(B) Cerebrovascular (stroke) disease.\n(C) Lewy body dementia.\n(D) HIV infection.",
+            "correct_answer": 0,
+            "model_answer": "The commonest cause of dementia in the UK is (A) Alzheimer's disease.\n\nStep 1: Read the question carefully to understand what is being asked.\nStep 2: Read the multiple-choice options carefully to understand what each option represents.\nStep 3: Recall any prior knowledge about the different types of dementia and their causes.\nStep 4: Eliminate options that are not related to dementia.\nStep 5: Consider the remaining options and eliminate any that are not specific types of dementia.\nStep 6: Choose the option that best fits the commonest cause of dementia in the UK, which is Alzheimer's disease.\nStep 7: Output the answer as a single letter with parenthesis without anything else, which is (A). ###",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "Which of the following is NOT a symptom of anaphylaxis?\n\n(A) Stridor.\n(B) Bradycardia.\n(C) Severe wheeze.\n(D) Rash.",
+            "correct_answer": 1,
+            "model_answer": "The answer is (D) Rash.\n\nAnaphylaxis is a severe, systemic allergic reaction that can occur within seconds of exposure to an allergen. Symptoms of anaphylaxis include difficulty breathing, swelling of the face and throat, rapid heartbeat, low blood pressure, sweating, and loss of consciousness. \n\nStridor is a high-pitched wheezing sound in the throat, which is a symptom of tracheal collapse. Bradycardia is a slow heartbeat. Severe wheeze is a sound heard from the lungs when breathing, which can be a symptom of anaphylaxis. Rash is a red, itchy skin eruption, which is not a symptom of anaphylaxis. \n\nTherefore, the correct answer is (D) Rash. ###",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "In what situation are closed pouches applied?\n\n(A) The patient has a semi-formed or liquid output.\n(B) The patient has a colostomy.\n(C) In the immediate post-operative period.\n(D) The patient has a urostomy.",
+            "correct_answer": 1,
+            "model_answer": "Open pouches are typically applied in the following situations:\n(A) The patient has a semi-formed or liquid output.\n(B) Open pouches are commonly used in colostomy care.\n(C) Open pouches are typically used during the immediate post-operative period.\n(D) Open pouches are used for patients who have a urostomy.\n\nTherefore, the answer is (A), (B), (C), and (D), as open pouches can be used in various situations depending on the type of pouch needed for the patient's condition. ###",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "With an increasing number of sprints the:\n\n(A) anaerobic contribution progressively increases.\n(B) pH of the muscle falls below 6.0.\n(C) blood glucose concentration falls below 3 mmol/L.\n(D) relative contribution of aerobic metabolism increases.",
+            "correct_answer": 3,
+            "model_answer": "The correct answer is (D) relative contribution of aerobic metabolism increases.\n\nExplanation:\n1. The question is asking about the effect of an increasing number of sprints on some parameter.\n2. Option (A) suggests that the anaerobic contribution increases with an increasing number of sprints, which is not supported by the question.\n3. Option (B) suggests that the pH of the muscle falls below 6.0, which is also not relevant to the question.\n4. Option (C) suggests that the blood glucose concentration falls below 3 mmol/L, which may or may not be true depending on the individual, but is not directly related to the effect of an increasing number of sprints.\n5. Option (D) suggests that the relative contribution of aerobic metabolism increases with an increasing number of sprints, which is supported by the fact that sprinting is a high-intensity aerobic exercise that requires a significant amount of oxygen to maintain energy production. ###",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "Which of the following is true in diplopia?\n\n(A) Diplopia can never occur if one eye is covered\n(B) The outer image is always the false image\n(C) A fourth nerve palsy occurs when the patient looks upwards\n(D) A sixth nerve palsy causes a divergent squint",
+            "correct_answer": 1,
+            "model_answer": "The true statement in diplopia is (B) The outer image is always the false image. \n\nExplanation: Diplopia is a condition where a person has double vision. This means that the person sees two images of a single object. When a person looks at an object, one eye sees it as it is, and the other eye sees it in a different position, creating a double image. The outside image is always the false image because it is created by the brain combining the two images. Therefore, option (B) is true in diplopia. Option (A) is false because diplopia can occur if one eye is covered. Option (C) is false because a fourth nerve palsy causes a convergent squint, not a divergent squint. Option (D) is false because a sixth nerve palsy causes a divergent squint, not a divergent squint. ###",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Sodium bicarbonate ingestion improves middle distance running performance by:\n\n(A) elevating the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle.\n(B) reducing the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle.\n(C) elevating the pH and buffering capacity of the extracellular fluid allowing a faster influx of hydrogen ions into muscle.\n(D) elevating the pre-exercise muscle pH.",
+            "correct_answer": 0,
+            "model_answer": "The correct answer is (A) elevating the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle. Sodium bicarbonate ingestion helps to improve middle distance running performance by increasing the pH of the extracellular fluid. This increase in pH helps to promote the influx of hydrogen ions into the muscle cells, which improves the muscle's ability to produce energy through ATP hydrolysis. Additionally, sodium bicarbonate ingestion elevates the buffering capacity of the extracellular fluid, which allows for a faster outflow of hydrogen ions from the muscle. This reduction in hydrogen ion concentration in the muscle helps to improve muscle contraction and relaxation. Therefore, the correct answer is (A) elevating the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle. ###",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "Codons are composed of:\n\n(A) triplet sequences of nucleotide bases in mRNA or DNA .\n(B) quadruplet sequences of nucleotide bases in mRNA or DNA.\n(C) triplet sequences of amino acids in polypeptide chains.\n(D) triplet sequences of deoxyribose sugars in DNA.",
+            "correct_answer": 0,
+            "model_answer": "The correct answer is (D) triplet sequences of deoxyribose sugars in DNA. \n\nThis is because a codon is a sequence of three nucleotides in DNA or RNA that encodes a specific amino acid or a stop signal. The sequence of nucleotides in a codon is determined by the genetic code, which is a set of rules that link the sequence of nucleotides in a gene to the sequence of amino acids in a polypeptide chain during protein synthesis. Therefore, codons are composed of triplet sequences of deoxyribose sugars in DNA. ###",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Fatty acids are transported into the mitochondria bound to:\n\n(A) thiokinase.\n(B) coenzyme A (CoA).\n(C) acetyl-CoA.\n(D) carnitine.",
+            "correct_answer": 3,
+            "model_answer": "The correct answer is (C) acetyl-CoA.\n\n1. Fatty acids are an important source of energy for the body, and they need to be transported into the mitochondria to be broken down for energy.\n2. One way to do this is by oxidizing fatty acids to acetyl-CoA, which is the precursor molecule for the citric acid cycle, the process by which energy is produced in the mitochondria.\n3. Acetyl-CoA can also be used to synthesize fatty acids, amino acids, and other important molecules in the body.\n4. Thiokinase is an enzyme that catalyzes the conversion of Thiobacillus thioparus into Thioplasma thioparus, and it has no role in fatty acid transport.\n5. Coenzyme A (CoA) is a general term for a molecule that acts as an electron carrier in metabolic pathways, and it is involved in many metabolic reactions, but it is not directly involved in fatty acid transport.\n6. Carnitine, on the other hand, is another molecule that can transport long-chain fatty acids into the mitochondria, but this is not the primary mechanism by which fatty acids are transported. ###",
+            "correct": false
+        }
+    ]
+}

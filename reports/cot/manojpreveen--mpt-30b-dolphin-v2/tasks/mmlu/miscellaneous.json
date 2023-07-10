@@ -1,0 +1,75 @@
+{
+    "score": 0.5,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "An important source of information on the credit rating of retail businesses is\n\n(A) the Retail Merchants Association\n(B) the local chamber of commerce\n(C) Dun & Bradstreet, Inc.\n(D) the United States Retail Credit Association",
+            "correct_answer": 2,
+            "model_answer": "To answer this question, we need to understand what a credit rating is and where it can be obtained. A credit rating is a measure of the ability of a company to repay its debts. It is typically obtained through credit rating agencies such as Dun & Bradstreet, Inc. \n\nOption A, the Retail Merchants Association, is not a credit rating agency and therefore cannot be a source of information on credit ratings for retail businesses. \n\nOption B, the local chamber of commerce, is an organization that helps businesses network and promotes local commerce, but it is not a credit rating agency and therefore cannot be a source of information on credit ratings for retail businesses. \n\nOption C, Dun & Bradstreet, Inc., is a credit rating agency that provides credit ratings for businesses. Therefore, it is a potential source of information on credit ratings for retail businesses. \n\nOption D, the United States Retail Credit Association, is a trade association that represents retailers, but it is not a credit rating agency and therefore cannot be a source of information on credit ratings for retail businesses. \n\nTherefore, the correct answer is (C) Dun & Bradstreet, Inc. ###",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "In preparation for a writing unit on short stories, a teacher presents students with several examples of short stories and works with them to identify defining characteristics of the genre. Which of the following best describes this instructional strategy?\n\n(A) Conferencing\n(B) Discipline-based inquiry\n(C) Self-Regulated Strategy Development\n(D) Introduction-Body-Conclusion strategy",
+            "correct_answer": 1,
+            "model_answer": "The instructional strategy being used in this scenario is (B) Discipline-based inquiry. \n\nExplanation: \n\nDiscipline-based inquiry is a teaching approach that involves students actively engaging with and exploring a particular discipline or subject. In this case, the teacher is working with students to explore the genre of short stories and help them identify key characteristics of the genre. This is a discipline-based inquiry approach because it is focused on exploring and understanding a particular subject or discipline, in this case, short stories. \n\nConferencing is a teaching approach that involves students having one-on-one or small group discussions with a teacher to address any questions or concerns they may have. \n\nSelf-Regulated Strategy Development is a teaching approach that involves students taking ownership of their learning and developing their own strategies for learning and problem-solving. \n\nIntroduction-Body-Conclusion strategy is a writing approach that involves breaking a piece of writing into an introduction, main body, and conclusion. While this approach can be useful in writing short stories, it is not the instructional strategy being used in this scenario. ###",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Paper will burn at approximately what temperature in Fahrenheit?\n\n(A) 986 degrees\n(B) 2125 degrees\n(C) 3985 degrees\n(D) 451 degrees",
+            "correct_answer": 3,
+            "model_answer": "Paper will burn at approximately 451 degrees Fahrenheit (option (D)). \n\nTo arrive at this answer, we first need to convert the given temperature options to Fahrenheit. \n\nOption (A) is already in Fahrenheit, so we can make it the \"base\" temperature. \n\n986 degrees Fahrenheit is equivalent to 451 degrees Celsius, which is too hot to be considered a temperature for burning paper. \n\nOption (B) is equivalent to 2232 degrees Celsius, which is also too hot. \n\nOption (C) is equivalent to 2309 degrees Celsius, which is also too hot. \n\nTherefore, option (D), which is equivalent to 451 degrees Celsius, is the closest temperature to the actual temperature at which paper burns. However, since we are looking for the answer in Fahrenheit, we need to convert the closest temperature from Celsius to Fahrenheit. \n\nSeventh-grade math students can remember that Fahrenheit equivalents can be found by multiplying the Celsius temperature by 1.8 degrees. Therefore, 451 degrees Celsius multiplied by 1.8 degrees is approximately 816.6 degrees Fahrenheit. However, we need to subtract 0.01 (or 0.000018\u00b0C) from this value to get the Fahrenheit equivalent of the closest temperature with an answer in this range. \n\nTherefore, the answer is approximately 452 degrees Fahrenheit (option (D)). ###",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "The Apple iMac computer is available in all of the following colors except which?\n\n(A) Tangerine\n(B) Strawberry\n(C) Kiwi\n(D) Grape",
+            "correct_answer": 2,
+            "model_answer": "To determine which color is not available for the Apple iMac computer, we need to go through each color option and check if it is mentioned in the given list of available colors.\n\n(A) Tangerine: This color is not mentioned in the given list of available colors.\n(B) Strawberry: This color is mentioned in the given list of available colors.\n(C) Kiwi: This color is mentioned in the given list of available colors.\n(D) Grape: This color is not mentioned in the given list of available colors.\n\nTherefore, the answer is (A) Tangerine. ###",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "What were the first names of the early American explorers Lewisand Clark?\n\n(A) Morgan and Mason\n(B) Meriwether and William\n(C) Cabot and Joseph\n(D) Meredith and George",
+            "correct_answer": 1,
+            "model_answer": "The correct answer is (B) Meriwether and William. \n\nFirst, we need to identify who Lewis and Clark were. Lewis and Clark were a team of explorers who led the Expedition of 1804-1806, also known as the Lewis and Clark Expedition. The purpose of the expedition was to explore the uncharted territory of the western United States, specifically the area that is now the Midwest. \n\nNext, we need to identify the first names of the individual members of the Lewis and Clark team. The leader of the expedition was Lewis, and his name was Meriwether. The co-leader of the expedition was Clark, and his full name was William Clark. Therefore, the correct answer is (B) Meriwether and William. ###",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "A teacher provides support for small, flexible groups of beginning readers. As students read a text or a book that is unfamiliar to them, the teacher works with the students to teach them how to use a variety of reading strategies. Which of the following reading approaches is described?\n\n(A) Direct instruction\n(B) Literature circle\n(C) Guided reading\n(D) Read-aloud",
+            "correct_answer": 2,
+            "model_answer": "The reading approach described in the given scenario is guided reading.\n\nGuided reading involves a teacher working with small, flexible groups of students to teach them how to use various reading strategies. The teacher provides support and guidance to help students read unfamiliar texts or books. This approach is different from direct instruction, which involves the teacher giving explicit instructions on how to do something, and literature circle, which is a form of independent reading where students work in small groups to read a book and discuss their thoughts and feelings about it. Read-aloud involves the teacher reading a book aloud to the students while they listen and follow along. ###",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "What is varicella?\n\n(A) a fancy pasta\n(B) a type of opera\n(C) the chicken pox virus\n(D) ancient Roman poetry",
+            "correct_answer": 2,
+            "model_answer": "Varicella is the Latin name for the common chickenpox virus. Therefore, the correct answer is (C) the chickenpox virus. \n\nHouse: \"The common name (name) of the varicella-zoster virus is varicella and its scientific name is varicella-zoster virus. Varicella is a highly contagious polymerase virus.\" \n\nShannon: \"The varicella-zoster virus is a highly contagious virus that causes chickenpox. It is a member of the Herpesviridae family of viruses and is related to the viruses that cause cold sores, shingles, and genital herpes.\" \n\nKol: \"Varicella is a highly contagious viral infection that causes chickenpox. It is a member of the Herpesviridae family of viruses, which are responsible for various other viral infections such as cold sores, shingles, and genital herpes.\" \n\nLetters from the past: \"The varicella-zoster virus is the virus that causes chickenpox. It is a highly contagious virus that is a member of the Herpesviridae family of viruses. It is related to other viruses such as cold sores, shingles, and genital herpes.\" \n\nTherefore, based on the information provided, the correct answer is (C) the chickenpox virus. ###",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "Which of the following materials has a resistance that is LEAST affected by temperature changes?\n\n(A) Copper\n(B) Carbon\n(C) Germanium\n(D) Silicon",
+            "correct_answer": 0,
+            "model_answer": "The specific resistor value of a material is determined by its physical and chemical properties. Resistance is directly proportional to the length of the resistor and the cross-sectional area through which the current flows. \n\nOut of the given options, carbon and silicon have the least resistance compared to copper and germanium. However, when the temperature of a resistor increases, its resistance also increases. Therefore, materials with lower resistance will be less affected by changes in temperature compared to materials with higher resistance. \n\nOut of the given options, carbon has the lowest resistance, followed by silicon. Copper and germanium have higher resistances and are more affected by changes in temperature. \n\nTherefore, the answer is (B) Carbon. ###",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "A second-year college student is usually called a what?\n\n(A) sophomore\n(B) senior\n(C) freshman\n(D) junior",
+            "correct_answer": 0,
+            "model_answer": "The answer is (A) sophomore.\n\nExplanation:\n\nA sophomore is a second-year college student. This term is used to describe students who are in their second year of college. \n\nA freshman is a first-year college student who is not yet a sophomore. \n\nA junior is a third-year college student who is not yet a senior. \n\nA senior is a fourth-year college student who is about to graduate. \n\nTherefore, the correct answer is (A) sophomore. ###",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "In the film 'The Talented Mr Ripley' who plays Mr Ripley?\n\n(A) Jude Law\n(B) Matt Damon\n(C) Dustin Hoffman\n(D) Ben Affleck",
+            "correct_answer": 1,
+            "model_answer": "The actor who plays Mr. Ripley in the film 'The Talented Mr. Ripley' is (A) Jude Law. This information can be found by searching for the cast of the movie or by watching a trailer or clips from the film. ###",
+            "correct": false
+        }
+    ]
+}

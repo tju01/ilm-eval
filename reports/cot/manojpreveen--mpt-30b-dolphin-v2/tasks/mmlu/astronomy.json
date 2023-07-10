@@ -1,0 +1,75 @@
+{
+    "score": 0.2,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "What is true for a type-Ia (\"type one-a\") supernova?\n\n(A) This type occurs in binary systems.\n(B) This type occurs in young galaxies.\n(C) This type produces gamma-ray bursts.\n(D) This type produces high amounts of X-rays.",
+            "correct_answer": 0,
+            "model_answer": "The answer is (C) This type produces gamma-ray bursts.\n\nExplanation: \n\nA type-Ia supernova occurs in a binary system where a white dwarf star is violently disrupted by a companion star's explosion. This type of supernova is believed to be a standard candle, which means that the brightness of the explosion can be used to measure distances in the universe. \n\nIn contrast, a major gamma-ray burst is a highly luminous event that releases large amounts of energy, largely in the form of gamma rays. While there is some evidence that some supernovae may be associated with gamma-ray bursts, it is not a defining characteristic of any particular type of supernova.\n\nFinally, while some supernovae may produce X-rays as part of their radiation, high amounts of X-rays are not a defining characteristic of any particular type of supernova. ###",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "If you know both the actual brightness of an object and its apparent brightness from your location then with no other information you can estimate:\n\n(A) Its speed relative to you\n(B) Its composition\n(C) Its size\n(D) Its distance from you",
+            "correct_answer": 3,
+            "model_answer": "The answer is (D) Its distance from you.\n\nThis is because of a principle in optics called the inverse square law. The apparent brightness of an object is inversely proportional to the square of its distance from you. In other words, as the distance between you and an object increases, the apparent brightness of that object decreases. Therefore, if you know both the actual brightness of an object and its apparent brightness from your location, you can use this relationship to estimate the distance of the object from you. ###",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Why is the sky blue?\n\n(A) Because the molecules that compose the Earth's atmosphere have a blue-ish color.\n(B) Because the sky reflects the color of the Earth's oceans.\n(C) Because the atmosphere preferentially scatters short wavelengths.\n(D) Because the Earth's atmosphere preferentially absorbs all other colors.",
+            "correct_answer": 2,
+            "model_answer": "The sky is blue because the atmosphere preferentially scatters short wavelengths. This scattering effect occurs because shorter wavelengths of light (such as blue and green) are scattered more than longer wavelengths (such as red and orange). As the sun emits all colors of light, the blue light travels through the atmosphere and is scattered back to the Earth's surface, while other colors of light are absorbed or scattered in different ways, giving the sky its blue appearance. Therefore, the correct answer is (C). ###",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "You\u2019ve made a scientific theory that there is an attractive force between all objects. When will your theory be proven to be correct?\n\n(A) The first time you drop a bowling ball and it falls to the ground proving your hypothesis.\n(B) After you\u2019ve repeated your experiment many times.\n(C) You can never prove your theory to be correct only \u201cyet to be proven wrong\u201d.\n(D) When you and many others have tested the hypothesis.",
+            "correct_answer": 2,
+            "model_answer": "The answer is (B) After you\u2019ve repeated your experiment many times.\n\nExplanation: Scientific theories are not proven once and for all, but rather they are continuously tested and verified through observation and experimentation. Therefore, the correct answer is that your theory will be proven to be correct after you\u2019ve repeated your experiment many times and the results consistently support your hypothesis. This is because scientific theories are based on evidence and logical reasoning, and not just personal beliefs or opinions. ###",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "Which of the following is/are true?\n\n(A) Titan is the only outer solar system moon with a thick atmosphere\n(B) Titan is the only outer solar system moon with evidence for recent geologic activity\n(C) Titan's atmosphere is composed mostly of hydrocarbons\n(D) A and D",
+            "correct_answer": 3,
+            "model_answer": "The correct answer is (C) Titan's atmosphere is composed mostly of hydrocarbons.\n\nExplanation:\n\nOption (A) is incorrect because there are other outer solar system moons with a thick atmosphere, such as Mimas and Triton.\n\nOption (B) is also incorrect because there is evidence for recent geologic activity on other moons as well, such as Enceladus and Pegasus.\n\nOption (C) is the correct answer because the atmosphere of Titan is mostly composed of hydrocarbons, such as methane, ethane, and propane. This is supported by data from the Huygens probe, which landed on Titan and analyzed its atmosphere.\n\nOption (D) is incorrect because only option (C) is true. ###",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "A comet of mass m impacts the earth (mass M radius R) at the minimum impact speed. What is the expression for the total energy released in the impact?\n\n(A) m*v\n(B) 0.5*m/(R^3)\n(C) 0.5*m*(2GM/R)\n(D) 0.6*G(M^2)/R",
+            "correct_answer": 2,
+            "model_answer": "When a comet of mass m impacts the earth (mass M radius R) at the minimum impact speed, the total energy released in the impact is given by the sum of the kinetic energy of the comet and the potential energy of the earth. \n\nThe kinetic energy of the comet is given by its mass times its velocity, which is the minimum impact speed. Therefore, the kinetic energy of the comet is given by (m*v) and this is option (A).\n\nThe potential energy of the earth is given by the work done by the comet in moving a distance R above the surface of the earth. This work is equal to GMv, where G is the gravitational constant and M is the mass of the earth. Therefore, the potential energy of the earth is given by 0.5*m*(2GM/R) and this is option (C).\n\nThe total energy released in the impact is the sum of the kinetic energy of the comet and the potential energy of the earth. Therefore, the total energy released in the impact is (A + C) and the answer is option (A) + (C) = (A + C) or (m*v) + (0.5*m*(2GM/R)). ###",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "Some of Mars'water is frozen in the soil and the ice caps and some was lost due to solar wind stripping but much of the original water is thought to have been lost through another mechanism. What happened to this \"lost\"water?\n\n(A) it was stripped away by the magnetic field when it rapidly decreased in strength\n(B) it was broken into hydrogen and oxygen by ultraviolet light and the hydrogen was lost through thermal escape\n(C) it was consumed by a civilization of thirsty Martians\n(D) it was vaporized during a period of intense volcanism and was lost to space through thermal escape",
+            "correct_answer": 1,
+            "model_answer": "The \"lost\" water on Mars is most likely vaporized during a period of intense volcanism and was lost to space through thermal escape. Therefore, the answer is (D). \n\nThis is because Mars has experienced periods of intense volcanic activity in the past, which can cause water to be heated and turned into steam. The steam can then escape into space, leading to the loss of water from Mars. This is supported by various scientific studies and observations of Mars' surface and atmosphere. The other options (A), (B), and (C) do not have strong evidence to support them as the mechanism for the loss of water on Mars. ###",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Most rocks on the Moon's surface are older than those on the Earth's surface. The best evidence for this is:\n\n(A) Lunar rocks are composed of fragments pulverized by many impacts.\n(B) Radioactive dating of lunar samples shows that they are older.\n(C) The Moon's surface is more heavily eroded than the Earth's surface.\n(D) The Moon's surface has more impact craters than the Earth's surface.",
+            "correct_answer": 1,
+            "model_answer": "The correct answer is (B) Radioactive dating of lunar samples shows that they are older. This is because the Moon's surface is heavily exposed to cosmic radiation, which can cause radioactive elements in rocks to age faster than they would on Earth. As a result, lunar rocks can be much older than rocks on Earth. Option (A) is not directly related to the age of the rocks. Option (C) is not correct because erosion alone does not determine the age of rocks. Option (D) is not a valid comparison because the number of impact craters on a planet does not necessarily relate to the age of its rocks. ###",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "What is the second most common element in the solar system?\n\n(A) Iron\n(B) Hydrogen\n(C) Methane\n(D) Helium",
+            "correct_answer": 3,
+            "model_answer": "The second most common element in the solar system is Hydrogen. (B) ###",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "What is the source of the material that causes meteor showers?\n\n(A) Near-Earth asteroids gradually disintegrate and spread out along their orbital path. When the Earth passes through the orbit of an asteroid we are bombarded by sand-sized particles which cause a meteor shower.\n(B) Near-Earth asteroids disintegrate as they enter Earth's atmosphere creating hundreds of bright meteors that appear to radiate from a single location in the sky.\n(C) The nuclei of comets disintigrate as they enter Earth's atmosphere creating hundreds of bright meteors that appear to radiate from a central location in the sky.\n(D) The nuclei of comets gradually disintegrate and spread out along the comet's orbital path. When the Earth passes through the orbit of a comet we are bombarded by sand-sized particles which cause a meteor shower.",
+            "correct_answer": 3,
+            "model_answer": "The source of the material that causes meteor showers is (A) Near-Earth asteroids gradually disintegrate and spread out along their orbital path. When the Earth passes through the orbit of an asteroid we are bombarded by sand-sized particles which cause a meteor shower. ###",
+            "correct": false
+        }
+    ]
+}

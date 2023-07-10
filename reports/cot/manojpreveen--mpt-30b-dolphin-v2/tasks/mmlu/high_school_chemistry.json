@@ -1,0 +1,75 @@
+{
+    "score": 0.3,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "London dispersion forces are caused by\n\n(A) temporary dipoles created by the position of electrons around the nuclei in a molecule\n(B) the three-dimensional intermolecular bonding present in all covalent substances\n(C) the uneven electron-to-proton ratio found on individual atoms of a molecule\n(D) the electronegativity differences between the different atoms in a molecule",
+            "correct_answer": 0,
+            "model_answer": "London dispersion forces are caused by temporary dipoles created by the position of electrons around the nuclei in a molecule. These temporary dipoles are created due to the distribution of electrons around the nucleus. The closer the electron is to the nucleus, the stronger the attraction between the electron and the nucleus. This creates a temporary dipole moment around the nucleus, which can interact with other temporary dipole moments in the same molecule or in neighboring molecules. This interaction is what we refer to as London dispersion forces. Therefore, the correct answer is (A). ###",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "Carbon has an atomic radius of 77 pm and a first ionization energy of 1086 kJ/mol.\n\n(A) 70 pm, 1402 kJ/mol\n(B) 86 pm, 898 kJ/mol\n(C) 135 pm, 523 kJ/mol\n(D) 40 pm, 995 kJ/mol",
+            "correct_answer": 0,
+            "model_answer": "The atomic radius of an atom can be calculated using the formula:\n\n{atomic radius} = {number of protons} x {average distance between the nucleus and the electrons}\n\nSubstituting the values given in the question, we get:\n\n{atomic radius} = 6 x (average distance between the nucleus and the electrons)\n\nGiven that Carbon is a covalent weight, it can be assumed that it has a full valence shell of electrons. Therefore, the average distance between the nucleus and the electrons can be taken as the distance between the nucleus and the outermost electron shell.\n\nThe first ionization energy of Carbon is given as 1086 kJ/mol. This means that the electric potential difference required to remove an electron from the outermost shell of Carbon is 1086 kJ/mol.\n\nThe ionization energy depends on the size of the atom, and larger atoms require more energy to remove an electron from their valence shell. Therefore, we can assume that the atomic radius of Carbon is relatively small.\n\nUsing the Ionization Energy vs. Radius Plot (IEVRP), we can determine the atomic radius of Carbon. The IEVRP shows the relationship between the ionization energy and the atomic radius for elements. We can plot the given values of ionization energy and atomic radius on the IEVRP and find the corresponding value for Carbon.\n\nAfter plotting and finding the corresponding value for Carbon, we get:\n\nCarbon has an atomic radius of 86pm (point B on the IEVRP).\n\nTherefore, the answer is (B) 86 pm, 898 kJ/mol. ###",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "An unknown substance is found to have a high melting point. In addition, it is a poor conductor of electricity and does not dissolve in water. The substance most likely contains\n\n(A) ionic bonding\n(B) nonpolar covalent bonding\n(C) covalent network bonding\n(D) metallic bonding",
+            "correct_answer": 2,
+            "model_answer": "The substance most likely contains metallic bonding.\n\nExplanation:\nMetals are known to have high melting points due to their metallic bonding. Metallic bonding is a type of bonding where the metal atoms share their electrons with each other, creating a sea of electrons that allows the metal to conduct electricity and melt at high temperatures. The statement that the substance is a poor conductor of electricity and does not dissolve in water is consistent with metallic bonding, as metals are known to be good conductors of electricity and are often very soluble in water. Therefore, the correct answer is (D) metallic bonding. ###",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "The net ionic equation expected when solutions of NH4Br and AgNO3 are mixed together is\n\n(A) Ag+(aq) + Br-(aq) \u2192 AgBr(s)\n(B) NH4+(aq) + Ag+(aq) \u2192 Ag(NH4)3+2(aq)\n(C) Br-(aq) + NO3-(aq) \u2192 NO3Br(aq)\n(D) NH4Br(aq) + NO3-(aq) \u2192 NH4NO3(aq) + Br-(aq)",
+            "correct_answer": 0,
+            "model_answer": "The correct answer is (D) NH4Br(aq) + NO3-(aq) \u2192 NH4NO3(aq) + Br-(aq).\n\nWhen NH4Br and AgNO3 are mixed together, the following reactions occur:\n\n1. AgNO3 \u2192 Ag(NO3)2\n2. NH4Br \u2192 Br- + NH4+\n3. Br- + NO3- \u2192 NO3Br\n4. NH4+ + NO3- \u2192 NH4NO3\n5. Ag(NO3)2 + NH4NO3 \u2192 Ag(NH4)2NO4\n\nThe first reaction occurs because AgNO3 can dissociate into its constituent ions, Ag+ and NO3- in the solution. The fourth reaction occurs because NH4+ can react with NO3- to form NH4NO3. This reaction is not expected when NH4Br and AgNO3 are mixed together because NH4+ does not react with Ag+ to form a compound. \n\nTherefore, the correct net ionic equation is (D) NH4Br(aq) + NO3-(aq) \u2192 NH4NO3(aq) + Br-(aq). ###",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "The symbol for antimony is\n\n(A) W\n(B) Sb\n(C) Fe\n(D) An",
+            "correct_answer": 1,
+            "model_answer": "The symbol for antimony is (B) Sb. \n\nTo arrive at this answer, we can follow these steps:\n\n1. Identify the question: The question is asking for the symbol of einsteinium, which is a chemical element that does not exist. The question has been redirected to the incorrect element, antimony.\n\n2. Recall the symbol of antimony: The symbol of antimony is Sb, which is a single letter followed by a period.\n\n3. Choose the correct letter: The question asks for the symbol of antimony, not the element name. Therefore, we choose the single letter that represents antimony, which is Sb.\n\n4. Combine the symbol: Since the symbol for antimony is Sb, the answer to the question is Sb (against B, W, Fe, and An).\n\n5. Output the answer: The final answer is a single letter followed by parenthesis, which is (B) Sb, but since the question asked for the symbol, we only output the answer as a single letter, which is B. ###",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "A sealed, rigid container contains three gases: 28.0 g of nitrogen, 40.0 g of argon, and 36.0 g of water vapor. If the total pressure exerted by the gases is 2.0 atm, what is the partial pressure of the nitrogen?\n\n(A) 0.33 atm\n(B) 0.40 atm\n(C) 0.50 atm\n(D) 2.0 atm",
+            "correct_answer": 2,
+            "model_answer": "To solve this problem, we need to use Dalton's law of partial pressures, which states that the total pressure exerted by a mixture of gases is equal to the sum of the partial pressures of the individual gases. In this case, we know the total pressure is 2.0 atm, so we can set up the following equation:\n\n0.2818 atm* + 0.4037 atm* + 0.3656 atm* = 2.0 atm\n\nWe can simplify this equation by adding the partial pressures of argon and water vapor:\n\n0.7953 atm* = 2.0 atm\n\nDividing both sides by 0.7953, we get:\n\nnitrogen = 0.1761 atm*\n\nTo find the partial pressure of nitrogen, we need to multiply this value by the number of moles of nitrogen present in the container. We can use the ideal gas law to relate the pressure and the moles of nitrogen:\n\nnitrogen moles = 0.2173\n\nTherefore, the partial pressure of nitrogen is:\n\n0.2173 atm (rounded to two decimal places)\n\nBut the question asks for the answer as a single letter with parenthesis without anything else. So, the final answer is:\n\n(A) 0.33 atm ###",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Monatomic ions of the representative elements are often\n\n(A) very soluble\n(B) very electronegative\n(C) isoelectronic with a noble gas\n(D) highly colored",
+            "correct_answer": 2,
+            "model_answer": "Monatomic ions of the representative elements are often highly colored (D). This is because they possess one or more electrons in their outermost shell, which can be easily excited by light or other forms of energy, resulting in the emission of light and the appearance of a color. For example, sodium ions (Na+) are yellow, potassium ions (K+) are purple, and chloride ions (Cl-) are grayish-white. Therefore, option (D) is the correct answer. \n\nOption (A) is incorrect because monatomic ions are not necessarily soluble in water or other solvents. For example, iodine ions (I-) are only slightly soluble in water, while chlorine ions (Cl-) are highly soluble in water.\n\nOption (B) is incorrect because electronegativity is a property of atoms and molecules, not ions. Electronegativity is the ability of an atom or molecule to attract electrons towards itself. While some ions may have high electronegativity, it is not a defining characteristic of all monatomic ions.\n\nOption (C) is incorrect because isoelectronic refers to atoms that have the same number of electrons in their outermost shell. While some monatomic ions may be isoelectronic with noble gases, this is not a defining characteristic of all monatomic ions. ###",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "Hund's rule requires that\n\n(A) no two electrons can have the same four quantum numbers\n(B) no two electrons with the same spin can occupy an orbital\n(C) no two electrons can occupy separate orbitals\n(D) no two electrons can pair up if there is an empty orbital at the same energy level available",
+            "correct_answer": 3,
+            "model_answer": "Hund's rule requires that (A) no two electrons can have the same four quantum numbers. This means that the electrons in an atom should have different values of the four quantum numbers: principal quantum number, azimuthal quantum number, magnetic quantum number, and spin quantum number. If two electrons have the same four quantum numbers, they cannot be in the same quantum state simultaneously. \n\nOption (B) is also true, but it is a weaker form of Hund's rule. Option (C) is not one of Hund's rules. Option (D) is not related to Hund's rule at all. \n\nTherefore, the answer is (A). ###",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "All of the following ions have the same electron configuration except\n\n(A) Rb+\n(B) Se2-\n(C) As5+\n(D) Sr2+",
+            "correct_answer": 2,
+            "model_answer": "The correct answer is (A) Rb+. \n\nThe electron configuration of an atom determines the number of electrons and the arrangement of electrons in the atom's outermost shell. The first step in solving this problem is to determine the electron configuration of the given ions. \n\nSe2- has a total of 24 electrons. The electron configuration of Se2- is 2 2 2 2. This means that two electrons are in the outermost shell. \n\nAs5+ has a total of 38 electrons. The electron configuration of As5+ is 2 2 2 2 2. This means that two electrons are in the outermost shell. \n\nSr2+ has a total of 24 electrons. The electron configuration of Sr2+ is 2 2 2. This means that two electrons are in the outermost shell. \n\nRb+ has a total of 36 electrons. The electron configuration of Rb+ is 1 2 2 2. This means that one electron is in the outermost shell. \n\nTherefore, the ion with the different electron configuration is (A) Rb+. ###",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Sulfurous acid is a weak acid, while sulfuric acid is a much stronger acid because\n\n(A) the O\u2013H bonds in sulfuric acid are much weaker than in sulfurous acid due to the electron withdrawing of the oxygen atoms on sulfuric acid\n(B) sulfuric acid has more oxygen atoms in its formula\n(C) the sulfur in sulfuric acid is more electronegative than the sulfur in sulfurous acid\n(D) sulfuric acid has the hydrogen atoms bound directly to the sulfur atom",
+            "correct_answer": 0,
+            "model_answer": "The correct answer is (C) the sulfur in sulfuric acid is more electronegative than the sulfur in sulfurous acid. \n\nElectronegativity is the ability of an atom to attract electrons towards itself in a chemical bond. In sulfuric acid, the sulfur atom is surrounded by four oxygen atoms, which makes it more electronegative than the sulfur atom in sulfurous acid, which is surrounded by only two oxygen atoms. This increased electronegativity allows sulfuric acid to attract electrons more strongly, making it a stronger acid compared to sulfurous acid. Therefore, option (C) is the correct answer. ###",
+            "correct": false
+        }
+    ]
+}

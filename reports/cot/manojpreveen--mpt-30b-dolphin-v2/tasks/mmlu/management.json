@@ -1,0 +1,75 @@
+{
+    "score": 0.4,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "What is the term for a sub-optimal but acceptable outcome of negotiations between parties?\n\n(A) Bargaining\n(B) Satisficing\n(C) Accepting\n(D) Compromising",
+            "correct_answer": 1,
+            "model_answer": "The term for a sub-optimal but acceptable outcome of negotiations between parties is (D) Compromising.\n\nExplanation: \n- Bargaining refers to the negotiation process as a whole, rather than a specific outcome.\n- Satisficing refers to finding a solution that is satisfactory but not necessarily optimal.\n- Accepting refers to agreeing to the outcome of negotiations, but does not necessarily imply a sub-optimal result.\n- Compromising refers to reaching a compromise between the parties' positions, which may not be ideal for either party, but is still an acceptable outcome. ###",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "What is the term for the 'rule of thumb' type of bias in decision making?\n\n(A) Framing bias\n(B) Hindsight bias\n(C) Over-confidence bias\n(D) Heuristics",
+            "correct_answer": 3,
+            "model_answer": "The term for the 'rule of thumb' type of bias in decision making is (D) Heuristics. \n\nHeuristics are mental shortcuts or rules of thumb that people use to make quick and easy decisions when there is not enough time or information to make a thorough analysis. This type of decision-making is often used when the decision is not life-or-death, and a quick and relatively accurate decision is better than a more time-consuming and error-prone process. \n\nFraming bias refers to the way in which information is presented, and how it affects a person's decision-making process. Hindsight bias refers to the tendency to assume that future outcomes are more predictable than they actually are. Over-confidence bias refers to a situation where a person is overly confident in their decision-making abilities. ###",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "What is a normative perspective?\n\n(A) The way things are.\n(B) The way things are going to be.\n(C) The way things should be.\n(D) The way things were.",
+            "correct_answer": 2,
+            "model_answer": "A normative perspective is the way things should be. It refers to a principle or standard that is based on what is considered right, proper, or acceptable in a particular field of study or activity. Normative perspectives are often used in fields such as education, economics, and law to provide guidelines for what should be achieved or accomplished. The final answer is (C) the way things should be. ###",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "In the 'five forces model', what is the type of competitive activity that exists between organisations?\n\n(A) The potential for entry into the industry\n(B) The threat of substitute products\n(C) The power of customers\n(D) The level of rivalry",
+            "correct_answer": 3,
+            "model_answer": "The type of competitive activity that exists between organizations in the 'five forces model' is the level of rivalry. (D) This is because the 'five forces model' examines the competitive environment of an organization and identifies the key factors that affect its profitability. The rivalry between organizations refers to the degree of competition and the intensity of rivalry among them. This includes factors such as the number of competitors, their marketing strategies, and their competitive advantages. The other options, (A) the potential for entry into the industry, (B) the threat of substitute products, and (C) the power of customers, also play important roles in shaping the competitive environment of an organization, but they are not the specific type of competitive activity that exists between organizations. ###",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "Which one of the following political leaders could not be termed a 'transformational' leader?\n\n(A) Margaret Thatcher\n(B) Mikhail Gorbachov\n(C) Nelson Mandela\n(D) Bill Clinton",
+            "correct_answer": 3,
+            "model_answer": "The term \"transformational\" leader implies a leader who brings about significant and fundamental changes in a country or society. To determine which leader could not be termed a \"transformational\" leader, we need to evaluate each option and determine if they brought about significant and fundamental changes.\n\n(A) Margaret Thatcher was the Prime Minister of the United Kingdom from 1979 to 1990 and implemented conservative policies that had a profound impact on British society. She led the Conservative Party to victory in the 1979 election and remained in power until 1990. Therefore, she could be termed a \"transformational\" leader.\n\n(B) Mikhail Gorbachov was the General Secretary of the Soviet Union from 1985 to 1991 and initiated the process of perestroika (restructuring) and glasnost (openness). Although his policies did not directly lead to the collapse of the Soviet Union, they laid the groundwork for significant changes in the country. Therefore, he could also be termed a \"transformational\" leader.\n\n(C) Nelson Mandela was a South African anti-apartheid revolutionary and political leader who became the first black President of South Africa. His leadership played a crucial role in ending apartheid and promoting reconciliation between black and white South Africans. Therefore, he could be termed a \"transformational\" leader.\n\n(D) Bill Clinton was the President of the United States from 1993 to 2001. While his policies had a significant impact on the country, particularly in the areas of healthcare and foreign policy, there is no clear evidence to suggest that he brought about fundamental changes in the same way that the other leaders did. Therefore, he could not be termed a \"transformational\" leader.\n\nAnswer: (D) Bill Clinton. ###",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "What is a Gantt chart a type of?\n\n(A) Work flow design\n(B) Work schedule design\n(C) Work rate design\n(D) Work output design",
+            "correct_answer": 1,
+            "model_answer": "The Gantt chart is a type of work schedule design. \n\nExplanation: \nA Gantt chart is a type of timeline or bar chart that is used to display the schedule of a project. It shows the start and end dates for each task, as well as any dependencies or relationships between tasks. The Gantt chart is a powerful tool for project management and is commonly used in scheduling, logistics, and project planning. Therefore, option (B) Work schedule design is the correct answer. ###",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "Which one of the following is a feature of McGregor's Theory X?\n\n(A) Workers enjoy responsibility.\n(B) Workers view physical and mental effort as a natural part of work.\n(C) Workers like to show initiative.\n(D) Workers like to be directed.",
+            "correct_answer": 3,
+            "model_answer": "McGregor's Theory X is a theory that assumes that workers have a natural tendency to avoid work and that they can only be directed, motivated, and controlled. Therefore, the feature of McGregor's Theory X that is missing from the given options is \"Workers like to be directed.\" \n\nHence, the answer is (D). ###",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "What is the term for power derived from status or position in an organisation?\n\n(A) Referent\n(B) Expert\n(C) Reward\n(D) Legitimate",
+            "correct_answer": 3,
+            "model_answer": "The term for power derived from status or position in an organization is (D) Legitimate. \n\nLegitimacy refers to the belief or perception that a person or entity is worthy of respect, consideration, and adherence. In an organizational context, legitimate power is derived from an individual's position or status within the organization, such as their hierarchy, role, or expertise. It is a form of authority that is recognized and accepted by others within the organization. \n\nReferent (A) refers to a language that refers to historical usage or meaning. Expert (B) refers to a person who has a high degree of knowledge or skill in a particular subject or field. Reward (C) refers to a benefit or incentive given to someone for good behavior or achievement. None of these terms accurately describe power derived from status or position in an organization. ###",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Which writer is most associated with bureaucratic structures?\n\n(A) Henry Fayol\n(B) Max Weber\n(C) Adam Smith\n(D) Mary Parker Follett",
+            "correct_answer": 1,
+            "model_answer": "The writer most associated with bureaucratic structures is (B) Max Weber.\n\nBureaucracy is a system of organizing people for a common purpose, with each person performing a specific function. Max Weber is known for his study of bureaucracy, which he defined as a system of government based on written rules and procedures, with decisions made by individuals or committees with specialized knowledge. Weber argued that bureaucracy allowed for the efficient allocation and coordination of resources, but that it also created bureaucratic structures that could be inflexible and resistant to change. \n\nHenry Fayol is known for his work on management and organization theory, but he is not specifically associated with bureaucracy. Adam Smith is known for his work on economics and the theory of the free market, but he is not associated with bureaucracy. Mary Parker Follett is known for her work on management and organization theory, but she is not specifically associated with bureaucracy either. ###",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Who of the following is the industrial philanthropist?\n\n(A) Frederick Taylor\n(B) Seebohm Rowntree\n(C) Henry Ford\n(D) Max Weber",
+            "correct_answer": 1,
+            "model_answer": "The industrial philanthropist from the given options is Henry Ford. \n\nThe reasoning behind this answer is as follows:\n\n- Frederick Taylor was a famous industrial psychologist and expert in operational efficiency. While he may have been involved in philanthropic activities, there is no clear evidence that he was an industrial philanthropist.\n- Seebohm Rowntree was a prominent British philanthropist and social reformer. While he may have been involved in business, there is no clear evidence that he was an industrial philanthropist.\n- Max Weber was a famous German sociologist and philosopher. While he may have been interested in the impact of business on society, there is no clear evidence that he was an industrial philanthropist.\n- Henry Ford, on the other hand, was a famous American industrialist and philanthropist. He was known for his innovative manufacturing techniques and his commitment to improving the lives of his workers. He established the Ford Foundation, which is one of the largest philanthropic organizations in the world, and was widely regarded as an industrial philanthropist. Therefore, the answer is (C) Henry Ford. ###",
+            "correct": false
+        }
+    ]
+}

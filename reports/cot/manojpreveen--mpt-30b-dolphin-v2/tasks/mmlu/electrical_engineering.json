@@ -1,0 +1,75 @@
+{
+    "score": 0.2,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "The Barkhausen criterion for an oscillator\n\n(A) Loop gain should be unity\n(B) Loop gain should be less than unity\n(C) The phase of a feedback signal with respect to input should be 0\u00b0 or 360\u00b0\n(D) Both A and C",
+            "correct_answer": 3,
+            "model_answer": "To answer this question, we need to understand the Barkhausen criterion for an oscillator. The Barkhausen criterion is a statistical measure of the variability of the phase of the variable of a system. It is a condition that must be met for an oscillation to occur.\n\nOption A states that the loop gain should be unity. This is not the Barkhausen criterion for an oscillator. The loop gain is the ratio of the output voltage to the input voltage of a feedback system. The loop gain does not determine whether an oscillation occurs or not.\n\nOption B states that the loop gain should be less than unity. This is the opposite of the Barkhausen criterion for an oscillator. The Barkhausen criterion requires the system to have high variability in the phase of the variable, which requires the loop gain to be greater than unity.\n\nOption C states that the phase of a feedback signal with respect to input should be 0\u00b0 or 360\u00b0. This is not the Barkhausen criterion for an oscillator. The phase of a feedback signal with respect to input is related to the stability of the system, not the variability of the phase of the variable.\n\nOption D states that both A and C are necessary for the Barkhausen criterion for an oscillator to occur. This is not correct. The Barkhausen criterion requires high variability in the phase of the variable, which is provided by the loop gain being greater than unity. Therefore, the correct answer is B, which states that the loop gain should be less than unity. ###",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "Potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because\n\n(A) It loads the circuit moderately.\n(B) It loads the circuit to maximum extent.\n(C) It uses centre zero galvanometer instead of voltmeter.\n(D) It does not load the circuit at all.",
+            "correct_answer": 3,
+            "model_answer": "The correct answer is (A) It loads the circuit moderately.\n\nPotentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because it loads the circuit moderately. This means that the potentiometer has a lower input impedance than the voltmeter, which reduces the effects of voltage drops and load current on the circuit. \n\nBoth the potentiometer and voltmeter measure the voltage across a load, but the voltmeter directly measures the voltage and can be affected by the load current and voltage drops in the circuit. On the other hand, the potentiometer measures the voltage indirectly by measuring the position of the lever that is connected to the load, which is unaffected by the load current and voltage drops. \n\nTherefore, the potentiometer method is more accurate than direct measurement using a voltmeter because it is less affected by the load current and voltage drops. ###",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Which of these sets of logic gates are designated as universal gates?\n\n(A) NOR, NAND.\n(B) XOR, NOR, NAND.\n(C) OR, NOT, AND.\n(D) NOR, NAND, XNOR.",
+            "correct_answer": 0,
+            "model_answer": "The answer is (B) XOR, NOR, NAND.\n\nExplanation:\nUniversal gates are logic gates that can be used to perform any boolean expression. \n\nThe set of complementary logic gates includes two types of unitary operators: AND and OR. And can be used to combine two boolean expressions, while OR can be used to combine one boolean expression with a negation of another boolean expression. \n\nThe set of binary operators includes three special types of boolean operators: NOR, NAND, and XOR. NOR can be used to combine two boolean negations, while NAND can be used to combine two boolean negations together with a boolean negation of their product. XOR can be used to combine two boolean negations together with one boolean negation of their product.\n\nTherefore, any combination of SET, NOT, AND, NOR, NAND, and XOR can represent any boolean expression, and any set of logic gates that includes one or more of these operators is a universal gate. \n\nAmong the four options given, only option (B) includes three universal gates (XOR, NOR, NAND), while option (A) only includes two (NOR, NAND), and option (C) only includes two (OR, NOT) and one (AND), which is an incomplete set of universal gates. Option (D) includes three universal gates (NOR, NAND, XNOR), but XNOR is not one of the three required for universal compression. ###",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "A single phase one pulse controlled circuit has a resistance R and counter emf E load 400 sin(314 t) as the source voltage. For a load counter emf of 200 V, the range of firing angle control is\n\n(A) 30\u00b0 to 150\u00b0.\n(B) 30\u00b0 to 180\u00b0.\n(C) 60\u00b0 to 120\u00b0.\n(D) 60\u00b0 to 180\u00b0.",
+            "correct_answer": 0,
+            "model_answer": "First, we need to understand the circuit. A single-phase one pulse-controlled circuit is a type of switch used in electronic devices such as oscilloscopes, where a single pulse causes the circuit to switch and then maintain its state until another pulse is received. The circuit has a resistance R and counter emf E load 400 sin(314 t) as the source voltage.\n\nNext, we need to determine the range of firing angle control. Firing angle control is the angle between the pulse and the trailing edge of the switch voltage. We know that the counter emf load is 200 V, which means that the switch voltage should be 200 V when the load counter emf is 200 V.\n\nTo determine the firing angle control, we need to find the angle that satisfies the condition that the switch voltage is 200 V when the load counter emf is 200 V. We can use the equation:\n\nV = R \u00d7 I\n\nwhere V is the voltage, R is the resistance, and I is the current. We can assume that the current is small enough to be ignored, since we are interested only in the range of firing angle control.\n\nV = 200\nR = R\nV = 200/R\n\nLooking at the source voltage, we see that it is 400 sin(314 t). We can express this in terms of the resistance R by using the equation:\n\nE = IR\n\nR = E/I\n\nR = 400/(314)\nR = 139.514\n\nSubstituting this value of R into the equation for the switch voltage, we get:\n\n200/139.514 = V\n\nV = 1.406\n\nThis means that the switch voltage is 1.406 times the counter emf load of 200 V. To determine the firing angle control, we need to find the angle between the pulse and the trailing edge of the switch voltage when the load counter emf is 1.406 times the switch voltage.\n\nLooking at the sin(314 t) term in the source voltage, we see that it is a cosine function. The sine function is equal to the cosine function with an offset of 90 degrees, so we can rewrite the source voltage as:\n\nV = 400 cos(90 t)\n\nNow we can find the angle between the pulse and the trailing edge of the switch voltage when the load counter emf is 1.406 times the switch voltage. Let's assume that the firing angle control is x degrees. We know that the pulse is at t = 0, so the trailing edge of the switch voltage is at t = (1.406 - 0)/1.406. This simplifies to t = 1.406/1.406 = 1, so the trailing edge of the switch voltage is at t = 1.406/1.406 = 1.\n\nTherefore, the range of firing angle control is:\n\n304 degrees = 2\u03c0 x x\n\nx = 65.072 degrees\n\nSo the answer is (D) 60\u00b0 to 180\u00b0. ###",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "A box which tells the effect of inputs on control sub system is known as\n\n(A) Data Box.\n(B) Logical box.\n(C) Decision box.\n(D) State box.",
+            "correct_answer": 2,
+            "model_answer": "The correct answer is (C) Decision box.\n\nA decision box is a graphical representation of a decision-making process in a control system. It shows the relationship between the inputs and outputs of the control system. The decision box is used to ensure that the control system is operating correctly by identifying any potential problems or points of concern. It allows engineers to analyze the inputs and outputs of the control system and make decisions about how to optimize its performance. Therefore, a box which tells the effect of inputs on control sub system is known as a Decision box, not a Data Box, Logical Box, or State Box. ###",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "Two infinite parallel metal plates are charged with equal surface charge density of the same polarity. The electric field in the gap between the plates is\n\n(A) same as that produced by one plate.\n(B) double the field produced by one plate.\n(C) dependent on coordinates of field points.\n(D) zero.",
+            "correct_answer": 3,
+            "model_answer": "The electric field in the gap between the plates is the difference between the electric fields produced by each plate. Since the plates are parallel and of the same polarity, the electric fields produced by each plate will be equal and opposite to each other. Therefore, the difference between the electric fields will be zero, which means the electric field in the gap between the plates is also zero. \n\nAnswer: (D) zero. ###",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "The resistance in the circuit of the moving coil of a dynamometer wattmeter should be\n\n(A) Low.\n(B) Very low.\n(C) High.\n(D) Almost zero.",
+            "correct_answer": 2,
+            "model_answer": "The resistance in the circuit of the moving coil of a dynamometer wattmeter should be high. \n\nThe reason for this is that a high resistance in the circuit allows for a greater voltage difference to be developed between the positive and negative terminals of the capacitor, which in turn results in a greater current flow through the coil. This increase in current flow is what causes the coil to move and generates the voltage being measured by the dynamometer wattmeter. Therefore, a low or very low resistance would not allow for enough current flow to generate the high voltage needed for accurate measurement, while a very high resistance would cause too much current loss and reduce the accuracy of the measurement. ###",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "The following are the necessary requirements of an oscillator\n\n(A) Amplitude stability\n(B) Frequency stability\n(C) Power stability\n(D) Both A and B",
+            "correct_answer": 3,
+            "model_answer": "The necessary requirements for an oscillator are amplitude stability, frequency stability, and power stability. \n\nAmplitude stability refers to the ability of the oscilloscope to maintain a constant amplitude over time. This is important for the accurate representation of the waveform on the oscilloscope. \n\nFrequency stability refers to the ability of the oscilloscope to maintain a constant frequency over time. This is important for the accurate measurement of the frequency of the waveform being analyzed. \n\nPower stability refers to the ability of the oscilloscope to maintain a constant power output over time. This is important for the accurate measurement of the power being consumed by the circuit being analyzed. \n\nTherefore, both A and B are necessary requirements for an oscillator. The final answer is (D). ###",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "The normal voltage used in directional heating is\n\n(A) 1.5 KV.\n(B) 15 KV.\n(C) 33 KV.\n(D) 66 KV.",
+            "correct_answer": 0,
+            "model_answer": "Before answering the question, let's define what directional heating is. Directional heating is a method of heating a specific direction or area without heating the surrounding area. This is achieved by using a higher voltage in that direction than in other directions.\n\nNow, to answer the question, we need to determine the normal voltage used in directional heating. The voltage used in directional heating is typically a multiple of the voltage used in surrounding areas. Therefore, we can eliminate options (A), (C), and (D) as they are not commonly used voltages in directional heating.\n\nOption (B) is a common voltage used in directional heating. Therefore, the correct answer is (B). ###",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "LC oscillators are used for produce a waveform with frequency ranging from\n\n(A) 1MHz to 500 MHz\n(B) 100 KHz to 500 MHz\n(C) 1 KHz to 1 MHz\n(D) 1MHz to 100 GHz",
+            "correct_answer": 0,
+            "model_answer": "The question is asking about the frequency range of intermittent oscillators or LC oscillators. LC oscillators are electronic circuits that use a capacitor and an inductor to produce a rhythmic electronic signal. The frequency range of an LC oscillator depends on the values of the capacitor and inductor used in the circuit. \n\nIn the given options, option (A) states that the frequency range of LC oscillators is from 1 MHz to 500 MHz. This seems to be an exaggerated range of frequency for a typical LC oscillator circuit. Therefore, option (A) is not correct.\n\nOption (B) states that the frequency range of LC oscillators is from 100 KHz to 500 MHz. This is still a relatively high range of frequency, but it is not as exaggerated as option (A). Therefore, option (B) could be a possible answer.\n\nOption (C) states that the frequency range of LC oscillators is from 1 KHz to 1 MHz. This is a relatively low range of frequency for an LC oscillator circuit. Therefore, option (C) is not a possible answer.\n\nOption (D) states that the frequency range of LC oscillators is from 1 MHz to 100 GHz. This is an even more exaggerated range of frequency than option (A). Therefore, option (D) is not a possible answer.\n\nBased on this reasoning, the answer is (B) 100 KHz to 500 MHz. ###",
+            "correct": false
+        }
+    ]
+}

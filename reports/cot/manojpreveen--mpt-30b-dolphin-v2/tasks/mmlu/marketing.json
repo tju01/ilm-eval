@@ -1,0 +1,75 @@
+{
+    "score": 0.3,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "This is a hierarchy of effects or sequential model used to explain how advertising works:\n\n(A) ADD.\n(B) AIDA.\n(C) PESTLE.\n(D) SWOT.",
+            "correct_answer": 1,
+            "model_answer": "The correct answer is (B) AIDA. \n\nThis acronym stands for the hierarchy of effects or sequential model used to explain how advertising works. The AIDA model is widely used in advertising and refers to the four major advertising effects: awareness, interest, desire, and action. \n\nThe first effect of advertising is awareness, where the ad gets the attention of the consumer and makes them aware of the product or service being advertised. The second effect is interest, where the ad creates a desire or curiosity in the consumer to learn more about the product or service. The third effect is desire, where the ad convinces the consumer that they need or want the product or service. The final effect is action, where the consumer takes a specific action, such as purchasing the product or service. \n\nTherefore, the correct answer is (B) AIDA, which refers to the hierarchy of effects used to explain how advertising works. ###",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": " _____________is an important element in the communication process. It recognizes that successful communications are more likely to be achieved if the source and the receiver understand each other.\n\n(A) The realm of understanding.\n(B) Personal selling.\n(C) Noise.\n(D) Feedback.",
+            "correct_answer": 0,
+            "model_answer": "The answer is (D) Feedback. Feedback is an important element in the communication process because it recognizes that successful communications are more likely to be achieved if the source and the receiver understand each other. Feedback provides a way for the receiver to clarify their understanding of the message and to express their thoughts and feelings. It also allows the sender to correct any misunderstandings and adjust their message accordingly. Therefore, feedback is crucial for effective communication. ###",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "In the history of marketing, when did the production period end?\n\n(A) In the late 1800s.\n(B) In the early 1900s.\n(C) In the 1920s.\n(D) After the end of the Second World War.",
+            "correct_answer": 2,
+            "model_answer": "The production period in marketing refers to the time period during which goods are produced and made ready for sale. No single event can be pinpointed as the end of the production period in marketing. It has evolved over time, with advancements in technology and changes in consumer preferences. However, in recent times, the production period has become shorter due to advancements in technology and supply chain management. Therefore, the answer to the question cannot be given as a single letter, but rather as follows: The production period in marketing has evolved over time and has become shorter in recent times due to advancements in technology and supply chain management. ###",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "The extent to which a service envelops a product varies according to a number of factors. Which of the following is NOT one of the factors?\n\n(A) The level of tangibility associated with the type of product.\n(B) Performance-value.\n(C) Variations in supply and demand.\n(D) The way in which the service is delivered.",
+            "correct_answer": 1,
+            "model_answer": "The answer is (B) Performance-value. \n\nPerformance-value is a measure of the ratio of the perceived benefits of a service to its cost. It is not a factor that affects the extent to which a service envelops a product. \n\nThe factors that can affect the extent to which a service envelops a product are the level of tangibility associated with the type of product, variations in supply and demand, and the way in which the service is delivered. \n\nThe level of tangibility associated with the type of product refers to the physicality of the product and how much it can be touched, seen, or tasted before it is purchased. For example, physical products like cars or electronics have a high level of tangibility, while products like web hosting or online courses have a lower level of tangibility.\n\nVariations in supply and demand refer to the differences in the amount of the product that is available for purchase and the number of people who want to purchase it. This can affect pricing, sales, and service delivery.\n\nThe way in which the service is delivered refers to the methods used by the service provider to deliver the service to the customer. This can include the type of delivery channel, the level of automation, and the level of personalization. ###",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "The owners of independent gasoline stations in a community meet secretly and agree to keep their prices high to protect their profitability. If their plan is discovered and they are charged with a crime, they could be\n\n(A) found guilty under the Sherman Antitrust Act and face prison time\n(B) found guilty under the Magnuson-Moss Warranty Act and face large fines\n(C) found guilty under the Adamson Act and face prison time and fines\n(D) found not guilty because retailers are allowed to set their own price levels",
+            "correct_answer": 0,
+            "model_answer": "The owners of independent gasoline stations who agree to keep their prices high to protect their profitability could be found guilty under the Sherman Antitrust Act (rule of reason exception) and face prison time. Therefore, the answer is (A). The Sherman Antitrust Act prohibits conspiracies, including price fixing, in which competitors agree to restrict competition or fix prices. The owners of gasoline stations in this scenario have violated the Act, which mandates that companies must act individually and not collude with each other to set prices. This violates the rule of reason exception, which states that if the restraint is not reasonably necessary to protect against anticompetitive harm, it is considered unlawful. Therefore, the owners of gasoline stations who have conspired to keep their prices high could face prison time for violating the Sherman Antitrust Act. ###",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": " The term 'marketing mix' describes:\n\n(A) A composite analysis of all environmental factors inside and outside the firm.\n(B) A series of business decisions that aid in selling a product.\n(C) The relationship between a firm's marketing strengths and its business weaknesses.\n(D) A blending of four strategic elements to satisfy specific target markets.",
+            "correct_answer": 3,
+            "model_answer": "The term 'marketing mix' refers to a blending of four strategic elements to satisfy specific target markets. This includes product development, price, promotion, and place. Therefore, option (D) is the correct answer. \n\nOption (A) is incorrect because it describes a broader concept that includes not only marketing but also all other factors affecting a firm's decisions. \n\nOption (B) is partially correct, but it only refers to one aspect of the marketing mix. While pricing is a part of the marketing mix, it also includes product development, promotion, and place. \n\nOption (C) is incorrect because it describes the relationship between a firm's marketing strengths and weaknesses, but it is not related to the marketing mix. ###",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "__________ have the potential to control the type and flow of information to the organization and the members of the DMU.\n\n(A) Gatekeepers.\n(B) Buyers.\n(C) Users.\n(D) Initiators.",
+            "correct_answer": 0,
+            "model_answer": "The answer is (A) Gatekeepers. \n\nThe sentence is talking about individuals or groups who have the ability to control the type and flow of information within an organization. The term \"member of the DMU\" suggests that this refers to a specific organization or unit within an organization. The options given are gatekeepers, buyers, users, and initiators. \n\nGatekeepers are typically individuals who control access to information or resources, such as security personnel, receptionists, or HR recruiters. Buyers are individuals who purchase goods or services, which is not relevant to the context of the sentence. Users are individuals who interact with a product or service, also not relevant to the context of the sentence. Initiators are individuals who start a process or activity, but this is not relevant to the context of the sentence either. \n\nTherefore, the correct answer is (A) Gatekeepers. ###",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": " An imbalance between a consumer's actual and desired state in which recognition that a gap or problem needs resolving is called:\n\n(A) Motive development.\n(B) An attitude.\n(C) A self-concept.\n(D) Product evaluation.",
+            "correct_answer": 0,
+            "model_answer": "The answer is (C) A self-concept.\n\nAn imbalance between a consumer's actual and desired state is a subjective experience of a gap or problem that needs resolving. This is related to the consumer's perception of their own self-concept, which is how they think of themselves and their capabilities. If a consumer perceives a gap between their actual and desired self-concept, they may experience a need to resolve that gap in order to maintain their sense of self-esteem and satisfaction. Therefore, the term that describes this situation is self-concept. \n\nMotive development refers to the process of developing a reason or purpose for doing something. An attitude refers to a general feeling or leaning towards something or someone. Product evaluation refers to the process of evaluating a product based on its features and benefits. ###",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": " Which of the following is not an element of the marketing mix?\n\n(A) Promotion.\n(B) Product.\n(C) Target market.\n(D) Pricing.",
+            "correct_answer": 2,
+            "model_answer": "The marketing mix consists of the four Ps: Product, Price, Promotion, and Place. \n\n(A) Promotion is an element of the marketing mix, so it is not the answer. \n\n(B) Price is an element of the marketing mix, so it is not the answer. \n\n(C) Target market is an element of the marketing mix, so it is not the answer. \n\nTherefore, the answer is (D) Pricing. ###",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": " Providing free samples of perfumes (scent) in magazines is an example of which of the following?\n\n(A) Classical conditioning.\n(B) Operant conditioning.\n(C) Social learning.\n(D) Behavioural learning.",
+            "correct_answer": 0,
+            "model_answer": "The correct answer is (B) Operant conditioning.\n\nUnlike classical conditioning, which focuses on the learning of reflexive behaviors, operant conditioning involves the learning of goal-directed behaviors that are driven by reinforcers. In this case, providing free samples of perfumes in magazines serves as a reinforcer that motivates individuals to purchase the products. As a result, the behavior of purchasing the perfumes becomes habit-like and conditioned. Therefore, the correct answer is (B) Operant conditioning. ###",
+            "correct": false
+        }
+    ]
+}

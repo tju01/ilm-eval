@@ -1,0 +1,75 @@
+{
+    "score": 0.2,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "In a Robertsonian translocation fusion occurs at the:\n\n(A) telomeres.\n(B) centromeres.\n(C) histones.\n(D) ends of the long arms.",
+            "correct_answer": 1,
+            "model_answer": "The correct answer is (B) centromeres.\n\nExplanation: Robertsonian translocation is a type of fusion that occurs between the centromeres of two non-homologous chromosomes. This is a rare event where the centromeres of two chromosomes break and exchange genetic material, resulting in two daughter cells with an extra chromosome. Therefore, option (B) centromeres is the correct answer. The other options are not relevant to the process of Robertsonian translocation. Telomeres are the protective caps at the end of chromosomes, while histones are proteins that help in packing and organizing DNA. The long arms of chromosomes do not play a role in Robertsonian translocation. ###",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "Zinc finger proteins and helix-turn-helix proteins are\n\n(A) types of DNA-binding proteins\n(B) involved in the control of translation\n(C) components of ribosomes\n(D) part of the hemoglobin in blood cells",
+            "correct_answer": 0,
+            "model_answer": "The correct answer is (A) types of DNA-binding proteins.\n\nZinc finger proteins and helix-turn-helix proteins are both types of transcription factors that bind specifically to DNA sequences. They play important roles in regulating gene expression and development. Zinc finger proteins are found in many organisms, including humans, while helix-turn-helix proteins are primarily found in eukaryotes. Therefore, options (B), (C), and (D) are incorrect. ###",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "If the frequency of males affected with an X-linked recessive condition in a human population is .10 (one in ten), what will be the expected frequency of affected females?\n\n(A) 0.01\n(B) 0.001\n(C) 0.02\n(D) 0.0001",
+            "correct_answer": 0,
+            "model_answer": "The frequency of males affected with an X-linked recessive condition in a human population is given as 0.10 (one in ten). \n\nTo find the expected frequency of affected females, we can use the following formula:\n\nExpected frequency of affected females = 2 x frequency of affected males - frequency of affected females\n\nIn this case, we don't know the frequency of affected females, but we can assume it to be set to 0. Then, plugging in the known values, we get:\n\nExpected frequency of affected females = 2 x 0.10 - 0\n= 0.20 - 0\n0.20\n\nTherefore, the expected frequency of affected females is 0.20 or 20%. \n\nNone of the options given match this answer. ###",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "In DNA adenine normally pairs with:\n\n(A) cytosine.\n(B) guanine.\n(C) thymine.\n(D) uracil.",
+            "correct_answer": 2,
+            "model_answer": "A step-by-step explanation of how to answer this question:\n\n1. Adenine (A) is one of the four nitrogenous bases found in DNA.\n2. The complementary base of A is T (thymine).\n3. However, during DNA replication, an enzyme called DNA polymerase accidentally adds a different base called G (guanine) instead of T.\n4. This is known as a slip or substitution error.\n5. This substitution error occurs between the third and fourth carbon atoms of the purine ring.\n6. This results in an AG base pair, where A is adenine and G is guanine.\n7. AG pairing has a lower stability than AT pairing, which means it is less likely to occur.\n8. Therefore, in DNA, adenine normally pairs with T (thymine), not G (guanine).\n\nThe answer is: (T). ###",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "The pattern of inheritance shown by malignant hyperthermia (hyperpyrexia) is:\n\n(A) autosomal dominant.\n(B) autosomal recessive.\n(C) X-linked dominant.\n(D) X-linked recessive.",
+            "correct_answer": 0,
+            "model_answer": "The inheritance pattern of malignant hyperthermia is described as X-linked recessive. \n\nMalignant hyperthermia is a condition that affects the muscles during anesthesia and induction of anesthesia. To understand the inheritance pattern of this condition, we need to consider the multiplication of cells during sexual reproduction.\n\nIn sexual reproduction, both parents contribute genetic material to their offspring. The genetic material is combined in a specific pattern that determines the traits of the offspring. There are two types of genetic inheritance: autosomal inheritance and sex-linked inheritance (X-linked and Y-linked).\n\nAutosomal inheritance refers to the inheritance of genes located on chromosomes other than sex chromosomes (X and Y). Genes inherited through autosomal inheritance can be either dominant or recessive. Dominant genes express their traits, while recessive genes do not express their traits unless two copies of the recessive gene are present.\n\nSex-linked inheritance, on the other hand, refers to the inheritance of genes located on sex chromosomes (X and Y). Sex chromosomes carry genes that determine sexual traits, such as the presence of male or female reproductive organs. Genes of sex-linked inheritance are sex-specific, meaning they differ between the X and Y chromosomes. Sex-linked genes can be either dominant or recessive, just like autosomal genes.\n\nMalignant hyperthermia is a condition caused by a lack of calcium channels in muscle cells. It is inherited as an X-linked recessive condition. This means that the gene responsible for malignant hyperthermia is located on the X chromosome. To be diagnosed with malignant hyperthermia, an individual must have two copies of the mutated gene (one from each parent).\n\nIn summary, the inheritance pattern of malignant hyperthermia is X-linked recessive, meaning that the condition is determined by a gene located on the X chromosome and requires two copies of the mutated gene for a diagnosis. ###",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "Mapping of human chromosomes:\n\n(A) has been restricted to the sex chromosomes because of small family sizes\n(B) proceeded much more successfully as large numbers of DNA markers became available.\n(C) has determined that the number of linkage groups is about twice the number of chromosomes\n(D) has demonstrated that almost all of the DNA is involved in coding for genes",
+            "correct_answer": 1,
+            "model_answer": "The answer is (D) has demonstrated that almost all of the DNA is involved in coding for genes.\n\nExplanation: \n- (A) is incorrect because the mapping of human chromosomes has not been restricted to the sex chromosomes due to small family sizes. This assumption is not true for all species of organisms.\n- (B) is incorrect because the mapping of human chromosomes has not proceeded much more successfully as large numbers of DNA markers became available. This statement is not necessarily true for all organisms.\n- (C) is incorrect because the number of linkage groups is not directly related to the physical number of chromosomes. Linkage groups are regions of chromosomes that are inherited together, but this does not equate to the number of chromosomes.\n- (D) is the correct answer because mapping of human chromosomes has demonstrated that almost all of the DNA is involved in coding for genes. This is known as the gene density, which is the amount of DNA that codes for genes per unit of physical DNA. Thus, the majority of DNA is dedicated to encoding genes. ###",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Intergenerational transmission to offspring can occur as a result of parental exposures to ______.\n\n(A) war\n(B) natural disasters\n(C) hunger\n(D) all of these",
+            "correct_answer": 3,
+            "model_answer": "The correct answer is (A) war.\n\nHere's the reasoning behind this answer:\n\n1. The question is asking about intergenerational transmission to offspring, which means that the transmission of something from one generation to the next.\n2. The focus of the question is on what can cause this transmission.\n3. The answer choices are: war, natural disasters, hunger, and all of these.\n4. Eliminating the answer choices that are unlikely to cause intergenerational transmission to offspring, we have war and natural disasters.\n5. While hunger can be a factor in the development of health problems, it is not a direct cause of intergenerational transmission.\n6. Therefore, the correct answer is (A) war. ###",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Asp235Phe in a molecular report indicates that:\n\n(A) asparagine has been replaced by phenylalanine.\n(B) phenylalanine has been replaced by asparagine.\n(C) aspartic acid has been replaced by phenylalanine.\n(D) phenylalanine has been replaced by aspartic acid.",
+            "correct_answer": 2,
+            "model_answer": "The first step is to understand the chemical structure of Asp235Phe. Aspartate is a five-membered amino acid, consisting of a carboxyl group (-COOH), a hydroxyl group (-OH), and an amino group (-NH2), attached to a four-carbon alpha carbon. Phenylalanine is a six-membered amino acid, consisting of a carboxyl group (-COOH), a hydroxyl group (-OH), and an amino group (-NH2), attached to a six-carbon alpha carbon, together with a benzene ring.\n\nGiven that Asp235Phe is in a molecular report, it is likely that it refers to a molecule or a protein. However, since the report is molecular, it is likely that the molecule or protein contains amino acids, which are the building blocks of proteins.\n\nSecond, we need to determine which amino acid has been replaced by Asp235Phe. Since the abbreviation Asp235Phe is used to refer to a specific amino acid in the report, we can assume that it is being used as an abbreviation for a modified amino acid.\n\nThe modified amino acid is either Asp or Asn, as further indicated in the question. The abbreviation Asp is used to refer to the carboxyl group (-COOH) of aspartate, while Asn is used to refer to asparagine, which is formed by the addition of a methylene group (-CH2-) to Asp.\n\nTherefore, the answer is (A) asparagine has been replaced by phenylalanine, or (B) phenylalanine has been replaced by asparagine. However, since SAP codes are not reversible, we can only be certain that one of the amino acids has been replaced by the other. ###",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "The risk of abnormality in the child of a mother with untreated phenylketonuria is:\n\n(A) 1%\n(B) 10%\n(C) 25%\n(D) Almost 100%",
+            "correct_answer": 3,
+            "model_answer": "The correct answer is (D) Almost 100%.\n\nExplanation:\nPhenylketonuria (PKU) is a genetic disorder that affects the metabolism of the amino acid phenylalanine. If a mother with untreated PKU has a child, the child has a 25% chance of inheriting the disease. Untreated PKU can cause severe mental and physical disabilities in the child. Therefore, the risk of abnormality in the child of a mother with untreated PKU is almost 100%. ###",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Exon skipping is associated with:\n\n(A) nonsense mutations.\n(B) regulatory mutations.\n(C) RNA processing mutations.\n(D) silent mutations.",
+            "correct_answer": 2,
+            "model_answer": "Exon skipping occurs when the RNA transcript fails to include exons, resulting in the exclusion of certain parts of the mRNA. This can lead to changes in the protein sequence encoded by the mRNA. \n\nNonsense mutations are mutations that result in the insertion of a stop codon, which causes the protein to be truncated. Regulatory mutations are mutations that alter the activity of regulatory elements in the DNA sequence flanking the exon. RNA processing mutations are mutations that affect the processing of RNA molecules, such as splicing. Silent mutations are mutations that do not affect the amino acid sequence of the protein.\n\nBased on this information, we can conclude that exon skipping is associated with RNA processing mutations, which is option (C). Therefore, the answer is (C). ###",
+            "correct": true
+        }
+    ]
+}

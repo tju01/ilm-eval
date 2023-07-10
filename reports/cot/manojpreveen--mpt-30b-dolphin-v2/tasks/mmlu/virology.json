@@ -1,0 +1,75 @@
+{
+    "score": 0.4,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "How many human polyomaviruses are known at present?\n\n(A) 100\n(B) 1\n(C) 10\n(D) unknown",
+            "correct_answer": 0,
+            "model_answer": "The answer is (D) unknown. \n\nHere's the reasoning step-by-step:\n\n1. The question is asking for a specific number of human polyomaviruses.\n2. According to the information provided on the World Health Organization (WHO) website, there is only one known human polyomavirus. \n3. Therefore, options (B) and (C) are incorrect.\n4. Option (A) is also incorrect as it suggests that there are 100 human polyomaviruses known, while there is only one.\n5. The most accurate answer is (D) unknown, as there is only one known human polyomavirus, and we don't have any additional information that suggests there are any other human polyomaviruses. ###",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "AIDS activism in the U.S. resulted in:\n\n(A) Food and Drug Administration reforms\n(B) Easier access to investigational drugs\n(C) Changes in the way medicine was practiced in the U.S.\n(D) All of the above",
+            "correct_answer": 3,
+            "model_answer": "First, we need to understand what AIDS activism is. AIDS activism refers to the efforts made by individuals and organizations to raise awareness about AIDS, improve treatment options, and advocate for policy changes to address the epidemic. \n\nNext, we need to consider the impact of AIDS activism in the U.S. AIDS activism in the U.S. had a significant impact on the way medicine was practiced in the U.S. This was evidenced by the emergence of community-based research and advocacy organizations that challenged the scientific and political establishment's response to the epidemic. Additionally, AIDS activism led to changes in the way medicine was practiced in the U.S. by promoting a patient-centered approach to healthcare that prioritized the needs and experiences of people living with HIV/AIDS.\n\nFurthermore, AIDS activism in the U.S. did not directly result in Food and Drug Administration reforms or easier access to investigational drugs. However, it did contribute to broader policy changes that improved access to and the quality of healthcare for people living with HIV/AIDS.\n\nTherefore, the answer is (C) Changes in the way medicine was practiced in the U.S. (D) could also be a correct answer as both options accurately reflect the impact of AIDS activism in the U.S. ###",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "Globally, the most deaths are caused by:\n\n(A) Respiratory infections\n(B) Diarrheal diseases\n(C) Malaria\n(D) Tuberculosis",
+            "correct_answer": 1,
+            "model_answer": "To determine the correct answer, we need to gather information about the leading causes of global deaths. \n\nStep 1: Research the leading causes of global deaths\nAccording to the World Health Organization (WHO), as of 2021, the leading causes of global deaths are mainly non-communicable diseases (NCDs) such as cardiovascular diseases, chronic respiratory diseases, and cancers. These NCDs are responsible for more than two-thirds (69%) of all deaths worldwide.\n\nStep 2: Look for the specific options given\nThe question asks about the most deaths caused by respiratory infections, diarrheal diseases, malaria, and tuberculosis. \n\nStep 3: Eliminate unlikely options\nOut of the given options, respiratory infections and diarrheal diseases are both NCDs, so they are likely candidates. However, since the question asks for the most deaths, we can eliminate respiratory infections as an option since it is not mentioned as one of the primary causes of global deaths according to the WHO.\n\nStep 4: Consider the remaining option\nNow we are left with two options: diarrheal diseases and malaria. \n\nStep 5: Verify the information\nFurther research confirms that diarrheal diseases are a significant cause of deaths worldwide, particularly in low-income countries. However, malaria, caused by the Plasmodium parasite, is also a leading cause of global deaths in certain regions, primarily in sub-Saharan Africa.\n\nStep 6: Determine the correct answer\nGiven the information gathered, the most deaths globally are caused by both diarrheal diseases and malaria. Therefore, the correct answer is (A) Respiratory infections and (C) Malaria.\n\nTherefore, the answer is: (A) Respiratory infections and (C) Malaria. ###",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "What happens during the 'incubation period'?\n\n(A) The virus is cleared from the body by the immune system\n(B) Virus replication happens at an intracellular level\n(C) This period commonly lasts for a few days\n(D) This period commonly lasts for a few hours",
+            "correct_answer": 1,
+            "model_answer": "During the incubation period, the virus replicates at an intracellular level (not between cells) and the immune system does not clear the virus from the body. This period commonly lasts for a few days and not a few hours. Therefore, the answer is (B) Virus replication happens at an intracellular level. ###",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "Newborn infants in countries with limited access to safe water and low levels of education should be:\n\n(A) Exclusively formula fed for six months\n(B) Exclusively breast fed for six months\n(C) Should receive both breast milk and other foods as tolerated in the first 6\n(D) months",
+            "correct_answer": 1,
+            "model_answer": "The correct answer is (D) six months. \n\nNewborn infants should be breast-fed for six months. This is recommended by the World Health Organization (WHO) and the American Academy of Pediatrics (AAP). The reasons for this recommendation are that breast milk provides antibodies that protect infants from infections and diseases, and it helps infants grow and develop properly. Formula milk, on the other hand, lacks these benefits and can be a risk factor for certain health problems if used too early or exclusively. \n\nTherefore, infants in countries with limited access to safe water and low levels of education should be given the best possible nutrition, which is breast milk. If breastfeeding is not an option or not possible, then formula milk can be used, but it should be used in combination with other foods. ###",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "Achieving effective change in a community is usually dependent on which of the following segments of society?\n\n(A) Innovators\n(B) Early adapters\n(C) Middle adapters\n(D) Late adapters",
+            "correct_answer": 0,
+            "model_answer": "To answer this question, we need to understand the different adopter types and how they relate to creating effective change in a community. The different adopter types are innovators, early adopters, middle adopters, and late adopters.\n\nInnovators are individuals who are early adopters of new technologies, ideas, or practices. They are typically the driving force behind creating new trends and innovations. Innovators are often leaders in their communities and are known for their creativity and willingness to take risks.\n\nEarly adopters are individuals who are the first to adopt new technologies, ideas, or practices. They are often the second group of adopters to follow innovators. Early adopters are typically influential individuals in their communities and are known for their ability to communicate the benefits of new ideas to others.\n\nMiddle adopters are individuals who adopt new technologies, ideas, or practices after early adopters. They are often the largest group of adopters and are known for their cautious and practical approach to new ideas. Middle adopters are often more resistant to change than other types of adopters.\n\nLate adopters are individuals who adopt new technologies, ideas, or practices after middle adopters. They are often the last group of adopters and are known for their skepticism and resistance to new ideas.\n\nBased on this understanding, it is clear that achievement of effective change in a community is usually dependent on innovators and early adopters. Therefore, the correct answer to the question is (A) Innovators and (B) Early adopters. ###",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "\u201cContingency management\u201d is\u201d:\n\n(A) A strategy of last resort for reducing high-risk behaviors\n(B) Paying drug users for negative urine specimens\n(C) Paying sex workers to use condoms\n(D) Paying drug users to use condoms",
+            "correct_answer": 1,
+            "model_answer": "The answer is (A) A strategy of last resort for reducing high-risk behaviors. \n\nSteps of reasoning:\n\n- I understand that the question is asking for the definition of \"Contingency management.\"\n- I recall that \"Contingency management\" is a term used in the field of addiction treatment.\n- I remember that \"Contingency management\" refers to a type of medication-assisted treatment that involves providing high-risk substance users with medication that helps them manage their addiction and avoid relapses.\n- I also recall that \"Contingency management\" is often used as a last resort for individuals who have tried other forms of treatment and have not achieved success.\n- Therefore, I can conclude that (A) A strategy of last resort for reducing high-risk behaviors is the correct answer to the question. ###",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Typical clinical symptoms following infection with astroviruses include which of the following?\n\n(A) Acute pneumonia\n(B) Gastroenteritis in children\n(C) Hepatitis\n(D) rashes",
+            "correct_answer": 1,
+            "model_answer": "Astroviruses are a group of small non-enveloped RNA viruses that can cause a variety of health problems. Some of the typical clinical symptoms following infection with astroviruses include:\n\n(B) Gastroenteritis in children\n\n(D) rashes\n\nAccording to the World Health Organization, astroviruses are responsible for up to 50% of cases of gastroenteritis in children. Additionally, astroviruses can cause other symptoms such as vomiting, diarrhea, and fever. Therefore, options (B) and (D) are correct. ###",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Which of the following is the most special characteristic of the adaptive immune system?\n\n(A) Antibodies\n(B) T cells\n(C) Memory T cells\n(D) Clonal expansion of pre-existing antibodies and/or T cells",
+            "correct_answer": 3,
+            "model_answer": "The most special characteristic of the adaptive immune system is (D) clonal expansion of pre-existing antibodies and/or T cells. This is because the adaptive immune system is a highly specialized system that allows the body to recognize and respond to specific foreign substances, such as viruses or bacteria. When the body encounters a foreign substance, it initiates a series of reactions that lead to the production of specific antibodies and T cells that can recognize and destroy the foreign substance. This process involves clonal expansion, which means that the body produces many copies of the specific antibodies and T cells that are needed to fight off the foreign substance. This allows the immune system to mount a strong and targeted response to the foreign substance, which is why the clonal expansion of pre-existing antibodies and/or T cells is considered the most special characteristic of the adaptive immune system. ###",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "Chemotherapy is now an option for clinical care of patients. Typical drug regimens now include which of the following?\n\n(A) Interferon and ribavirin\n(B) Lamivudine and ribavirin\n(C) Combinations of adefovir and entecavir and/or tenofovir (DAA)\n(D) Interferons alone",
+            "correct_answer": 1,
+            "model_answer": "The correct answer is (B) Lamivudine and ribavirin. \n\nChemotherapy is a treatment that uses drugs to kill cancer cells or slow their growth. While chemotherapy is not the first-line treatment for HIV, it is sometimes used in combination with other therapies. The drugs used in chemotherapy regimens for HIV include nucleoside reverse transcriptase inhibitors (NRTIs) and non-nucleoside reverse transcriptase inhibitors (NNRTIs). \n\nInterferon and ribavirin are used for the treatment of hepatitis B, not HIV. Adefovir and entecavir are NRTIs, but they are not typically used in chemotherapy regimens for HIV. Tenofovir (DAA) is a second-generation NRTI that is not yet approved as a comprehensive HIV joke regimen. \n\nInterferons alone are also not typically used in chemotherapy regimens for HIV. Interferons are cytokines that can stimulate the immune system to fight infections and cancer. However, they are not potent enough to control HIV without combination therapy. \n\nTherefore, the correct answer is (B) Lamivudine and ribavirin, which are both NRTIs that are used in chemotherapy regimens for HIV. ###",
+            "correct": true
+        }
+    ]
+}
