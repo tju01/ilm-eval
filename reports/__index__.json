@@ -1,5 +1,26 @@
 [
     {
+        "model_type": "open-assistant",
+        "model_name": "theblackcat102/starcoder-oasst-2k",
+        "benchmarks": [
+            "human-eval-plus"
+        ]
+    },
+    {
+        "model_type": "open-assistant",
+        "model_name": "theblackcat102/starcoder-oasst-3.5k",
+        "benchmarks": [
+            "human-eval-plus"
+        ]
+    },
+    {
+        "model_type": "open-assistant",
+        "model_name": "theblackcat102/starcoder-oasst-3k",
+        "benchmarks": [
+            "human-eval-plus"
+        ]
+    },
+    {
         "model_type": "fastchat",
         "model_name": "lmsys/vicuna-33b-v1.3",
         "benchmarks": [
