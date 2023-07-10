@@ -18,6 +18,7 @@ from evaluation.models.falcon_instruct import FalconInstruct
 from evaluation.models.alpaca_without_prefix import AlpacaWithoutPrefix
 from evaluation.models.alpaca_with_prefix import AlpacaWithPrefix
 from evaluation.models.chatml import ChatML
+from evaluation.models.mpt_dolphin import MPTDolphin
 
 def replace_model_name_slashes(model_name: str) -> str:
     """
@@ -41,6 +42,7 @@ def get_model_class(model_type: str):
         'alpaca-without-prefix': AlpacaWithoutPrefix,
         'alpaca-with-prefix': AlpacaWithPrefix,
         'chatml': ChatML,
+        'mpt-dolphin': MPTDolphin,
     }
 
     if model_type in model_classes:
