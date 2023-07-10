@@ -3,6 +3,7 @@
         "model_type": "mpt-dolphin",
         "model_name": "manojpreveen/mpt-30b-dolphin-v2",
         "benchmarks": [
+            "openai-evals",
             "human-eval-plus",
             "cot"
         ]
