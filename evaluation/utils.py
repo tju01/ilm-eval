@@ -63,6 +63,8 @@ def get_dtype(model_name: str):
     return get_config_dict(model_name).torch_dtype
 
 def is_vllm_supported(model_name: str):
+    if model_name.startswith('theblackcat102/starcoder-oasst'):
+        return False # vLLM can't deal with the "training_args.bin" file
     model_type = get_config_dict(model_name).model_type
     if model_type in ['llama', 'gpt_neox', 'gpt_bigcode', 'mpt']:
         return True
