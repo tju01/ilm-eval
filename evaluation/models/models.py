@@ -1,3 +1,4 @@
+import os
 import multiprocessing.pool
 
 import torch
@@ -7,6 +8,7 @@ import tqdm
 import evaluation.models.fastchat
 import evaluation.models.huggingface_backends.hf_transformers
 import evaluation.models.huggingface_backends.vllm
+import evaluation.models.huggingface_backends.tgi
 from evaluation.models.open_ai import OpenAI
 from evaluation.models.fastchat import Fastchat
 from evaluation.models.open_assistant import OpenAssistant
@@ -63,6 +65,28 @@ def is_vllm_supported(model_name: str):
 
     raise
 
+def is_tgi_supported(model_path: str):
+    return model_path in [
+        'OpenAssistant/falcon-40b-sft-mix-1226',
+        'OpenAssistant/falcon-40b-sft-top1-560',
+        'tiiuae/falcon-40b-instruct',
+        'tiiuae/falcon-7b-instruct',
+    ]
+
+def is_tgi_installed():
+    return os.path.exists('text-generation-inference')
+
+def get_huggingface_backend(model_path: str):
+    if is_vllm_supported(model_path):
+        return 'vllm'
+    if is_tgi_supported(model_path):
+        if is_tgi_installed():
+            return 'tgi'
+        else:
+            print('WARNING: The model "' + model_path + '" can be greatly accelerated by text-generation-inference, but it is not installed.')
+            return 'hf_transformers'
+    return 'hf_transformers'
+
 def compute_model_replies(model, conversations):
     if len(conversations) == 0:
         return []
@@ -90,6 +114,7 @@ def switch_gpu_model_type(new_model_type):
         'hf_transformers': evaluation.models.huggingface_backends.hf_transformers.unload_model,
         'vllm': evaluation.models.huggingface_backends.vllm.unload_model,
         'fastchat': evaluation.models.fastchat.unload_model,
+        'tgi': evaluation.models.huggingface_backends.tgi.unload_model,
     }
 
     for model_type, unload_model_function in unload_model_functions.items():
